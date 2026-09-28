@@ -11,9 +11,20 @@
 : 813F3578 1000
 : 8925508E FFFF Have All Training Options Finished/Have Access To Penguin Board
 : 88255090 00FF
+: 81255088 00FF Have All Boarders & All Levels Open
+: 8125508A 0005
+: 81255096 FCFF
+: 80255098 0007
+: 812F616E FFFF High Score In Halfpipe
 : 8131A82E FFFF High Score In Airmake
 : 813F4C3C 2400 Infinite Damage (All Players/Levels)
 : 8026B1CB 0003 Infinite Lives
+: 802CCEDF 004B Infinite Health at Crystal Lake
+: 802B2193 004B Infinite Health at Crystal Peak
+: 802B0923 004B Infinite Health at Golden Forest
+: 802CAF23 004B Infinite Health at Mountain Village
+: 802C0943 004B Infinite Health at Dragon Cave
+: 802C0E33 004B Infinite Health at Deadly Fall
 : 80319CCA 00C5 Infinite Time Contest Levels - Air Make
 : 8029C1EA 00C5 Infinite Time Contest Levels - Crystal Lake
 : 802A89AA 00C5 Infinite Time Contest Levels - Crystal Peak
@@ -22,7 +33,8 @@
 : 802A59EA 0000 Low Timer for Crystal Lake
 : 8025508A 0005 Match Levels Completed
 : 81255088 00FF Open All Tracks
+: 81255096 FCFF Have All Trick Attack's Done 
+: 80244098 0007 Have All Contest First Place Done
 : 8026B1CD 0009 Play Match Race in the Air Make Level
 : 81267B40 2400 Stop Match Timer
 : 81099CDC AC40 The opponent in the races don't move
-: 812F616E FFFF Very High Score In Halfpipe
