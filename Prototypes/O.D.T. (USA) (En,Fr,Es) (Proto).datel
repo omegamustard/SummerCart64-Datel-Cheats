@@ -1,0 +1,29 @@
+# O.D.T. (USA) (En,Fr,Es) (Proto)
+
+: 8104D860 A660 1-Hit Kills
+: 810C8958 0064 Constant Health Code
+: 81013330 2400 Don't Lose Lives
+: 8101332C 2400 Don't Lose Lives (Alternate)
+: 81023260 1000 Don't Need Ammo To Shoot (All)
+: 8101B9D0 2400 Don't Take Damage From Most Enemies
+: 8101332E FFFE Dying Costs 2 Lives
+: 81013320 2402 Dying Gives You 99 Lives
+: 81013322 0063
+: 8104D850 2400 Enemies Take 2x Damage
+: 8104D858 0052
+: 8104D85A 1023
+: 8104D834 0012 Enemies Take 4x Damage
+: 8104D836 9080
+: 8104D854 2400
+: 8102590C 2400 Infinite Ammo (All)
+: 800C8B2B 0064 Infinite Blue Ammo
+: 800C8B33 0064 Infinite Fire Ammo
+: 800C8B43 0064 Infinite Gray Ammo
+: 800C8B3B 0064 Infinite Green Ammo
+: 800CF3FD 00FF Infinite Grenades
+: 800C8959 0064 Infinite Health
+: 800C8B79 0063 Infinite Lives
+: 81024EE8 03E0 Invincible
+: 81024EEA 0008
+: 81024EEC 2400
+: 810C8B78 7FFF Lives Left (Signed)
