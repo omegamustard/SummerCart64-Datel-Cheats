@@ -1,0 +1,22 @@
+# WCW Mayhem (USA)
+
+: F102110C 2400 Master Code
+: F1020BEC 2400
+: F1020BF8 2400
+: 810E3998 0478 Infinite Stamina P1
+: 810E3B34 03ED Infinite Stamina P2
+: 800E399D 0000 Empty Meter Bar P1
+: 800AD80D 0000 Empty Meter Bar P2
+: 800E399D 0060 Full Meter Bar P1
+: 800AD80D 0060 Full Meter Bar P2
+: 810B115A FFFF Have All Cheats/Wrestlers
+: 810B115C FFFF
+: 80319675 0009 Character Creation Max Aerial
+: 8031F5B5 0009 Character Creation Max Brawling
+: 80321575 0009 Character Creation Max Dirtiness
+: 803121B5 0009 Character Creation Max Impact
+: 8031B635 0009 Character Creation Max Mat Ability
+: 803176B5 0009 Character Creation Max Quickness
+: 803156F5 0009 Character Creation Max Speed
+: 802F16F5 0009 Character Creation Max Strength
+: 8031D5F5 0009 Character Creation Max Submission

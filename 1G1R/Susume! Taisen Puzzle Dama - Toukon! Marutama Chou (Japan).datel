@@ -1,0 +1,30 @@
+# Susume! Taisen Puzzle Dama - Toukon! Marutama Chou (Japan)
+
+: 890D2D90 0000 Cheat Device Button to Reset Timer
+: 890D2D92 0000
+: D00D2D5C 0001 Instant 30-Step Chain (P1)
+: 800D2D5C 001E
+: D00D2D5D 0001 Instant 30-Step Chain (P2)
+: 800D2D5D 001E
+: D00C8C65 0020 L-Button for Zendamas (P1)
+: 810D2D98 0808
+: D00C8C6D 0020 L-Button for Zendamas (P2)
+: 810D2D9A 0808
+: 810D2D70 05F5 Max Total Score (P1)
+: 810D2D72 E0FF
+: 810D2D74 05F5 Max Total Score (P2)
+: 810D2D76 E0FF
+: 8106756C 03FF Records - Puzzledama = All Stages Clear
+: 50003C02 0000 Records - Puzzledama Results = 99/0
+: 81067574 6363
+: 50004702 0000
+: 81067604 0000
+: 81067570 03FF Records - Tokkaedama = All Stages Clear
+: 50003C02 0000 Records - Tokkaedama Results = 99/0
+: 81067694 6363
+: 50004702 0000
+: 81067724 0000
+: 800D2D62 00FF Send Max Kougekidamas (P1)
+: 800D2D63 00FF Send Max Kougekidamas (P2)
+: 800D2D62 0000 Send No Kougekidamas (P1)
+: 800D2D63 0000 Send No Kougekidamas (P2)

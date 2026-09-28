@@ -1,0 +1,64 @@
+# Re-Volt (USA)
+
+: F1001E3C 2400 Master Code
+: 8010C1EF 0063 99 Points P1
+: 8010C227 0063 99 Points P2
+: 8010C25F 0063 99 Points P3
+: 8010C297 0063 99 Points P4
+: 80052295 00FF All Cars Go The Maximum Speed
+: 811C0D28 4A70 AMW Accelerates Forever (100mph+)
+: 811C0D28 4A70
+: 81629EF4 080B Opponents can't move/floating in mid-air
+: 81629EF6 FFF4
+: 816FFFD0 8E42
+: 816FFFD2 0368
+: 816FFFD4 3C1B
+: 816FFFD6 8011
+: 816FFFD8 377B
+: 816FFFDA 3200
+: 816FFFDC 1372
+: 816FFFDE 0003
+: 816FFFE4 4480
+: 816FFFE6 1000
+: 816FFFE8 E442
+: 816FFFEC 0808
+: 816FFFEE A7BF
+: 801BEE53 0001 Enable Car Adeon
+: 801C0D47 0001 Enable Car AMW
+: 801BCAF3 0001 Enable Car Aquasonic
+: 801BE57B 0001 Enable Car Bertha Ballistics
+: 801BC21B 0001 Enable Car Candy Pebbles
+: 801C1A8B 0001 Enable Car Clockwork
+: 801C27CF 0001 Enable Car Clockwork
+: 801C1EF7 0001 Enable Car Clockwork Too
+: 801C2363 0001 Enable Car Clockwork Tree
+: 801C0003 0001 Enable Car Cougar
+: 801BD3CB 0001 Enable Car Evil Weasel
+: 801BC687 0001 Enable Car Genghis Kar
+: 801C046F 0001 Enable Car Humma
+: 801BCF5F 0001 Enable Car Mouse
+: 801BE10E 0001 Enable Car NY 54
+: 801C11B3 0001 Enable Car Panga
+: 801BD837 0001 Enable Car Panga Touring
+: 801BE9E7 0001 Enable Car Pest Control
+: 801BF2BF 0001 Enable Car Pole Pos
+: 801BDCA3 0001 Enable Car R6 Turbo
+: 801BBDAF 0001 Enable Car RC San
+: 801BFB97 0001 Enable Car Rotor
+: 801C08BB 0001 Enable Car Toyeca
+: 801C161F 0001 Enable Car Trolley
+: 801BF72B 0001 Enable Car Zipper
+: 800519EF 001F Enable Track Botanical Garden
+: 80051527 001F Enable Track Front End (Crashes In 1-Player Mode)
+: 800516BF 001F Enable Track Ghost Town 1
+: 80051AFF 001F Enable Track Ghost Town 2
+: 800515AF 001F Enable Track Museum 1
+: 80051637 001F Enable Track Museum 2
+: 80051747 001F Enable Track Supermarket 1
+: 80051A77 001F Enable Track Supermarket 2
+: 80051417 001F Enable Track Toy World 1
+: 8005149F 001F Enable Track Toy World 2
+: 800517CF 001F Enable Track Toys In The Hood 1
+: 8005184F 001F Enable Track Toys In The Hood 2
+: 800518DF 001F Enable Track Toytanic 1
+: 80051B87 001F Enable Track Toytanic 2

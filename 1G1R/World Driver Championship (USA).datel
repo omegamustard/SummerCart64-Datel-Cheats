@@ -1,0 +1,63 @@
+# World Driver Championship (USA)
+
+: 8007DDF7 0001 Always one lap to race
+: 810ABFF0 4150 Always Overhead View
+: 810ABFF8 4130
+: 810AC004 4080
+: 800BB2BB 0001 Auto drive
+: 800923DF 0001 Backwards Championship
+: 800ABFF0 0041 Behind The Car View (In High Resolution Mode)
+: 800ABFF1 0040
+: 800ABFF8 0040
+: 800ABFF9 0040
+: 800ABFF8 0040 Camera High And A Fast In Car View
+: 800ABFF9 005F
+: 800ABF44 003F
+: 800ABF45 0020
+: 800ABFF1 0000 On Top Of Car Roof Camera
+: 81037C40 AD60 Opponents don't drive
+: 8100B498 2400 Opponents don't move
+: 80080D93 0001 Race alone
+: 800BB218 0045 Drive Through Walls
+: 800947A9 0001 Enable Track Black Forest A
+: 800947A0 0001 Enable Track Hawaii A + B
+: 800947A8 0001 Enable Track Kyoto A
+: 800947A2 0001 Enable Track Las Vegas A
+: 800947A1 0001 Enable Track Les Gets A
+: 800947A4 0001 Enable Track Lisbon C + CR
+: 800947A3 0001 Enable Track New Zealand A
+: 800947A5 0001 Enable Track Rome A
+: 800947A6 0001 Enable Track Sydney A
+: 800947A7 0001 Enable Track Zurich A
+: 81098900 0101 Enable Car '96 Elan Swift TT C
+: 80098AA4 0001 Enable Car '96 Rage 996 GTR B
+: 80098A40 0001 Enable Car '97 Elan Scorpion A
+: 80098A2C 0001 Enable Car '97 Elan Scorpion B
+: 80098A18 0001 Enable Car '97 Elan Scorpion C
+: 81098914 0101 Enable Car '97 Elan Swift TT B
+: 800989C8 0001 Enable Car '97 Hayai N70 A
+: 800989B4 0001 Enable Car '97 Hayai N70 B
+: 800989A0 0001 Enable Car '97 Hayai N70 C
+: 800989DC 0001 Enable Car '97 Lance Scorcher GT C
+: 81098860 0101 Enable Car '97 Rage 512 EVO B
+: 81098888 0101 Enable Car '97 Reeds R12 Manta C
+: 81098928 0101 Enable Car '98 Elan Swift TT A
+: 81098950 0101 Enable Car '98 Furio LS A
+: 8109893C 0101 Enable Car '98 Furio LS B
+: 80098A04 0001 Enable Car '98 Lance Scorcher GT A
+: 800989F0 0001 Enable Car '98 Lance Scorcher GT B
+: 80098A68 0001 Enable Car '98 McCloud F-Type A
+: 80098A54 0001 Enable Car '98 McCloud F-Type B
+: 80098A7C 0001 Enable Car '98 Panzer Batraye GT B
+: 81098874 0101 Enable Car '98 Rage 512 EVO A
+: 80098AB8 0001 Enable Car '98 Rage 996 GTR A
+: 81098964 0101 Enable Car '98 Ram Venom GTR B
+: 8109889C 0101 Enable Car '98 Reeds R12 Manta B
+: 810988D8 0101 Enable Car '98 Stallion SR B
+: 8109898C 0101 Enable Car '99 EXR Challenger A
+: 80098AE0 0001 Enable Car '99 EXR Mystic A
+: 80098ACC 0001 Enable Car '99 M-K Phantom R A
+: 80098A90 0001 Enable Car '99 Panzer Batraye GT A
+: 81098978 0101 Enable Car '99 Ram Venom GTR A
+: 810988B0 0101 Enable Car '99 Reeds R12 Manta A
+: 810988EC 0101 Enable Car '99 Stallion SR A

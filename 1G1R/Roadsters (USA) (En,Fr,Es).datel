@@ -1,0 +1,17 @@
+# Roadsters (USA) (En,Fr,Es)
+
+: 801E5D55 0000 All Cars Cost $0
+: 811E5D56 0000
+: 800C1ED1 0001 Always First
+: 800C1ED3 0001
+: 800C2001 0005 Cross Line At Start To Win Race
+: 800C2003 0005
+: 810BABFC 000A Easy Win
+: 800BABF5 00FF Infinite Cash
+: 810BABF6 FFFF Infinite Money
+: 810BABF4 7FFF Max Money
+: 810BABF6 FFFF
+: D00C2001 0001 Start On Last Lap/Always Place 1st
+: 800C2001 0005
+: D00C2003 0001
+: 800C2003 0005

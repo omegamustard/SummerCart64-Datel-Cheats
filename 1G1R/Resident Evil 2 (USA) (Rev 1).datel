@@ -1,0 +1,24 @@
+# Resident Evil 2 (USA) (Rev 1)
+
+: EE000000 0000 Enable Code (Must Be On) (Cheat Device 3.2 Or Higher Needed!)
+: F10004F0 2400
+: F10004F4 2400
+: 8108B904 2400 Have 2 Extra Inventory Slots Open
+: 8105AEAC 2400 Hit Anywhere (Bullets)
+: 8108C39C 2400 Infinite Ammo
+: 81059E28 2400 Infinite Health (ASM)
+: 810E1322 00C8 Infinite Health (RAM)
+: 810559C4 2400 Infinite Health Cheat Enabled (ASM)
+: 8010DC37 0001 Infinite Health Cheat Enabled (RAM)
+: 8117D9A2 0000 Infinite Ink Ribbon Usage
+: 8108C940 2400 Infinite Item Usage
+: 8108E968 2400 Item Amount Doesn't Decrease After Combining
+: 810746F8 2400 Leon Can Open Desks Without The Small Key
+: 8012BD90 0011 Leon Starts A New Game With Rocket Launcher Instead Of Handgun
+: 8012BDB1 0011 Claire Starts A New Game With Rocket Launcher Instead Of Handgun
+: 8105B2F4 2400 One Hit Kills
+: D1014FA4 6000 Quick Save Access
+: 810E8928 8007
+: D1014FA4 6000
+: 810E892A 4110
+: 8108C53C 1000 Use Items Without Having Them

@@ -1,0 +1,68 @@
+# Rush 2 - Extreme Racing USA (USA)
+
+: 810C1DD0 FFFF All Keys & Cans (Midway Track)
+: 810C1DD2 FFFF All Keys & Cans (Stunt Track)
+: 800E7D19 0001 Have Midway Track
+: 80112589 0000 Always Place 1st
+: 50000E02 0000 Unlock All Cheats
+: 810C20E8 0101
+: 50001601 0000 Rocket Engine All Cars
+: 800C0C92 0004
+: 8010C200 0001 Stunts All Tracks
+: 880C2132 0001 Cheat Device Button To Activate Cheat Menu
+: 810C1DBC FFFF Extra Cars
+: 810C1DBE FFFF
+: 810C1DC0 FFFF
+: 810C1DC2 FFFF
+: 810C1DC4 FFFF
+: 810C1DC6 FFFF
+: 810C1DC8 FFFF
+: 810C1DCA FFFF
+: 810C1DCC FFFF
+: 800D9E88 0001 Game Timer Off
+: 8010C169 0001 Tag Mode While Playing 2-Player In Practice Mode
+: D00D0193 0010 P1 Super Speed/Super Brake
+: 810F54AC 4519
+: D00D0193 0004
+: 810F54AC 3000
+: D00D0192 0008 P2 Super Speed/Super Brake
+: 810F5CC8 4519
+: D00D0192 0004
+: 810F5CC8 3000
+: 50002C04 0000 Patched Big Tires All Cars
+: 800C0AC5 00FF
+: 50002C04 0000
+: 800C0BCD 00FF
+: D00D0193 0010 Press R For Nitrous Boost
+: 810F58DC 44CB
+: D00D0193 0010
+: 810F5938 44CB
+: D00D0193 0010 Press R to Shrink Car
+: 8010C43C 0001
+: 810C1DCE FFFF Have All Cars In Pipe
+: 8010C168 0001 Auto Abort Disable
+: 80125C64 0001 Brakes Off
+: 8011249A 0001 Car Collisions Off
+: 8010C167 0001 Car Mines On
+: 8010C166 0001 Cone Mines On
+: 8011CDB0 0001 Damage Off
+: 800E7D22 0002 Heavy Gravity
+: 8010C179 0001 Heavy Mass
+: 801174E0 0001 Inside-Out Car On
+: 80119634 0001 Invincible
+: 8010C170 0001 Invisible Cars
+: 8010C178 0001 Invisible Tracks
+: 800E7D22 0003 Jovian Gravity
+: 8010C17C 0001 Killer Rats On
+: 8010C43C 0003 Large Frame
+: 8010C254 0001 Levitation
+: 800E7D22 0000 Light Gravity
+: 8010C179 0002 Massive Mass
+: 800D9E89 0001 New York Cabs
+: 8010C210 0001 Resurrect In Place
+: 80119628 0002 Suicide Mode Humans On
+: 80119628 0001 Suicide Mode On
+: 80111950 0001 Super Speed
+: 8010D3A6 0002 Super Tires
+: 800D0171 0001 Upside Down Mode
+: 801127A1 0001 Your Car Is Invisible

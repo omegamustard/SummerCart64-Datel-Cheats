@@ -1,0 +1,45 @@
+# Road Rash 64 (USA)
+
+: 50000E02 0000 Have Infinite/All Weapons P1 (Cheat Device 3.0 Or Higher Needed!)
+: 811B8D7A 0505
+: 811B8A38 42F0 Infinite Health For Bike P1
+: 811B8A3C 42F0
+: 811B92A0 42F0 Infinite Health For Bike P2
+: 811B92A4 42F0
+: 811BFE10 4489 Infinite Health P1
+: 811BFE12 8000
+: 811C0400 4489 Infinite Health P2
+: 811C0402 8000
+: 810D6A7A FFFF Infinite Money P1
+: 801C00D7 0001 Infinite X2 Strength P1
+: 801C06C7 0001 Infinite X2 Strength P2
+: 801C00D7 0002 Infinite X4 Strength P1
+: 801C06C7 0002 Infinite X4 Strength P2
+: 810A77D6 0001 Have All Tracks
+: 81027896 2710 Start a new game with $10,000
+: 81027896 C350 Start a new game with $50,000
+: 810A77DA 0001 Start With Club
+: 8102CFD8 AD60 All bikes in the Bike Shop are free (in "Big Game" mode)
+: 8102DE9C AD60 All the starting bikes are free (when you first start "Big Game" mode)
+: 80025898 0014 All Tracks In Thrash Mode
+: 810D7856 0000 Always Place 1st P1
+: 81040984 2400 Auto acceleration
+: 810A66BA 002C Can choose from every bike in the game when starting a new game (there are normally only 4 to choose from)
+: 810A6856 6834 Can choose from the best bikes (including the Police bike) when starting a new game
+: 8106DBCC 2407 Opponents don't move
+: 8106DBCE 0000
+: 810A77C8 0001 Debug Information On Screen
+: 811B8D7A 0505 Have Infinite/All Weapons P1
+: 811B8D7C 0505
+: 811B8D7E 0505
+: 811B8D80 0505
+: 811B8D82 0505
+: 811B8D84 0505
+: 811B8D86 0505
+: 811B8D88 0505
+: 811B8D8A 0505
+: 811B8D8C 0505
+: 811B8D8E 0505
+: 811B8D90 0505
+: 811B8D92 0505
+: 811B8D94 0505

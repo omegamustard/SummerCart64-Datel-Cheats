@@ -1,0 +1,19 @@
+# South Park (USA)
+
+: F10A5AFC 2400 Master Code
+: F107D71C 2400
+: F10A55DC 2400
+: F10A55E8 2400
+: 8102E8FC 2400 Infinite Health
+: D00EBA55 0020 Press L to Freeze Game
+: 810CD996 0001
+: 810CD226 0001 Have Cheat Invincibility
+: 810CD226 0002 Have Cheat All Players
+: 810CD226 0004 Have Cheat All Weapons
+: 810CD226 0008 Have Cheat Unlimited Ammo
+: 810CD226 0010 Have Cheat Big Heads
+: 810CD226 0020 Have Cheat Skinny
+: 810CD226 0040 Have Cheat Pen & Ink
+: 810CD226 0080 Have Cheat Level Select
+: 810CD226 0100 Have Cheat Show Credits
+: 810CD226 01FF Have Cheat All Cheats
