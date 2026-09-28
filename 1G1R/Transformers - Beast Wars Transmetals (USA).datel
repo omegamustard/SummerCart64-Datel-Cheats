@@ -1,0 +1,11 @@
+# Transformers - Beast Wars Transmetals (USA)
+
+: F10E98F0 2400 Enable Code (Must Be On)
+: 8112CD46 270F Infinite Health P1
+: 8114D2C6 270F Infinite Health P2
+: 8012CD49 00FF Infinite Stun Meter P1
+: 8014D2C9 00FF Infinite Stun Meter P2
+: 8112CD46 0000 No Health P1
+: 8114D2C6 0000 No Health P2
+: 8012CD49 0000 No Stun Meter P1
+: 8014D2C9 0000 No Stunt Meter P2

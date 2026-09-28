@@ -1,0 +1,10 @@
+# Virtual Pool 64 (USA)
+
+: 812F0922 0004 Aiming Sites Always Available
+: 802EF79C 0002 Always Ball In Hand
+: 802EF798 0000 Always P1's Turn
+: 802EF798 0001 Always P2's Turn
+: D02EF798 0001 Ball In Hand P1
+: 802EF79C 0002
+: D02EF798 0001 Ball In Hand P2
+: 802EF79C 0002

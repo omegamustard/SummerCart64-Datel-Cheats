@@ -1,0 +1,12 @@
+# Taz Express (Europe) (En,Fr,De,Es,It,Nl)
+
+: F107884C 2400 Master Code
+: F1000DB4 2400
+: F107832C 2400
+: F1000DC4 2400
+: F1078338 2400
+: 8104E508 1000 Regional lock bypass
+: 810A9C9A 0003 Infinite 'Crate' Tries
+: 810EB9C6 0009 Infinite Health
+: 810EB9EA 03E7 Lots of bonuses
+: 8105A0C8 2400 Take objects anywhere

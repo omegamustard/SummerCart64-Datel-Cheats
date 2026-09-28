@@ -1,0 +1,139 @@
+# WinBack - Covert Operations (USA)
+
+: 811BE482 0000 All Bosses 1-Hit Deaths
+: 80179448 0001 Always Have Flashlight On P1
+: 8010DCCD 0001 Big Head Mode
+: 8015D417 0001 Enable Max Power Mode
+: 8115D412 FFFF Have All Characters
+: 8115D410 0003
+: 801587C8 0001 Have C4 Detector [Slot 3] P1
+: 801587C3 0001 Have C4 Explosives [Slot 1] P1
+: 801587CA 0001 Have Card Key [Slot 3] P1
+: 801587C5 0001 Have Flashlight [Slot 2] P1
+: 801587C4 0009 Have Handgun With Silencer (With Infinite Ammo)
+: 801587C9 0001 Have Key [Slot 3] P1
+: 801587CD 000C Have Max Clips (Submachine Gun & Shot Gun) P1
+: 801587CB 0004 Have Rocket Launcher (With Infinite Ammo) P1
+: 8017DDB7 0009 Infinite Ammo Handgun P3
+: 8017F737 0009 Infinite Ammo Handgun P4
+: 8017AAB7 0009 Infinite Ammo Hangun
+: 8017AAB3 0008 Infinite Ammo Shotgun
+: 8017DDB3 0008 Infinite Ammo Shotgun P3
+: 8017F733 0008 Infinite Ammo Shotgun P4
+: 8017AA9F 001E Infinite Ammo Sub Machinegun
+: 8017C41F 001E Infinite Ammo Sub Machinegun P2
+: 8017F71F 001E Infinite Ammo Submachine Gun P4
+: 8017DD9F 001E Infinite Ammo Submachinegun P3
+: 8017C433 0008 Infinite Ammo/Always Have Shotgun P2
+: 801587C1 0060 Infinite Clips Shot Gun P1
+: 801587C0 000C Infinite Clips Submachine Gun P1
+: 8017AABB 0064 Infinite Health
+: 8017C43B 0064 Infinite Health P2
+: 8017DDBB 0064 Infinite Health P3
+: 8017F73B 0064 Infinite Health P4
+: 801793D8 0040 Invincible [Against Enemies]
+: 8102DF98 2400 Invulnerable To Physical Attacks
+: 800CB119 0000 One Hit Kills (Regular Enemies)
+: 8010DC7C 0001 Press L to Restore Health
+: 8110DD62 0000 Time is Always 00:00:00
+: 8116A390 0021 Unused Multiplayer Level
+: 8116A4EA 004A
+: 8113A0CA C350 Point Match Instant Win P1
+: 8113A0CE C350 Point Match Instant Win P2
+: 8113A0D2 C350 Point Match Instant Win P3
+: 8113A0D6 C350 Point Match Instant Win P4
+: D013A6F4 0020 Point Match Press Z Button For Turbo/Walk Thru Walls
+: 8117A17C 43C8
+: 8115D418 FDE8 Have Best Score 65,000 - Easy Difficulty Level 01
+: 8115D41A FDE8 Have Best Score 65,000 - Easy Difficulty Level 02
+: 8115D41C FD38 Have Best Score 65,000 - Easy Difficulty Level 03
+: 8115D41E FDE8 Have Best Score 65,000 - Easy Difficulty Level 04
+: 8115D420 FDE8 Have Best Score 65,000 - Easy Difficulty Level 05
+: 8115D422 FDE8 Have Best Score 65,000 - Easy Difficulty Level 06
+: 8115D424 FDE8 Have Best Score 65,000 - Easy Difficulty Level 07
+: 8115D426 FDE8 Have Best Score 65,000 - Easy Difficulty Level 08
+: 8115D428 FDE8 Have Best Score 65,000 - Easy Difficulty Level 09
+: 8115D42A FDE8 Have Best Score 65,000 - Easy Difficulty Level 10
+: 8115D42C FDE8 Have Best Score 65,000 - Easy Difficulty Level 11
+: 8115D42E FDE8 Have Best Score 65,000 - Easy Difficulty Level 12
+: 8115D430 FDE8 Have Best Score 65,000 - Easy Difficulty Level 13
+: 8115D432 FDE8 Have Best Score 65,000 - Easy Difficulty Level 14
+: 8115D434 FDE8 Have Best Score 65,000 - Easy Difficulty Level 15
+: 8115D436 FDE8 Have Best Score 65,000 - Easy Difficulty Level 16
+: 8115D438 FDE8 Have Best Score 65,000 - Easy Difficulty Level 17
+: 8115D43A FDE8 Have Best Score 65,000 - Easy Difficulty Level 18
+: 8115D43C FDE8 Have Best Score 65,000 - Easy Difficulty Level 19
+: 8115D43E FDE8 Have Best Score 65,000 - Easy Difficulty Level 20
+: 8115D440 FDE8 Have Best Score 65,000 - Easy Difficulty Level 21
+: 8115D442 FDE8 Have Best Score 65,000 - Easy Difficulty Level 22
+: 8115D444 FDE8 Have Best Score 65,000 - Easy Difficulty Level 23
+: 8115D446 FDE8 Have Best Score 65,000 - Easy Difficulty Level 24
+: 8115D448 FDE8 Have Best Score 65,000 - Easy Difficulty Level 25
+: 8115D44A FDE8 Have Best Score 65,000 - Easy Difficulty Level 26
+: 8115D44C FDE8 Have Best Score 65,000 - Easy Difficulty Level 27
+: 8115D44E FDE8 Have Best Score 65,000 - Easy Difficulty Level 28
+: 8115D450 FDE8 Have Best Score 65,000 - Easy Difficulty Level 29
+: 8115D452 FDE8 Have Best Score 65,000 - Easy Difficulty Level 30
+: 8115D454 FDE8 Have Best Score 65,000 - Easy Difficulty Level 31
+: 8115D458 FDE8 Have Best Score 65,000 - Normal Difficulty Level 01
+: 8115D45A FDE8 Have Best Score 65,000 - Normal Difficulty Level 02
+: 8115D45C FDE8 Have Best Score 65,000 - Normal Difficulty Level 03
+: 8115D45E FDE8 Have Best Score 65,000 - Normal Difficulty Level 04
+: 8115D460 FDE8 Have Best Score 65,000 - Normal Difficulty Level 05
+: 8115D462 FDE8 Have Best Score 65,000 - Normal Difficulty Level 06
+: 8115D464 FDE8 Have Best Score 65,000 - Normal Difficulty Level 07
+: 8115D466 FDE8 Have Best Score 65,000 - Normal Difficulty Level 08
+: 8115D468 FDE8 Have Best Score 65,000 - Normal Difficulty Level 09
+: 8115D46A FDE8 Have Best Score 65,000 - Normal Difficulty Level 10
+: 8115D46C FDE8 Have Best Score 65,000 - Normal Difficulty Level 11
+: 8115D46E FDE8 Have Best Score 65,000 - Normal Difficulty Level 12
+: 8115D470 FDE8 Have Best Score 65,000 - Normal Difficulty Level 13
+: 8115D472 FDE8 Have Best Score 65,000 - Normal Difficulty Level 14
+: 8115D474 FDE8 Have Best Score 65,000 - Normal Difficulty Level 15
+: 8115D476 FDE8 Have Best Score 65,000 - Normal Difficulty Level 16
+: 8115D478 FDE8 Have Best Score 65,000 - Normal Difficulty Level 17
+: 8115D47A FDE8 Have Best Score 65,000 - Normal Difficulty Level 18
+: 8115D47C FDE8 Have Best Score 65,000 - Normal Difficulty Level 19
+: 8115D47E FDE8 Have Best Score 65,000 - Normal Difficulty Level 20
+: 8115D480 FDE8 Have Best Score 65,000 - Normal Difficulty Level 21
+: 8115D482 FDE8 Have Best Score 65,000 - Normal Difficulty Level 22
+: 8115D484 FDE8 Have Best Score 65,000 - Normal Difficulty Level 23
+: 8115D486 FDE8 Have Best Score 65,000 - Normal Difficulty Level 24
+: 8115D488 FDE8 Have Best Score 65,000 - Normal Difficulty Level 25
+: 8115D48A FDE8 Have Best Score 65,000 - Normal Difficulty Level 26
+: 8115D48C FDE8 Have Best Score 65,000 - Normal Difficulty Level 27
+: 8115D48E FDE8 Have Best Score 65,000 - Normal Difficulty Level 28
+: 8115D490 FDE8 Have Best Score 65,000 - Normal Difficulty Level 29
+: 8115D492 FDE8 Have Best Score 65,000 - Normal Difficulty Level 30
+: 8115D494 FDE8 Have Best Score 65,000 - Normal Difficulty Level 31
+: 8115D498 FDE8 Have Best Score 65,000 - Hard Difficulty Level 01
+: 8115D49A FDE8 Have Best Score 65,000 - Hard Difficulty Level 02
+: 8115D49C FDE8 Have Best Score 65,000 - Hard Difficulty Level 03
+: 8115D49E FDE8 Have Best Score 65,000 - Hard Difficulty Level 04
+: 8115D4A0 FDE8 Have Best Score 65,000 - Hard Difficulty Level 05
+: 8115D4A2 FDE8 Have Best Score 65,000 - Hard Difficulty Level 06
+: 8115D4A4 FDE8 Have Best Score 65,000 - Hard Difficulty Level 07
+: 8115D4A6 FDE8 Have Best Score 65,000 - Hard Difficulty Level 08
+: 8115D4A8 FDE8 Have Best Score 65,000 - Hard Difficulty Level 09
+: 8115D4AA FDE8 Have Best Score 65,000 - Hard Difficulty Level 10
+: 8115D4AC FDE8 Have Best Score 65,000 - Hard Difficulty Level 11
+: 8115D4AE FDE8 Have Best Score 65,000 - Hard Difficulty Level 12
+: 8115D4B0 FDE8 Have Best Score 65,000 - Hard Difficulty Level 13
+: 8115D4B2 FDE8 Have Best Score 65,000 - Hard Difficulty Level 14
+: 8115D4B4 FDE8 Have Best Score 65,000 - Hard Difficulty Level 15
+: 8115D4B6 FDE8 Have Best Score 65,000 - Hard Difficulty Level 16
+: 8115D4B8 FDE8 Have Best Score 65,000 - Hard Difficulty Level 17
+: 8115D4BA FDE8 Have Best Score 65,000 - Hard Difficulty Level 18
+: 8115D4BC FDE8 Have Best Score 65,000 - Hard Difficulty Level 19
+: 8115D4BE FDE8 Have Best Score 65,000 - Hard Difficulty Level 20
+: 8115D4C0 FDE8 Have Best Score 65,000 - Hard Difficulty Level 21
+: 8115D4C2 FDE8 Have Best Score 65,000 - Hard Difficulty Level 22
+: 8115D4C4 FDE8 Have Best Score 65,000 - Hard Difficulty Level 23
+: 8115D4C6 FDE8 Have Best Score 65,000 - Hard Difficulty Level 24
+: 8115D4C8 FDE8 Have Best Score 65,000 - Hard Difficulty Level 25
+: 8115D4CA FDE8 Have Best Score 65,000 - Hard Difficulty Level 26
+: 8115D4CC FDE8 Have Best Score 65,000 - Hard Difficulty Level 27
+: 8115D4CE FDE8 Have Best Score 65,000 - Hard Difficulty Level 28
+: 8115D4D0 FDE8 Have Best Score 65,000 - Hard Difficulty Level 29
+: 8115D4D2 FDE8 Have Best Score 65,000 - Hard Difficulty Level 30
+: 8115D4D4 FDE8 Have Best Score 65,000 - Hard Difficulty Level 31

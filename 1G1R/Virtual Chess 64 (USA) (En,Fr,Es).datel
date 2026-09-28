@@ -1,0 +1,8 @@
+# Virtual Chess 64 (USA) (En,Fr,Es)
+
+: 800E7257 0001 Always Play On 2D Board
+: 800E7257 0000 Always Play On 3D Board
+: 810E6290 0001 Debug Mode
+: 8012C508 0000 P1 Controls Both Sides In 2-Player Human VS. Human Game
+: 8012C67D 0001 Time Always Counts Down On Black Players Side
+: 8012C67D 0000 Time Always Counts Down On White Players Side

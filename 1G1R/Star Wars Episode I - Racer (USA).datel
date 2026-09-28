@@ -1,0 +1,43 @@
+# Star Wars Episode I - Racer (USA)
+
+: EE000000 0000 Master Code
+: D1054150 8E2E Instant Win After Race Start
+: 81054148 3000
+: D1054150 8E2E
+: 8105435C 3000
+: 81113E6C 3FFF All Amateur Tracks Completed
+: 81113E70 3FFF All Galactic Tracks Completed
+: 81113E72 00FF All Invitational Tracks Completed
+: 81113E6E 3FFF All Semi-Pro Tracks Completed
+: 81113E74 007D Have All Characters
+: 81113E76 FFFF
+: 81113E68 FFFF Have All Tracks
+: 81113E6A FFFF
+: 80113E68 00FF Unlock All Amateur Tracks
+: 80113E6A 00FF Unlock All Galactic Tracks
+: 80113E6B 00FF Unlock All Invitational Tracks
+: 80113E69 00FF Unlock All Semi-Pro Tracks
+: 800A52D7 0001 Always Invincible - Built-In Cheat
+: 8109B7DA FFFF Enable All Cheat Options - Built-In Cheat
+: 8009B7D7 0001 Enable Cheat Menu - Built-In Cheat
+: 800A52D7 0001 Invincibility - Built-In Cheat
+: 800A52D3 0001 Spline Markers On - Built-In Cheat
+: 81118FED 0001 P1 Always Finish 1st
+: 80119075 0001 P2 Always Finish 1st
+: 81119004 3F80 Low Timer P1
+: 8111908C 3F80 Low Timer P2
+: 80113E86 00FF P1 Acceleration Part Is In Best Condition
+: 80113E88 00FF P1 Air Brake Part Is In Best Condition
+: 810D6CCE 0000 P1 All Items Free
+: 80113E89 00FF P1 Cooling Part Is In Best Condition
+: 81215EA4 42C8 P1 Infinite Boost (No Overheating)
+: 81113E7A FFFF P1 Infinite Trugets (Money)
+: 81113E78 7FFF
+: 810D6CCA FFFF P1 Max Trade In
+: 81071888 2400 P1 No Damage From Minor Collisions
+: 80113E8A 00FF P1 Repair Part Is In Best Condition
+: 80119819 00FF P1 Super Air Brakes
+: 80119859 00FF P1 Super Traction
+: 80113E87 00FF P1 Top Speed Part Is In Best Condition
+: 80113E84 00FF P1 Traction Part Is In Best Condition
+: 80113E85 00FF P1 Turning Part Is In Best Condition

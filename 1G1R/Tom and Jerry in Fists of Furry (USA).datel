@@ -1,0 +1,44 @@
+# Tom and Jerry in Fists of Furry (USA)
+
+: D10E279C 42C8 1-Hit Death P2 (Cheat Device 3.0 Or Higher Needed!)
+: 810E279C 00C8
+: D10E2A74 42C8 1-Hit Death P2 (Cheat Device 3.0 Or Higher Needed!)
+: 810E2A74 00C8
+: D10E279C 42C8 25% Health P1 (Cheat Device 3.0 Or Higher Needed!)
+: 810E279C 4200
+: D10E2A74 42C8 25% Health P2 (Cheat Device 3.0 Or Higher Needed!)
+: 810E2A74 4200
+: D10E279C 42C8 50% Health P1 (Cheat Device 3.0 Or Higher Needed!)
+: 810E279C 4240
+: D10E2A74 42C8 50% Health P2 (Cheat Device 3.0 Or Higher Needed!)
+: 810E2A74 4240
+: D10E279C 42C8 75% Health P1 (Cheat Device 3.0 Or Higher Needed!)
+: 810E279C 4290
+: D10E2A74 42C8 75% Health P2 (Cheat Device 3.0 Or Higher Needed!)
+: 810E2A74 4290
+: 800E44F2 0001 Activate Teamplay mode
+: 800F4A48 0001 All Characters (From Debug Menu)
+: 800F4A49 0001 All Debug Cheat Menus
+: 800F4A42 0001 Character Select
+: 810E44F2 00FF Have All Characters
+: 800F4A40 0001 Infinite Ammo
+: 8103EC38 2400 Infinite Double Jump (Both Players)
+: 810E279C 42C8 Infinite Health P1
+: 810E2A74 42C8 Infinite Health P2
+: 810FED4C 42F0 Infinite Time
+: 800E2844 0000 Infnite Double Jump P1
+: 800E2B1C 0000 Infnite Double Jump P2
+: 810E279C 0000 No Health P1
+: 810E2A74 0000 No Health P2
+: D00E27CF 0000 P1 Needs 1 Win To Win
+: 810E27CE 0001
+: 810E27CE 0000 P1 Never Wins
+: D00E2AA7 0000 P2 Needs 1 Win To Win
+: 810E2AA6 0001
+: 810E2AA6 0000 P2 Never Wins
+: D00E46C5 0020 Press L For Moon Jump P1
+: 810E2814 4047
+: D00E46CD 0020 Press L For Moon Jump P2
+: 810E2AEC 4047
+: 81021F90 2400 Stop Timer
+: 800F4A41 0001 Weapon Select - Use the R button to select different weapons during gameplay.

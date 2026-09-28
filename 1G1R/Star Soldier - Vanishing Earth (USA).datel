@@ -1,0 +1,11 @@
+# Star Soldier - Vanishing Earth (USA)
+
+: 810AB92C 0800 Enable Debug Enemy Select & Stage Select Menus
+: 800A362F 0001 Extra Armor
+: 800A3648 0003 Infinite Lives
+: 800A3649 0003 Infinite Specials
+: 810412E4 03E0 Invincible
+: 810412E6 0008
+: 810A3644 7FFF Max Combo
+: 800A3659 0063 Max Upper Level
+: 800A3658 0003 Max Lower Level

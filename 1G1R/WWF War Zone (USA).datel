@@ -1,0 +1,49 @@
+# WWF War Zone (USA)
+
+: 8113A48B 8100 Unlock All Modes/Extra Stuff
+: 8113A48A 07FF
+: 8113A48C 2000
+: 8113A48E 3FFF
+: 80135FD9 0032 Creation Mode: 50 Charisma Points
+: 80135FD7 0032 Creation Mode: 50 Recovery Points
+: 80135FD1 0032 Creation Mode: 50 Strength Points
+: 80135FD3 0032 Creation Mode: 50 Toughness Points
+: 8112F54E 03D1 Freeze Main Timer/Infinite Match Time
+: 8106648C 2400 Hit Anywhere
+: 80136245 0000 Infinite Creation Points
+: 8012F42B 0000 No Cage In Cage Match
+: 8012F48B 0000 No Ropes
+: D012F423 0001 Infinite Health P1
+: 812518F8 0000
+: D012F423 0001 Infinite Health P2 (Various Modes)
+: 81267B98 0000
+: D012F423 0001 Infinite Health P2 (Various Modes)
+: 81266C08 0000
+: D012F423 0001 Infinite Health P3 (Various Modes)
+: 812755E8 0000
+: D012F423 0001 Infinite Health P3 (Various Modes)
+: 81273728 0000
+: D012F423 0001 Infinite Health P4 (Various Modes)
+: 8127DC78 0000
+: D012F423 0001 Infinite Health P4 (Various Modes)
+: 812811B8 0000
+: D012F423 0001 Infinite Health P4 (Various Modes)
+: 8127F2F8 0000
+: D012F423 0001 No Health P1
+: 812518F8 00FF
+: D012F423 0001 No Health P2 (Various Modes)
+: 81267B98 00FF
+: D012F423 0001 No Health P2 (Various Modes)
+: 81266C08 00FF
+: D012F423 0001 No Health P3 (Various Modes)
+: 812755E8 00FF
+: D012F423 0001 No Health P3 (Various Modes)
+: 81273728 00FF
+: D012F423 0001 No Health P4 (Various Modes)
+: 8127DC78 00FF
+: D012F423 0001 No Health P4 (Various Modes)
+: 812811B8 00FF
+: D012F423 0001 No Health P4 (Various Modes)
+: 8127F2F8 00FF
+: 8012F42B 0001 Put Cage On ALL Rings
+: 8012F417 0000 Walk Thru Walls

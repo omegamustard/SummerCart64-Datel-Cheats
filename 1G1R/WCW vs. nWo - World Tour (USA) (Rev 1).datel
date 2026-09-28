@@ -1,0 +1,137 @@
+# WCW vs. nWo - World Tour (USA) (Rev 1)
+
+: 800F0831 0064 Always Max Spirit P1
+: 800F0BD1 0064 Always Max Spirit P2
+: 800F0F71 0064 Always Max Spirit P3
+: 800F1311 0064 Always Max Spirit P4
+: 800F0831 0000 Always No Spirit P1
+: 800F0BD1 0000 Always No Spirit P2
+: 800F0F71 0000 Always No Spirit P3
+: 800F1311 0000 Always No Spirit P4
+: 800F0831 0032 Always Normal Spirit P1
+: 800F0BD1 0032 Always Normal Spirit P2
+: 800F0F71 0032 Always Normal Spirit P3
+: 800F1311 0032 Always Normal Spirit P4
+: 800F0830 0032 Have Special P1
+: 800F0BD0 0064 Have Special P2
+: 800F0F70 0064 Have Special P3
+: 800F1310 0064 Have Special P4
+: 880F16F4 0001 Cheat Device Button For Quick Out Of Ring Count Out
+: D10B9DA0 0C03 Don't Drop Weapons When Entering The Ring (Cheat Device Version)
+: 810B9DA0 2400
+: 810B9D9C 0800 Don't Drop Weapons When Entering The Ring (PJ64 Version)
+: 810B9D9E 0018
+: 810B9DA0 2400
+: 81000060 3C1B
+: 81000062 800C
+: 81000064 8F7B
+: 81000066 9DF0
+: 81000068 501B
+: 8100006A 0003
+: 8100006C AFBF
+: 8100006E 001C
+: 81000070 0802
+: 81000072 E769
+: 81000074 2400
+: 81000078 0802
+: 8100007A E769
+: 8100007C AFA4
+: 8100007E 0020
+: 810B9B80 2400 Don't Drop Weapons When Exiting The Ring
+: 810CAB10 2400 Don't Drop Weapons When Hit
+: D10B9E00 0C03 Don't Drop Weapons When Running (Cheat Device Version)
+: 810B9E00 2400
+: 810B9DFC 0800 Don't Drop Weapons When Running (PJ64 Version)
+: 810B9DFE 0024
+: 810B9E00 2400
+: 81000090 3C1B
+: 81000092 800C
+: 81000094 8F7B
+: 81000096 9DF0
+: 81000098 501B
+: 8100009A 0003
+: 8100009C 0060
+: 8100009E 1025
+: 810000A0 0802
+: 810000A2 E781
+: 810000A4 2400
+: 810000A8 0802
+: 810000AA E7A3
+: 810000AC 2400
+: 800606D5 00FF Have 6 Hidden Characters
+: 810606DA DDDD Have All Belts Except "Tag"/Have Access To WWW "Super Heavy" & "Super Cruiser"
+: 800606D5 00FF Have All Characters/Everything Finished Except WWW
+: 810606DA FFFE
+: 810606DB FFFF
+: 800606D5 00FF Have All Extra Characters
+: 810606DA AAAA Have All Four "Tag" Belts
+: 810606DA BBBB Have All Four "Tag" Belts/Single (Heavy too)/Have Access To WWW "Super Heavy"
+: 810606DA CCCC Have Both Cruiser Belts
+: 810606DA EEEE Have Everything But Heavy Completed
+: 800606D9 00FF Have WWW League Challenge & All Belts
+: 810606DA FFFF
+: 800F16F4 0014 Infinite Time Out Of Ring
+: 800F16F4 00FF Infinite Time Out Of Ring/For Pins
+: 800F0831 0064 Max Spirit P1
+: 8013D543 0005 No Sound
+: 800F0886 00FF P1 Almost Unbeatable
+: 810F1C50 FFFF P1 Can't Get Weapons
+: 810F1C52 FFFF
+: 800F0832 0032 P1 Can't Move
+: 800F0837 00FF P1 Gets Pinned Easily
+: 800F083B 0064 P1 Holds A Aluminum Bat But Fights With Fists
+: 810F1C50 0101
+: 810F1C52 0000
+: 800F0885 00FF P1 Unbeatable
+: 80060573 0002 P1-P4 Can't be The Same Character
+: 810618BB 0002 Play As Two Characters - Single Player Mode, P2 CPU is controlled by 2nd controller
+: 800F171F 0000 Time Always 00:00
+: 800F171F 0000 Time Is Always 00:00
+: 800F083A 0064 Always Have Aluminum Baseball Bat P1
+: 810F1C50 0000
+: 800F1C52 0000
+: 800F0BDA 0064 Always Have Aluminum Baseball Bat P2
+: 810F1C70 0000
+: 800F1C72 0001
+: 800F0F7A 0064 Always Have Aluminum Baseball Bat P3
+: 810F1C90 0000
+: 800F1C92 0002
+: 800F131A 0064 Always Have Aluminum Baseball Bat P4
+: 810F1CB0 0000
+: 800F1CB2 0003
+: 800F083A 0064 Always Have Baseball Bat P1
+: 810F1C50 0101
+: 800F1C52 0000
+: 800F0BDA 0064 Always Have Baseball Bat P2
+: 810F1C70 0101
+: 800F1C72 0001
+: 800F0F7A 0064 Always Have Baseball Bat P3
+: 810F1C90 0101
+: 800F1C92 0002
+: 800F131A 0064 Always Have Baseball Bat P4
+: 810F1CB0 0101
+: 800F1CB2 0003
+: 800F083A 0024 Always Have Silver Chair P1
+: 810F1C50 0202
+: 800F1C52 0000
+: 800F0BDA 0024 Always Have Silver Chair P2
+: 810F1C70 0202
+: 800F1C72 0001
+: 800F0F7A 0024 Always Have Silver Chair P3
+: 810F1C90 0202
+: 800F1C92 0002
+: 800F131A 0024 Always Have Silver Chair P4
+: 810F1CB0 0202
+: 800F1CB2 0003
+: 800F083A 0024 Always Have Table Piece P1
+: 810F1C50 0303
+: 800F1C52 0000
+: 800F0BDA 0024 Always Have Table Piece P2
+: 810F1C70 0303
+: 800F1C72 0001
+: 800F0F7A 0024 Always Have Table Piece P3
+: 810F1C90 0303
+: 800F1C92 0002
+: 800F131A 0024 Always Have Table Piece P4
+: 810F1CB0 0303
+: 800F1CB2 0003

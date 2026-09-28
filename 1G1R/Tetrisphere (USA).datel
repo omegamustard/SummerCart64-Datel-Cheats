@@ -1,0 +1,27 @@
+# Tetrisphere (USA)
+
+: F10D0464 2400 Master Code
+: F10D0448 2400
+: F10D0454 2400
+: F10D0470 2400
+: 00000000 0000 Single & VS Mode Codes
+: 80112F9F 0003 Infinite Misses P1
+: 80116207 0003 Infinite Misses P2
+: 810CECBC 2400 Infinite Time (Both Players)
+: 80112629 0000 Infinite Time P1
+: 80115890 0000 Infinite Time P2
+: 81094B44 2400 Never Miss
+: 8011265F 00AD Secret Cheat Menu Screen
+: 00000000 0000 Single Player Mode Only
+: 80112F9E 0003 GameBoy Cheat Message
+: D01127E7 0001 Infinite Drops P1 (Puzzle Mode) [BUGGY]
+: 801127E7 0009
+: 801127E9 0009 Infinite Slides P1 (Puzzle Mode)
+: 800E12FF 0005 Secret Music
+: 810E12DC 0001 Stage Select
+: 800E13C3 0009 Turn Numbers In New Name Screen To Symbols
+: 810E12E4 0001 Unlock Lines Mode
+: 810E0784 4352 View Credits (Go To New Name And Hit Okay - Only Use This Code On Its Own!)
+: 810E0786 4544
+: 810E0788 4954
+: 810E078A 5300

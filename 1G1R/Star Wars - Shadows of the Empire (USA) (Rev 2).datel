@@ -1,0 +1,38 @@
+# Star Wars - Shadows of the Empire (USA) (Rev 2)
+
+: 810B540C 460A Easy Stormtrooper Kills
+: 81035424 1000 Enable All Levels
+: 81035478 1000
+: 8103548C 1000
+: 810354A0 1000
+: 810354B4 1000
+: 81071474 0C00 Have Jetpack And All Weapons
+: 81071476 0015
+: 81000054 8E2E
+: 81000056 0074
+: 81000058 3C0F
+: 8100005A 0007
+: 8100005C 35EF
+: 8100005E E040
+: 81000060 03E0
+: 81000062 0008
+: 81000064 01CF
+: 81000066 7025
+: 8106DFEC 3C03 Infinite Ammo (All Weapons)
+: 8106DFEE 42C8
+: 8106DFF8 ADC3
+: 8106DFFA 00C0
+: 81074014 2400 Infinite Disruptor Ammo
+: 81073830 2400 Infinite Flame Ammo
+: 81072E1C 2400 Infinite Health
+: 81076BBC 2400 Infinite Jet Pack
+: 81076D68 2400
+: 81076C58 2400
+: 81074314 2400 Infinite Pulse Ammo
+: 81073BA4 2400 Infinite Seeker Ammo
+: 81073CE4 2400 Infinite Stunner Ammo
+: 8107A880 2400 Invincible
+: 81073A58 2400 Lasers Never Overheat
+: 81073A54 3C06 Super Lasers (Don't Use With Never Overheat Code)
+: 81073A56 447A
+: 81073A58 AE06

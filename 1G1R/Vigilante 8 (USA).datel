@@ -1,0 +1,52 @@
+# Vigilante 8 (USA)
+
+: F11695A8 2400 Enable Code (Must Be On)
+: F11695AC 2400
+: F1166BDC 2400 Master Code
+: F11666BC 2400
+: F11666C8 2400
+: 81181572 01C0 Enable All Characters & Levels
+: 81144148 A442 Infinite Health P1
+: 81144154 0060
+: 811546AC 2400 Infinite Specials
+: 8114521C A726 Infinite Ammo (All Weapons)
+: 8114CDD4 2400 Infinite Bruiser Cannon Ammo (Buckshot)
+: 8114CC0C 2400 Infinite Bruiser Cannon Ammo (Cow Puncher)
+: 8114C92C 2400 Infinite Bruiser Cannon Ammo (Normal Shot)
+: 8114B3A4 2400 Infinite Bull's Eye Rockets (Normal Shot)
+: 8114B414 2400 Infinite Bull's Eye Rockets (Road Runner)
+: 8114B450 2400 Infinite Bull's Eye Rockets (Stampede) - Never Quits Firing
+: 8114B484 2400
+: 8114B49C 2400
+: 8114C444 2400 Infinite Interceptor Missiles (Afterburner)
+: 8114C470 2400 Infinite Interceptor Missiles (Halo Decoy)
+: 8114C2B0 2400 Infinite Interceptor Missiles (Normal Shot)
+: 8114E984 2400 Infinite Roadkill Mines (Bear Hug)
+: 8114E878 2400 Infinite Roadkill Mines (Normal Shot)
+: 8114DC30 2400 Infinite Sky Hammer Mortars (Crater Maker)
+: 81186AE2 FFFF No Enemies
+: 81186AE4 FFFF
+: 81186AE6 FFFF
+: 81181576 0001 No Gravity
+: 8114659C 2400 No One Takes Any Damage
+: 80181573 0010 Run Story
+: 81191298 1F1F Unlock All Cars/Tracks
+: 8119129A 1F1F
+: 8119129C 1F1F
+: 8119129E 1F1F
+: 811912A0 1F1F
+: 811912A2 1F1F
+: 801912A4 003F
+: 801912A4 003F Unlock/Finish Tracks/Car 'Y' The Alien
+: 801912A1 001F Unlock/Finish Tracks/Car Beezway
+: 801912A0 001F Unlock/Finish Tracks/Car Boogie
+: 80191298 001F Unlock/Finish Tracks/Car Chassey Blue
+: 8019129D 001F Unlock/Finish Tracks/Car Convoy
+: 8019129C 001F Unlock/Finish Tracks/Car Dave
+: 8019129F 001F Unlock/Finish Tracks/Car Houston 3
+: 8019129B 001F Unlock/Finish Tracks/Car John Torque
+: 8019129E 001F Unlock/Finish Tracks/Car Loki
+: 801912A2 001F Unlock/Finish Tracks/Car Molo
+: 8019129A 001F Unlock/Finish Tracks/Car Sheila
+: 801912A3 001F Unlock/Finish Tracks/Car Sid Burn
+: 80191299 001F Unlock/Finish Tracks/Car Slick Clyde

@@ -1,0 +1,12 @@
+# Super Bowling (USA)
+
+: F1053BF0 2400 Master Code
+: 8111EA48 1040 Always get a Strike - Hold L+R When ball hits pins, then release
+: D0066B59 0030
+: 8111EA48 2400
+: 8111D560 2400 Ball's speed is doubled
+: 8111D568 C000
+: 8111D57E 0008
+: 8111D560 2400 Ball's speed is tripled
+: 8111D568 C040
+: 8111D57E 0008

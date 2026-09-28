@@ -1,0 +1,57 @@
+# WCW-nWo Revenge (USA)
+
+: 800F9D35 0008 Always Special P1
+: 800FA0E5 0008 Always Special P2
+: 800FA495 0008 Always Special P3
+: 800FA845 0008 Always Special P4
+: 800F9D3F 00FF Can't Grapple P1
+: 800FA0EF 00FF Can't Grapple P2
+: 800FA49F 00FF Can't Grapple P3
+: 800FA84F 00FF Can't Grapple P4
+: 800F9D31 0064 Can't Pick Up Weapons P1
+: 800FA0E1 0064 Can't Pick Up Weapons P2
+: 800FA491 0064 Can't Pick Up Weapons P3
+: 800FA841 0064 Can't Pick Up Weapons P4
+: 810C3AF4 2400 Don't Drop Weapons When Hit
+: 810B5534 2400
+: 810B5538 2400
+: 80038AAB 0008 Get Title Belt In 1-Match
+: 800F9D25 0064 High Spirit P1
+: 800FA0D5 0064 High Spirit P2
+: 800FA485 0064 High Spirit P3
+: 800FA835 0064 High Spirit P4
+: 800EB421 000A Infinite Combo Time P1
+: 800EB423 000A Infinite Combo Time P2
+: 800EB425 000A Infinite Combo Time P3
+: 800EB427 000A Infinite Combo Time P4
+: 800FAF87 0000 Infinite Time
+: 800FACE8 0014 Infinite Time Out Of Ring
+: 800F9D25 00FF Maximum Spirit P1
+: 800FA0D5 00FF Maximum Spirit P2
+: 800FA485 00FF Maximum Spirit P3
+: 800FA835 00FF Maximum Spirit P4
+: 800FACE8 0000 No Countout
+: 80016925 0023 No Sound
+: 800F9D25 0000 No Spirit P1
+: 800FA0D5 0000 No Spirit P2
+: 800FA485 0000 No Spirit P3
+: 800FA835 0000 No Spirit P4
+: 810F9D46 FFFF No Submission Hold - Always Reverse Attempts
+: 800F9D25 0032 Normal Spirit P1
+: 800FA0D5 0032 Normal Spirit P2
+: 800FA485 0032 Normal Spirit P3
+: 800FA835 0032 Normal Spirit P4
+: 890F9D36 0240 P1 Invincible
+: 800F9D33 00FF P1 Starts Match Bleeding
+: 890FA0E6 0240 P2 Invincible
+: 800FA0E3 00FF P2 Starts Match Bleeding
+: 890FA496 0240 P3 Invincible
+: 800FA493 00FF P3 Starts Match Bleeding
+: 890FA846 0240 P4 Invincible
+: 800FA843 00FF P4 Starts Match Bleeding
+: 800FACE8 0001 Quick Count Out
+: 810F9D24 2617 Ultimate Code P1 - Max Spirit, everyone else no spirit and quick TKO's.
+: 810FA0D4 2617 Ultimate Code P2
+: 810FA484 2617 Ultimate Code P3
+: 810FA834 2617 Ultimate Code P4
+: 8107F07C FFFF Unlock Wrath In Sting's Outfit

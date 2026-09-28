@@ -1,0 +1,10 @@
+# World Cup 98 (USA) (En,Fr,De,Es,It,Nl,Sv,Da)
+
+: D1015DA4 0018 Enable Debug Screen Selection - Press R + C-Up to toggle it to the on state, and R + C-Down to disable it. After it is on, choose any main menu option.
+: 8016E431 0001
+: D1015DA4 0014
+: 8016E431 0000
+: 80048EA3 00F0 Finish Half and Full Time Instantly - Keep Time above 4 Minutes
+: 8003CC6F 0001 Open Cup Classic Mode
+: 8117BEC2 8CEA Replace Debug Screen Selection with Debug Menu
+: 8117BEC2 8DC2 Replace Debug Screen Selection with Module Version Display

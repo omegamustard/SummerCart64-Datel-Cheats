@@ -1,0 +1,38 @@
+# War Gods (USA)
+
+: 8033F31B 00FF Crazy Time
+: 812B13E4 1000 Disable Blocking
+: 80297073 0000 Disable Blocking (Alternate Method)
+: 8033584F 0001 Easy Fatality On
+: 8033584B 0001 Game Timer Off
+: 80336593 0001 Have Cheat Menu
+: 812F3878 1000 Hit Anywhere
+: 812F4218 2400
+: 812F433C 2400
+: 812F438C 2400
+: 812F43F0 2400
+: 812F45F8 2400
+: 81336582 0005 Infinite Credits
+: 8133658E 0004
+: 812FE724 0C00 Infinite Health P1
+: 812FE726 0018
+: 812FE728 000E
+: 812FE72A 7880
+: 81000060 01F1
+: 81000062 C025
+: 81000064 241B
+: 81000066 1000
+: 81000068 03E0
+: 8100006A 0008
+: 8100006C A4DB
+: 8100006E FFF6
+: 8033F31B 0063 Infinite Time
+: 802B1804 0000 Neither Player Takes Any Damage
+: 800A66D8 0065 P2 Is Invisible
+: 812FE730 2400 Player 1's On Screen Health Is Never Updated
+: 812FE764 2400 Player 2's On Screen Health Is Never Updated
+: 812FD43C 2400 Timer Doesn't Count Down
+: D129AA20 4501 Walk Through Stage Boundaries
+: 8129AA20 1000
+: D129AF48 4500
+: 8129AF48 1000

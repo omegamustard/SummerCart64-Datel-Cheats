@@ -1,0 +1,13 @@
+# Stunt Racer 64 (USA)
+
+: 8104E6DC 1000 Regional lockout bypass
+: 800E8250 0001 Auto drive
+: 800A7457 0001 Only one lap to race
+: 81018FB4 5220 Opponents don't move
+: 800BD264 0001 Race alone
+: 810190DC 2400 Race alone - alternate code
+: 8101824C 1000 Take coins almost anywhere
+: 8101824E 0017
+: 81018320 2400
+: 81018328 2400
+: 810078B4 1000 Use turbo even when it's empty

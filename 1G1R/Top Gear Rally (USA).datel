@@ -1,0 +1,67 @@
+# Top Gear Rally (USA)
+
+: 8031C58B 0006 Always have 6 gears, Player 1 & 2
+: 8031E61B 0006
+: 8031C6DF 0009 Always In 2nd Place Or Last
+: 8131C70E 0000 Always Place 1st
+: 8131C578 37FA Can Achieve High Max. Speed
+: 8131C57A 1395
+: 802A9ED1 00C0 Change Your Car Into A Monster-Truck
+: 802A9ED5 0050
+: 8031DD18 00BE CPUs Tumbling Out of Control
+: 8031E128 00BD
+: 8031FDA8 00BE
+: 803201B8 00BD
+: 813243CE FFFF Extra Tracks (Combined)
+: 813243CC FFFF Extra Vehicles (Combined)
+: 8128B6E8 441B Fast BEACH BALL
+: 8028B6F7 0000
+: 8128B69C 441B Fast CUPRA
+: 8028B6AB 0000
+: 8128B604 4424 Fast HELMET
+: 8128B650 4423 Fast MILK TRUCK
+: 8128B358 4429 Fast TYPE CE
+: 8128B3A4 4426 Fast TYPE-ES
+: 8128B56C 4428 Fast TYPE-IP
+: 8128B5B8 4427 Fast TYPE-LD
+: 8128B520 441B Fast TYPE-M3
+: 8028B52F 0000
+: 8128B3F0 4423 Fast TYPE-NS
+: 8128B4D4 4424 Fast TYPE-PS
+: 8128B43C 4423 Fast TYPE-RS
+: 8128B488 441B Fast TYPE-SP
+: 8028B497 0000
+: 8131C580 4427 Good Acceleration
+: 8131C582 9AE1
+: 8131C580 4410 Insane Acceleration
+: 8131C582 0000
+: D031A3E1 0010 JUMP! Player 1 (with R button)
+: 8131B934 40C0
+: D031A3E7 0010 JUMP! Player 2 (with R button)
+: 8131D9C4 40C0
+: 8028AA6F 0000 No Display
+: 8028AA7B 0000 No Fog (You Can Really Enjoy The Strip-Mine Now)
+: 8031C6DB 0002 Only 1 Lap to Race
+: 8031C6DB 0005 Race Forever
+: 8032431F 0064 Championship Season 1 Points
+: 80324321 0064 Championship Season 2 Points
+: 80324323 0064 Championship Season 3 Points
+: 80324325 0064 Championship Season 4 Points
+: 80324327 0064 Championship Season 5 Points
+: 80324329 0064 Championship Season 6 Points
+: 8028AA80 0001 Special Weather Report - Always Evening
+: 8028AA8C 0001 Special Weather Report - Always Raining
+: 8028AA84 0001 Special Weather Report - Always Snowing
+: D031A3E1 0000 Stuck-Car Timer Paused, Player 1
+: 8031BAA3 000A
+: D031A3E7 0000 Stuck-Car Timer Paused, Player 2
+: 8031DB33 000A
+: 8131A3E0 000F View Game Completion Date On Main Screen
+: 8031C6DC 0005 Win in 1.5 Seconds
+: 8028B308 0000 Wrong Way Sign Never Appears
+: 802A9531 0030 Camera Above
+: 802A9539 0030
+: 8028AAC1 0070 Camera Behind
+: 802A954C 006F Camera DRIFT CAM, all players
+: 8028AAC1 008F Camera Hack Master's View
+: 802A9531 0025

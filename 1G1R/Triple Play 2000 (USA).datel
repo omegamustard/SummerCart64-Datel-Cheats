@@ -1,0 +1,19 @@
+# Triple Play 2000 (USA)
+
+: D00B9000 0000 1 Ball And You Walk
+: 800B9000 0003
+: D00B9001 0000 1 Out And You Are Out
+: 800B9001 0002
+: D00B8FFF 0000 1 Strike And You Are Out
+: 800B8FFF 0002
+: D00B9000 0000 2 Balls And You Walk
+: 800B9000 0002
+: D00B9001 0000 2 Outs And You Are Out
+: 800B9001 0001
+: D00B8FFF 0000 2 Strikes And You Are Out
+: 800B8FFF 0001
+: D00B9000 0000 3 Balls And You Walk
+: 800B9000 0001
+: 800B9000 0000 Infinite Balls
+: 800B9001 0000 Infinite Outs
+: 800B8FFF 0000 Infinite Strikes

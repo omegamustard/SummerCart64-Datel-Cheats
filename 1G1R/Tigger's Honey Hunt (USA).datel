@@ -1,0 +1,18 @@
+# Tigger's Honey Hunt (USA)
+
+: F10873A0 2400 Enable Code (Must Be On)
+: F1008964 2400 Master Code
+: F10873A0 2400
+: F10083F4 2400
+: F1008400 2400
+: 81069696 0000 Infinite Health Points
+: 810A2DF6 0009 Infinite Lives
+: D10AC2FC 1020 L + Start  In Game For Debug Menu, C-Up to Disable
+: 810603FA 416A
+: D10AC2FC 0008
+: 810603FA 7C88
+: 810A2DFA 03E7 Max Honey Pots
+: 810A3076 0001 Press A For Moon Jump
+: 00000000 0000 Have Mouse Card Codes
+: 800A2DD4 0001 And So The Adventure Begins
+: 800A2DD5 0001 Night Tail

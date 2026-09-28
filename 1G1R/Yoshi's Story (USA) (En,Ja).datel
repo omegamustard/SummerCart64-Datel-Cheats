@@ -1,0 +1,48 @@
+# Yoshi's Story (USA) (En,Ja)
+
+: DE000400 0000 Enable Code (Must Be On)
+: EE000000 0000 Additional Enable Code (Cheat Device 3.20 Or Higher Needed!)
+: 880F89D3 001E Automatically Finish a Level
+: 800F895B 0003 Can Select Any Stage In Each Chapter
+: 810F8E5C 7FFF Enable All Levels (Trial Mode)
+: 810F8E5E FFFF
+: 8102E4F0 03E0 Enemies Can't Touch You And You Can't Touch Them
+: 8102E4F2 0008
+: 8102E4F4 2400
+: 8103E89C 2400 Infinite Eggs Once You Get One (All Levels, All Yoshis)
+: 81034924 A040 Infinite Flutter
+: 8102DEC8 3000
+: 8102B780 2400 Infinite Health (All Yoshis)
+: 800F8DD3 0008 Infinite Health Black Yoshi
+: 800F8DC3 0008 Infinite Health Dark Blue Yoshi
+: 800F8DB7 0008 Infinite Health Green Yoshi
+: 800F8DC7 0008 Infinite Health Light Blue Yoshi
+: 800F8DCB 0008 Infinite Health Pink Yoshi
+: 800F8DBB 0008 Infinite Health Red Yoshi
+: 800F8DCF 0008 Infinite Health White Yoshi
+: 800F8DBF 0008 Infinite Health Yellow Yoshi
+: 800F8DF7 00FF Infinite Lives (All Yoshi's)
+: 810F8DF6 FFFF Infinite Lives (All Yoshi's) Plus Have 3 White Shy Guys Running Around The Yoshi Select Screen
+: 801DCB9E 0001 No Sound
+: 880F89D3 001E Press Cheat Device Button To Have All Fruit
+: D00F9390 0002 Press D-Pad Left To Have All Fruit
+: 800F89D3 001D
+: D00F9391 0010 Press R for Moon Jump (1.1, 2.3, 6.3)
+: 810C9614 C000
+: D00F9391 0010 Press R for Moon Jump (1.2, 4.1, 4.3)
+: 810C9890 C000
+: D00F9391 0010 Press R for Moon Jump (1.3)
+: 810C9D88 C000
+: D00F9391 0010 Press R for Moon Jump (1.4, 3.2)
+: 810C9398 C000
+: D00F9391 0010 Press R for Moon Jump (2.1)
+: 810C9B0C C000
+: D00F9391 0010 Press R for Moon Jump (2.2)
+: 810CA778 C000
+: D00F9391 0010 Press R for Moon Jump (2.4, 3.1, 3.4, 4.2, 5.1, 6.4)
+: 810C8EA0 C000
+: D00F9391 0010 Press R for Moon Jump (6.2)
+: 810C911C C000
+: D00F9391 0010 Press R for Moon Jump (Practice, 4.4, 6.1)
+: 810C89A8 C000
+: 810CA9B0 442F Tongue Goes Through Items

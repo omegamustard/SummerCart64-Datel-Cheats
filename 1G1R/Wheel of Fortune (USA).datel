@@ -1,0 +1,32 @@
+# Wheel of Fortune (USA)
+
+: 81007CA0 2400 All Scores Count For P1
+: 81007CA0 2421 All Scores Count For P2
+: 81007CA2 0114
+: 81007CA0 2400 All Scores Count For P3
+: 81007CA6 9BB8
+: 8100898C 1000 Always Solve The Puzzle Correctly (No Matter What You Enter)
+: 81018A20 2400 Disable 'Lose A Turn' Space On The Wheel
+: 810093D8 2400 Don't Lose Cash When You Land On Bankrupt
+: 81018BF8 2400 Don't Lose Your Turn For Calling An Incorrect Letter
+: 81018970 2400 Don't Lose Your Turn When You Go Bankrupt
+: 8100946A 1821 Double The Amount Of Cash The Jackpot Gets
+: 81009470 0062
+: 81009472 1021
+: 81009478 AC22
+: 8100947A 9540
+: 810099F4 2400 Get Tons Of Money Whether You Get A Letter Or Not
+: 800B999B 0001 Infinite Free Spins P1
+: 800B9AAF 0001 Infinite Free Spins P2
+: 800B9BC3 0001 Infinite Free Spins P3
+: 810096CC 2400 Never Lose Your Turn
+: 81010838 2403 One Correct Letter Reveals The Whole Puzzle
+: 8101083A 0020
+: 81010840 1062
+: 81007D14 2400 Vowels Cost Nothing
+: 81007C9A 2021 Wheel Cash Values Worth Double
+: 81007CA4 0082
+: 81007CA6 1021
+: 81007CAC AC22
+: 81007CAE 9990
+: 81009728 2400 Winner Of The Round Goes First On The Next Round

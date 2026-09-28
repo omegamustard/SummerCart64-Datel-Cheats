@@ -1,0 +1,19 @@
+# V-Rally Edition 99 (USA)
+
+: 810207E8 2402 Auto drive
+: 810207EC 0004
+: 80140D28 0001 Champ Unlock
+: 80140D1F 003F Enable All Cars
+: 80140D1A 0070 Enable All Tracks
+: 80140D1C 0031 Enable Expert Times
+: 81020E1C 2400 Infinite Time
+: 800B1940 0001 No laps to race
+: 800B1940 0002 Only one lap to race
+: 81020C20 2400 Opponents don't drive
+: 81026F40 2400 Opponents don't move (and are invisible)
+: 81020CA8 2400 Stop Lap Timer
+: D11B1F14 0000 Unlock Cheat Menu (Cheat Device 3.0 Or Higher Needed!)
+: 811B1F14 00FF
+: 811D530A 04FF
+: D11B1F14 00FF
+: 811B0270 FF03

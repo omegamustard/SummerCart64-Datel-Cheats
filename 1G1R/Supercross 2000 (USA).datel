@@ -1,0 +1,7 @@
+# Supercross 2000 (USA)
+
+: 81010440 2400 One lap to complete races
+: D10CFA90 1440 Opponents don't control the bike
+: 810CFA90 1000
+: D10DC860 0C03 Opponents don't move
+: 810DC860 2400
