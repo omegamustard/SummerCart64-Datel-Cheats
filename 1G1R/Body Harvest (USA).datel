@@ -19,7 +19,7 @@
 : 81075BA0 0000 Kill Timers [ASM]
 : D0047589 0020 L Button For Moon Jump
 : 8104DD04 414C
-: D00475D9 0020 L Button To Wall Over Water, Climb Hills
+: D00475D9 0020 L Button To Walk Over Water, Climb Hills
 : 8104DCD2 0808
 : 8104816A 0000 No Humans Killed
 : 810AE1B4 A45C No Humans Killed [ASM]
