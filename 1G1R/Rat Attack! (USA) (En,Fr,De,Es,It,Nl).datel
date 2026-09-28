@@ -1,0 +1,16 @@
+# Rat Attack! (USA) (En,Fr,De,Es,It,Nl)
+
+: EE000000 0000 Disable Expansion Pack
+: 81071DB4 2402 Invulnerable
+: 81071DB6 0001
+: 81071DB8 AE42
+: 81071DBA 0144
+: 81071DB4 2402 Invulnerable and walking faster
+: 81071DB6 0003
+: 81071DB8 AE42
+: 81071DBA 0144
+: 81158440 05F5 Max Score
+: 81158442 E0FF
+: 81074568 2402 One rat to finish levels
+: 8107456A 0001
+: 81074574 ACC2

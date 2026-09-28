@@ -1,0 +1,25 @@
+# Nuclear Strike 64 (USA)
+
+: 800A973D 0001 Agility
+: 800A9741 0001 Auto Win Scenario
+: 800A9740 0001 Debug Menu
+: 800A9735 0001 Double MPG
+: 800A9731 0001 Infinite Ammo
+: 81054278 3000 Infinite ammo (all weapons)
+: 8101FD88 A45B Infinite armor (you'll never blow up)
+: 800A9732 0001 Infinite Attempts
+: 810491DC 3000 Infinite attempts (lives)
+: 800A9737 0001 Infinite Chaingun
+: 800A9733 0001 Infinite Fuel
+: 81048B24 3000 Infinite Fuel (alternate)
+: 800A5DF0 0009 Infinite Lives
+: 800A9739 0001 Infinite Missiles
+: 800A9738 0001 Infinite Rockets
+: 800A973A 0001 Infinite Wingtips
+: 800A9730 0001 Invulnerability
+: 800A973F 0001 Level Skip
+: 800A973C 0001 Max Armor Increased 50%
+: 800A973E 0001 Overhead View
+: 800A9736 0001 Quad Damage
+: 800A9734 0001 Stealth Mode
+: 800A973B 0001 Wingtips Do Double Damage

@@ -1,0 +1,21 @@
+# AeroGauge (USA)
+
+: 8013FC91 0001 Always First Position P1
+: 8013FCA1 0001 Freeze Lap Timer 1 P1
+: 8013FCA5 0001 Freeze Lap Timer 2 P1
+: 8013FCA9 0001 Freeze Lap Timer 3 P1
+: 8013FC95 0001 Freeze Overall Timer
+: 8113FFD8 0000 Infinite Damage P1
+: 8113FFDA 0000
+: 8113FFDC 0000
+: 8113FFDE 0000
+: 81142078 0000 Infinite Damage P2
+: 8114207A 0000
+: 8114207C 0000
+: 8114207E 0000
+: 8101D998 2400 Lap Timers Don't Run
+: 81058B04 2400 Neither Player Takes Any Damage
+: 81058B38 2400
+: 81058B44 2400
+: 8101D6C0 2400 Overall Timer Doesn't Run
+: 8108F29C 0100 Unlock Hidden Tracks & Hover Cars

@@ -1,0 +1,43 @@
+# Glover (USA)
+
+: 8011E653 0030 6 New Levels in Level Select Menu
+: 8015A2FF 0000 All Balls Can Shatter Like Crystal Ball
+: 81159040 0000 Ball Is Invincible
+: 81159042 0000
+: 81159048 0000
+: 8115904A 0000
+: 81159050 0000
+: 81159052 0000
+: 811AED98 0000 Ball Never Gets Damaged
+: 811AED9A 0000
+: 811AEDB4 0000
+: 811AEDB6 0000
+: 8015A2F3 0007 Crystal Ball Can Be Bounced Like The Normal Ball
+: 81171B5C 0000 Disable Fall Damage/Death
+: 81171B5E 0000
+: 811723A0 0000
+: 811723A2 0000
+: 8028FC07 0000 Infinite Double Jumps
+: D029011D 00FE Infinite Froggy Time
+: 8129011C 7FFF
+: 80290197 0003 Infinite Health
+: 80290193 0005 Infinite Lives
+: 81172240 0000 Invincibility
+: 81172270 0000
+: 80290197 0003 L Button For Moon Jump
+: 8113DC8E 77D8 Replace Main Menu With Unused Main Menu
+: 801FA755 0003 Time Code - You will have the winning times in all time trial levels.
+: 812901C6 03FF Infinite Magic Codes On Pick-Up - Beach Ball Spell
+: 812901AE 03FF Infinite Magic Codes On Pick-Up - Big Glover Spell
+: 812901D6 03FF Infinite Magic Codes On Pick-Up - Call Ball Spell
+: 812901A2 03FF Infinite Magic Codes On Pick-Up - Death Spell
+: 812901BA 03FF Infinite Magic Codes On Pick-Up - Enemy Ball Spell
+: 8129019E 03FF Infinite Magic Codes On Pick-Up - Freeze Enemy Spell
+: 812901A6 03FF Infinite Magic Codes On Pick-Up - Frog Spell
+: 812901CE 03FF Infinite Magic Codes On Pick-Up - Green Ball Spell
+: 812901B6 03FF Infinite Magic Codes On Pick-Up - Helicopter Spell
+: 812901CA 03FF Infinite Magic Codes On Pick-Up - Hovering Ball Spell
+: 812901BE 03FF Infinite Magic Codes On Pick-Up - Purple Bouncy Ball Spell
+: 812901D2 03FF Infinite Magic Codes On Pick-Up - Super Call Ball Spell
+: 812901C2 03FF Infinite Magic Codes On Pick-Up - Tiny Black/Grey Ball Spell
+: 812901AA 03FF Infinite Magic Codes On Pick-Up - Walk On Walls Spell

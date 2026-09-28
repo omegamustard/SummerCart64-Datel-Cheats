@@ -1,0 +1,42 @@
+# Bomberman Hero (USA)
+
+: 810601E4 340A Can Choose Any Stage/Area
+: 81060074 3402
+: 80024458 0014 Debug Menu
+: D0165241 0000 Extra Gems
+: 80165241 004B
+: 8016523F 0003 Full Bomb Power
+: 80165240 0003 Full Fire Power
+: D105A454 0020 Glide - When you jump, press L to stay in the air, to come down, press R.
+: 811651A6 0002
+: D105A454 0010
+: 811651A6 0001
+: 80165242 0004 Have 4 Keys Crystal
+: 80165258 0001 Have Always Fire Resistance Suit
+: 80165268 0001 Have Always Power Glove
+: 80165260 0001 Have Always Wall-Through
+: 80165247 0001 Have Card Key
+: 80165248 0001 Have Data Disk
+: 80165244 0004 Infinite Health
+: 80165243 0009 Infinite Lives
+: 801554B1 0000 Invincible Bosses
+: 81287048 3C09 Jump in Midair
+: 8128704A 4220
+: 8128704E 8015
+: 81287050 AC29
+: 81287052 4178
+: D005A455 0020 L Button For Moon Jump
+: 81154178 41CB
+: D005A455 0020
+: D0154154 0000
+: 80154154 0040
+: 8016523F 0008 Max Bombs
+: 80165240 0008 Max Explosion
+: 801554B1 0001 One Hit To Kill Bosses
+: 88057498 00FF Press Cheat Device Button For All Millian's Treasures
+: 88057499 00FF
+: 8805749A 00FF
+: 88057495 00FF Press Cheat Device Button For All OD Bombs
+: 88057496 00FF
+: 88057497 00FF
+: 801776F8 0001 Unlock the Bonus "Bomber Star" levels

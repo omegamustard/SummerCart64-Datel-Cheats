@@ -1,0 +1,25 @@
+# Automobili Lamborghini (USA)
+
+: 800CE743 0064 100 Points
+: 800985C3 0001 Extra Vehicles
+: 800985C5 0001
+: 800985C7 0001
+: 800985CB 0001
+: 800985CD 0001
+: 800985CF 0001
+: 800CE76F 0063 Infinite Time
+: 800CE76F 0000 No Race Time
+: 810015DC 2400 Stop Lap Timer
+: 81001560 2400 Stop Timer
+: 810A5F30 0001 P1 Always 1st Place
+: 8109876C 0000 P1 Stop Time Trial/Lap Timer
+: 8109876E 0000
+: 810A5FF4 0001 P2 Always 1st Place
+: 81098774 0000 P2 Stop Time Trial/Lap Timer
+: 81098776 0000
+: 810A6078 0001 P3 Always 1st Place
+: 8109877C 0000 P3 Stop Time Trial/Lap Timer
+: 8109877E 0000
+: 810A60FC 0001 P4 Always 1st Place
+: 81098784 0000 P4 Stop Time Trial/Lap Timer
+: 81098786 0000

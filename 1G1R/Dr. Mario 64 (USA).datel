@@ -1,0 +1,21 @@
+# Dr. Mario 64 (USA)
+
+: F100D2E0 2400 Enable Code (M)
+: D101D804 1020 Enable Debug Menus
+: 8006679F 0020
+: D101D804 1020
+: 8006675F 0020
+: D101D804 1010
+: 8006679F 0021
+: D101D804 1010
+: 8006675F 0021
+: D101D804 1008
+: 8006679F 0018
+: D101D804 1008
+: 8006675F 0018
+: 810FB3A6 04CB Low Timer
+: 801237AB 0000 Only Need One Virus To Complete The Stage (All Modes)
+: 81065330 2400 Only One Virus Needed To Beat Stage
+: 80123AE9 0063 Only One Virus Needed To Beat Stage (except classic)
+: 81061248 0000
+: 81061254 0000

@@ -1,0 +1,21 @@
+# Snowboard Kids (USA)
+
+: D0122288 0000 1 Lap Race
+: 80122288 0009
+: 8110AE5E 0100 Enable Shinobin
+: 810B3194 0F00 Have All Characters, Tracks, Cups In Battle Mode
+: 810ECA22 0101 Have All Gold Medals
+: 810ECA24 0101
+: 810ECA26 0101
+: 810ECA28 0101
+: 810ECA2A 0101
+: 810ECA2C 0101
+: 801222EA 0050 Infinite Cash
+: 80122289 0000 P1 Always 1st 
+: 80122895 0000 P2 Always 1st 
+: 80122EA1 0000 P3 Always 1st 
+: 801234AD 0000 P4 Always 1st 
+: 80122294 0003 P1 Infinite Left Weapon
+: 801228A0 0003 P2 Infinite Left Weapon
+: 80122EAC 0003 P3 Infinite Left Weapon
+: 801234B8 0003 P4 Infinite Left Weapon

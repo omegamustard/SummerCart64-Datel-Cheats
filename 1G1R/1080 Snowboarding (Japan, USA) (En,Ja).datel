@@ -1,0 +1,28 @@
+# 1080 Snowboarding (Japan, USA) (En,Ja)
+
+: DE000400 0000 Enable Code [This Code Must Be On]
+: DE000400 0000 Master Code - Disable Expansion Pack
+: EE000000 0000
+: 81255096 FCFF All Trick Attacks Done
+: 81255077 00FF Enable All Levels
+: D13F3E58 51A0 GodMode - No reaction to bumps and no damage
+: 813F3E58 1000
+: D13F3578 11E0
+: 813F3578 1000
+: 8925508E FFFF Have All Training Options Finished/Have Access To Penguin Board
+: 88255090 00FF
+: 8131A82E FFFF High Score In Airmake
+: 813F4C3C 2400 Infinite Damage (All Players/Levels)
+: 8026B1CB 0003 Infinite Lives
+: 80319CCA 00C5 Infinite Time Contest Levels - Air Make
+: 8029C1EA 00C5 Infinite Time Contest Levels - Crystal Lake
+: 802A89AA 00C5 Infinite Time Contest Levels - Crystal Peak
+: 802A6E4A 00C5 Infinite Time Contest Levels - Golden Forest
+: 802F530A 00C5 Infinite Time Contest Levels - Half Pipe
+: 802A59EA 0000 Low Timer for Crystal Lake
+: 8025508A 0005 Match Levels Completed
+: 81255088 00FF Open All Tracks
+: 8026B1CD 0009 Play Match Race in the Air Make Level
+: 81267B40 2400 Stop Match Timer
+: 81099CDC AC40 The opponent in the races don't move
+: 812F616E FFFF Very High Score In Halfpipe

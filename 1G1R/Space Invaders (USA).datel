@@ -1,0 +1,10 @@
+# Space Invaders (USA)
+
+: F10987C8 2400 Master Code
+: F1098810 2400
+: F109A380 2400
+: F109AED0 2400
+: 800B51DD 0063 Infinite Lives P1
+: 800B529D 0063 Infinite Lives P2
+: 810B51E2 FFFF Infinite Points
+: 810B51B6 0001 Infinite Shield P1

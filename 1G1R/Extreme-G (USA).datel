@@ -1,0 +1,33 @@
+# Extreme-G (USA)
+
+: 80167C0B 0001 Enable Critical Mass
+: 80167C0F 0001 Enable Meltdown
+: 80167C13 0001 Enable Roach & Neon
+: 80167C17 0003
+: 80167A67 0001 Enable Track 1-1
+: 80167747 0001 Enable Track 1-2
+: 80167873 0001 Enable Track 1-2
+: 8016799F 0001 Enable Track 1-2
+: 80167ACB 0001 Enable Track 1-2
+: 801677AB 0001 Enable Track 1-3
+: 801678D7 0001 Enable Track 1-3
+: 80167A03 0001 Enable Track 1-3
+: 80167B2F 0001 Enable Track 1-3
+: 80167C37 0063 Have 100 Points
+: 801635CB 0003 Infinite Nitros P1
+: 801635CF 0003
+: 80163D3B 0003 Infinite Nitros P2
+: 80163D3F 0003
+: 801644AB 0003 Infinite Nitros P3
+: 801644AF 0003
+: 80164C1B 0003 Infinite Nitros P4
+: 80164C1F 0003
+: 810B6544 2400 Infinite Primary Weapon (All Players)
+: 801635FD 00C8 Infinite Primary Weapon P1
+: 80163D6D 00C8 Infinite Primary Weapon P2
+: 801644DD 00C8 Infinite Primary Weapon P3
+: 80164C4D 00C8 Infinite Primary Weapon P4
+: 801635F5 00C8 Infinite Shield P1
+: 80163D65 00C8 Infinite Shields P2
+: 801644D5 00C8 Infinite Shields P3
+: 80164C45 00C8 Infinite Shields P4

@@ -1,0 +1,24 @@
+# Hydro Thunder (USA)
+
+: F124FFA0 2400 Enable Code (Must Be On)
+: 812C4C96 0001 Always Place First Place
+: 812C4C9C 4190 Infinite Boost P1
+: 812C4FCC 4190 Infinite Boost P2
+: 812B4890 42C8 Infinite Time
+: 50000D01 0000 Have All Cars (Cheat Device 3.0 Or Higher Needed!)
+: 802B5CA2 0001
+: 50000D01 0000 Have All Tracks (Cheat Device 3.0 Or Higher Needed!)
+: 802B5C94 0003
+: 802B5CA2 0001 Have Armed Response
+: 802B5CA6 0001 Have Banshee
+: 802B5CAE 0001 Have Blowfish
+: 802B5CAD 0001 Have Chumdinger
+: 802B5CAA 0001 Have Cutthroat
+: 802B5CA7 0001 Have Damn The Torpedoes
+: 802B5CA8 0001 Have Midway
+: 802B5CA9 0001 Have Miss Behave
+: 802B5CAB 0001 Have Rad Hazard
+: 802B5CAC 0001 Have Razorback
+: 802B5CA4 0001 Have Thresher
+: 802B5CA3 0001 Have Tinytanic
+: 802B5CA5 0001 Have Tiorl Blade

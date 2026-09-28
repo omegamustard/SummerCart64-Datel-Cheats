@@ -1,0 +1,23 @@
+# Fox Sports College Hoops '99 (USA)
+
+: 8012A4EA 0000 Away Team Scores 0
+: 8012A4EA 0096 Away Team Scores 150
+: 8012A4D2 0000 Home Team Scores 0
+: 8012A4D2 0096 Home Team Scores 150
+: 8012A4EC 0006 Infinite Time Outs Away
+: 8012A4D4 0006 Infinite Time Outs Home
+: 8012A4EC 0000 No Time Outs Away
+: 8012A4D4 0000 No Time Outs Home
+: 81098E88 0100 Big Head Mode
+: 80098E98 0089 Final Four Stadium
+: 80098E98 0088 Z-Axis Stadium
+: 8106D514 2400 Game Clock Doesn't Count Down (Cheat Device Button To End Half)
+: 8912A4C0 BF42
+: 8112A4BC 4210 Infinite Shot Clock
+: 810CA520 0454 No Fans In Crowd
+: 81098E84 0100 Partially Invisible Players
+: 81097088 0100 Programmer's Team
+: 8109707C 0000 Shot Clock Disabled
+: 8106D520 2400 Shot Clock Doesn't Count Down
+: 810B4600 4100 Trail Follows The Ball
+: 8912A4BC 3FC0 Cheat Device Button For 1-Second Shot Clock

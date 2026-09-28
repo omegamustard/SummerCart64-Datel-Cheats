@@ -1,0 +1,17 @@
+# Deadly Arts (USA)
+
+: 8009E3DF 00FF Extra Characters
+: 8113EC18 1000 Hit Anywhere
+: 8113EC1A 008C
+: 81105026 03E8 Infinite Health P1
+: 811071AC 0008
+: 8111B3BE 03E8 Infinite Health P2
+: 8111D544 0008
+: 81105026 0000 No Energy P1
+: 8111B3BE 0000 No Energy P2
+: D009E3F4 0000 P1 Needs 1 Round to Win
+: 8009E3F4 0001
+: 8009E3F4 0000 P1 Never Wins
+: D009E3F5 0000 P2 Needs 1 Round to Win
+: 8009E3F5 0001
+: 8009E3F5 0000 P2 Never Wins

@@ -1,0 +1,58 @@
+# Mortal Kombat 4 (USA)
+
+: 8004938B 0002 Add "Restart This Match" Option To The Arcade Mode Pause Menu
+: 8114A94D 9700 Faster Fatality Finish
+: 80048CB5 0000 Have Big Head Mode Off
+: 80048CB5 0001 Have Big Head Mode On
+: 80048CBF 0000 Have Endings Off
+: 80048CBF 0001 Have Endings On
+: 80048CC3 0000 Have Fatalities 1 Off
+: 80048CC3 0001 Have Fatalities 1 On
+: 80048CC7 0000 Have Fatalities 2 Off
+: 80048CC7 0001 Have Fatalities 2 On
+: 80048CCB 0000 Have Level Fatalities Off
+: 80048CCB 0001 Have Level Fatalities On
+: 811BCBC0 2400 Hit Anyone Anywhere
+: 810EFEF2 7CB0 Hyper Mode
+: 810F8506 0063 Infinite Credits P1
+: D111D7EA A894 Infinite Fatality Time (100% Fixed)
+: 8011D7FB 00F0
+: 8114A870 2400 Infinite Fatality Time With No Side Effects
+: 810FE0D8 0001 Infinite Health P1
+: 810FE0DA 0000
+: 81126F54 0001 Infinite Health P2
+: 81126F56 0000
+: 800FE667 0000 Infinite Round and Play After Round Ends
+: 811BF7EC 2400 Infinite Run (Both Players)
+: 81104FCC 0001 Infinite Run P1
+: 81104FCE 0000
+: 81105080 0001 Infinite Run P2
+: 81105082 0000
+: 8010511B 0063 Infinite Time
+: 8011DABF 0015 Infinite Time At "Choose Your Destiny"
+: 80126F73 0014 Infinite Time to Choose Characters
+: 810F8506 0000 No Credits P1
+: 810F84BA 0000 No Credits P2
+: 810FE0D8 0000 No Health P1
+: 810FE0DA 0000
+: 81126F54 0000 No Health P2
+: 81126F56 0000
+: 81104FCC 0000 No Run P1
+: 81104FCE 0000
+: 81105080 0000 No Run P2
+: 81105082 0000
+: 800FE293 000F P1 Always Goro
+: 800FE293 0010 P1 Always Kitana (2-Player Mode ONLY)
+: 81126F42 0001 P1 Always Meat
+: 800FE293 0011 P1 Always Noob Saibot
+: 81126F46 0001 P2 Always Meat
+: D00F1AB1 0011 Press R & C-Right To Add Kitana To Any Tower
+: 801268EF 0010
+: D00F1AB1 0018 Press R & C-Up To Add Noob To Any Tower
+: 801268EF 0011
+: 80104F9B 0010 Skip Straight To Ending
+: 81048F66 000A Skull Stage (Practice Mode Only)
+: D11B8CE0 1440 Walk Through Stage Boundaries
+: 811B8CE0 1000
+: D11B9128 1040
+: 811B9128 1000

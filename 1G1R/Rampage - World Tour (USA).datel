@@ -1,0 +1,36 @@
+# Rampage - World Tour (USA)
+
+: 800BF9A4 0001 Always Be Vern George (#1)
+: 800BFB70 0001 Always be Vern Lizzie (#1)
+: 800BFD3C 0001 Always be Vern Ralph (#1)
+: 800BF88C 00FF George Doesn't Have A Point Meter
+: 800BF88C 0064 George Has 9999900 Points
+: 800BF86C 00FF George Has A Huge Lifebar/Keeps Wanting You To Continue
+: 800BF86D 0064 Infinite Health George
+: 800BFA39 0064 Infinite Health Lizzie
+: 800BFC05 0064 Infinite Health Ralph
+: 800BF86B 0064 Infinite Lives George
+: 800BFA37 0064 Infinite Lives Lizzie
+: 800BFC03 0064 Infinite Lives Ralph
+: 810BF956 0239 Invincibility George
+: 810BFB22 0239 Invincibility Lizzie
+: 810BFCEE 0239 Invincibility Ralph
+: 800BFA58 00FF Lizzie Doesn't Have A Point Meter
+: 800BFA58 0064 Lizzie Has 9999900 Points
+: 800BFA38 00FF Lizzie Has A Huge Lifebar/Keeps Wanting You To Continue
+: 800BF86B 0000 No Health George
+: 800BFA39 0000 No Health Lizzie
+: 800BFC05 0000 No Health Ralph
+: 880BF86C 0064 Press Cheat Device Button For Full Lifebar George
+: 880BFA38 0064 Press Cheat Device Button For Full Lifebar Lizzie
+: 880BFC04 0064 Press Cheat Device Button For Full Lifebar Ralph
+: 800BFC24 00FF Ralph Doesn't Have A Point Meter
+: 800BFC24 0064 Ralph Has 9999900 Points
+: 800BFC04 00FF Ralph Has A Huge Lifebar/Keeps Wanting You To Continue
+: 8007C031 0001 Stage Select Helper - Right After Selecting Character and See Stage Briefing. Press C-Down and then press up, left, right, or down.
+: 810BF958 0181 Super Strength George
+: 810BF9A0 0000
+: 810BFB24 0181 Super Strength Lizzie
+: 810BFB6C 0000
+: 810BFCF0 0181 Super Strength Ralph
+: 810BFD38 0000

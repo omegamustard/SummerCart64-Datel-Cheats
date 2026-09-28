@@ -1,0 +1,82 @@
+# Army Men - Sarge's Heroes (USA)
+
+: F10507CC 2400 Enable Code (Must Be On)
+: 8003E22F 0003 Enable Cheat Menu
+: 8004609F 0003
+: 810AA696 9214 Enable Level Select Menu
+: 810AA696 97EC Enable Test Menu
+: 8136035A FFFE All items/weapons in Boot Camp Mode
+: 8115969E 0001 All Weapons
+: 810A04FA ED40 Can't Fail Missions
+: 8006D14C 0020 Enemies Can't Aim
+: 80054CAD 0020 Enemies Do What You Do
+: 800585D8 0020 Enemies Fight Themselves! (Works Best On Later Levels)
+: 8005742D 0001 Enemies' Ability To Recognize You Lessened Slightly
+: 8006D69D 0001 Enemies' Flamethrowers Don't Work! (Neither Does Yours)
+: 8006BD79 0020 Flamethrowers Fire In All Directions
+: 80054C81 0002 Get Hit, Then Walls Turn Off (Able To Just Roam)
+: 8135ECCE FFFE Have ALL Weapons/Items In Single Player
+: 810ACE50 3E40 High Jump
+: 8115FCEE 0001 Immortal (Invincible)
+: 80054C94 0001 Incendiary Bullets! (Shoot Enemies & They Burn!)
+: 81159692 0001 Infinite Continues
+: 81159682 0001 Invisible
+: 800ABD84 003E Jump Farther
+: 800ABD84 003F Jump Really Far
+: 80056688 0020 Less Enemies In Levels
+: 800ABD69 00FF Move Faster
+: 800ABDA9 00FF
+: 80054C81 0001 Multiplayer Incendiary Bullets (You Burn When Shot)
+: 80056D4C 0020 No Enemies In Levels
+: 8133BA4E FFFE All weapons/items in Multi-player P1
+: 8133BC0A FFFE All weapons/items in Multi-player P2
+: 8133BDC6 FFFE All weapons/items in Multi-player P3
+: 8133BF82 FFFE All weapons/items in Multi-player P4
+: 811609A2 0009 Play As Plastro
+: 811609A2 0007 Play As The Big Green One
+: 811609A2 0008 Play As Vikki
+: 800A5810 0000 Shoot Through Some Walls
+: 8115FCBE 0001 Start With Max Ammo
+: 810ACE50 3E80 Super Jump
+: 811596A2 0001 Tin Soldier
+: 800AA6BE 0000 Turn Off Enemy Tanks
+: 80360B53 0000 Kitchen - Attack Helicopter On Your Side
+: 80360BEB 0000
+: 8035EE7F 0000 Kitchen - More Guys On Your Side
+: 8035F1F7 0000
+: 8035F0CF 0000
+: 8035EFA7 0000
+: 8035EF03 0000
+: 8035F27B 0000
+: 8035F153 0000
+: 8035F02B 0000
+: 80362727 0000 Living Room - More Guys On Your Side
+: 8035EDEB 0000
+: 8036284F 0000
+: 803627AB 0000
+: 8035EE6F 0000
+: 803628D3 0000
+: 8035F39F 0000 Riff Mission - Beginning Area's Tank Is On Your Side
+: 8035F437 0000
+: 8035F163 0000 Riff Mission - More Guys On Your Side
+: 8035EF13 0000
+: 8035F03B 0000
+: 80363EDB 0000
+: 803636C3 0000
+: 8035F1E7 0000
+: 8035EF97 0000
+: 8035F0BF 0000
+: 80363F5F 0000
+: 80363747 0000
+: 80361DD3 0000 Sandbox - Beginnings Area's Tank Is On Your Side
+: 80361E6B 0000
+: 80361B97 0000 Sandbox - More Guys On Your Side
+: 803616F7 0000
+: 8036181F 0000
+: 80361CBF 0000
+: 8035EDEB 0000
+: 80361C1B 0000
+: 8036177B 0000
+: 803618A3 0000
+: 80361D43 0000
+: 8035EE6F 0000

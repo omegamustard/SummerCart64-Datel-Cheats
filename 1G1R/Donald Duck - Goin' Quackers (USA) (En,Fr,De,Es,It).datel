@@ -1,0 +1,7 @@
+# Donald Duck - Goin' Quackers (USA) (En,Fr,De,Es,It)
+
+: EE000000 0000 Enable Code (Must Be On)
+: 8019AD16 0002 Infinite Health
+: 801A39AE 0009 Infinite Lives
+: 801A39A7 00FF Infinite Time
+: 801A39AF 0063 Max Stars

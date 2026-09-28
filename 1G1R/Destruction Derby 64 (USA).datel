@@ -1,0 +1,33 @@
+# Destruction Derby 64 (USA)
+
+: F10B8A68 2400 Master Code
+: 80125FD9 0026 Infinite Health/Damage Meter
+: 80095CCB 0001 Ground Zero (Multi)
+: 80095CCA 0001 Urban Mayhem (Multi)
+: 50000602 0000 Have All Cars (Gives All Tracks Too) (GS 2.2 Or Higher Needed!)
+: 81097A18 0101
+: 81097A16 0003 Have All Difficulty Levels
+: 50000602 0000 Have All Tracks (GS 2.2 Or Higher Needed!)
+: 81095CC8 0101
+: 80097A20 0001 Have Ambulance
+: 80095CD2 0001 Have Apline Ridge Track
+: 80095CC9 0001 Have Aztec Ruins (Multi)
+: 80097A18 0001 Have Baja Buggy
+: 80097A1D 0001 Have Blue Demon
+: 80095CCE 0001 Have Boyou Run Track
+: 80095CD0 0001 Have Destruction Junction Track
+: 80097A1F 0001 Have Hot Rod
+: 80097A19 0001 Have Low Rider
+: 80095CCC 0001 Have Metro Challenge Track
+: 80095CD3 0001 Have Midnyte Rumble Track
+: 80097A1B 0001 Have Pickup
+: 80097A23 0001 Have Police Car
+: 80097A1E 0001 Have Rag Top
+: 80095CCD 0001 Have Seascape Track
+: 80097A22 0001 Have Street Rocket
+: 80095CD1 0001 Have Sunset Canyon Track
+: 80097A1C 0001 Have Taxi Cab
+: 80095CCF 0001 Have Terminal Impact Track
+: 80095CC8 0001 Have The Junkyard (Multi)
+: 80097A21 0001 Have Watchback
+: 80097A1A 0001 Have Woody Wagon

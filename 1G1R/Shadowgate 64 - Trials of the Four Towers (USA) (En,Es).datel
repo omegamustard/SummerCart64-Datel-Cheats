@@ -1,0 +1,79 @@
+# Shadowgate 64 - Trials of the Four Towers (USA) (En,Es)
+
+: F109DBB0 2400 Enable Code (Must Be On)
+: F109D550 2400 Master Code
+: 800E7B23 0001 Always Have Liquid Sun Effect (Drunken)
+: 800E7B25 0001 Always Have Night Elixir Effect (Weird Controls)
+: 800EC45C 0001 Always Have Ring of The Dead Effects (Talk To Ghosts)
+: D00B0C01 0020 Press L To Fly Away
+: 800E7B26 0001
+: 800EC3E3 0003 Inf. Items On Pick-Up Ancient Coin
+: 800EC3E0 0003 Inf. Items On Pick-Up Apeman Sculpture
+: 800EC40F 0003 Inf. Items On Pick-Up Artwork
+: 800EC3FB 0003 Inf. Items On Pick-Up Bone
+: 800EC3D2 0003 Inf. Items On Pick-Up Bottle of Oil
+: 800EC411 0003 Inf. Items On Pick-Up Bracelet
+: 800EC416 0003 Inf. Items On Pick-Up Broken Lance
+: 800EC413 0003 Inf. Items On Pick-Up Broken Sword
+: 800EC3F8 0003 Inf. Items On Pick-Up Broken Violin
+: 800EC40A 0003 Inf. Items On Pick-Up Brooch
+: 800EC3F5 0003 Inf. Items On Pick-Up Burning Candle
+: 800EC3EF 0003 Inf. Items On Pick-Up Cemetery Key
+: 800EC3F6 0003 Inf. Items On Pick-Up Chipped Violin
+: 800EC404 0003 Inf. Items On Pick-Up Coin
+: 800EC405 0003 Inf. Items On Pick-Up Coin
+: 800EC406 0003 Inf. Items On Pick-Up Coin
+: 800EC407 0003 Inf. Items On Pick-Up Coin
+: 800EC408 0003 Inf. Items On Pick-Up Coin
+: 800EC3D1 0003 Inf. Items On Pick-Up Crest Key
+: 800EC3FE 0003 Inf. Items On Pick-Up Crow Bar
+: 800EC40E 0003 Inf. Items On Pick-Up Cup
+: 800EC3EA 0003 Inf. Items On Pick-Up Dirty Slipper
+: 800EC3F3 0003 Inf. Items On Pick-Up Dragon Eye
+: 800EC3F4 0003 Inf. Items On Pick-Up Dragon Flute
+: 800EC3D4 0003 Inf. Items On Pick-Up Dragon Tears
+: 800EC3F9 0003 Inf. Items On Pick-Up Dungeon Key
+: 800EC3E2 0003 Inf. Items On Pick-Up Elf Statue
+: 800EC3E1 0003 Inf. Items On Pick-Up Fairy Sculpture
+: 800EC3F2 0003 Inf. Items On Pick-Up Fang
+: 800EC3F1 0003 Inf. Items On Pick-Up Flint
+: 800EC3F0 0003 Inf. Items On Pick-Up Flower
+: 800EC3DE 0003 Inf. Items On Pick-Up Forest Nectar
+: 800EC3D3 0003 Inf. Items On Pick-Up Fragments of A Crest
+: 800EC40C 0003 Inf. Items On Pick-Up Fruit
+: 800EC40D 0003 Inf. Items On Pick-Up Gauntlet
+: 800EC3DB 0003 Inf. Items On Pick-Up Golden Key
+: 800EC3FF 0003 Inf. Items On Pick-Up Hair of Giant
+: 800EC3FD 0003 Inf. Items On Pick-Up Iron Bar
+: 800EC40B 0003 Inf. Items On Pick-Up Jewelry Box
+: 800EC3EC 0003 Inf. Items On Pick-Up Jezibel's Pendant
+: 800EC3E8 0003 Inf. Items On Pick-Up Lever
+: 800EC3DC 0003 Inf. Items On Pick-Up Liquid Sunset
+: 800EC3FA 0003 Inf. Items On Pick-Up Map
+: 800EC400 0003 Inf. Items On Pick-Up Mug
+: 800EC409 0003 Inf. Items On Pick-Up Nail
+: 800EC3DD 0003 Inf. Items On Pick-Up Night Elixir
+: 800EC3DA 0003 Inf. Items On Pick-Up Orb
+: 800EC3D8 0003 Inf. Items On Pick-Up Ornate Key
+: 800EC3EB 0003 Inf. Items On Pick-Up Pair of Slippers
+: 800EC3E4 0003 Inf. Items On Pick-Up Pick Axe
+: 800EC3D5 0003 Inf. Items On Pick-Up Pixie Flute
+: 800EC415 0003 Inf. Items On Pick-Up Plate
+: 800EC410 0003 Inf. Items On Pick-Up Poisonous Herb
+: 800EC412 0003 Inf. Items On Pick-Up Precious Stone
+: 800EC3DF 0003 Inf. Items On Pick-Up Primitive Man Statue
+: 800EC414 0003 Inf. Items On Pick-Up Quill
+: 800EC3EE 0003 Inf. Items On Pick-Up Rope
+: 800EC3D7 0003 Inf. Items On Pick-Up Rusty Key
+: 800EC3E9 0003 Inf. Items On Pick-Up Slipper
+: 800EC3FC 0003 Inf. Items On Pick-Up Starcrest
+: 800EC403 0003 Inf. Items On Pick-Up Stone of Thirst
+: 800EC3F7 0003 Inf. Items On Pick-Up String-Less Violin
+: 800EC3E6 0003 Inf. Items On Pick-Up The Blue Ring
+: 800EC3E7 0003 Inf. Items On Pick-Up The Green Ring
+: 800EC3E5 0003 Inf. Items On Pick-Up The Ring of The Dead
+: 800EC3D9 0003 Inf. Items On Pick-Up The Ring of The Kingdom
+: 800EC3ED 0003 Inf. Items On Pick-Up The Staff of Ages
+: 800EC3D6 0003 Inf. Items On Pick-Up Treasure
+: 800EC401 0003 Inf. Items On Pick-Up Water
+: 800EC402 0003 Inf. Items On Pick-Up Water W/Dragon Tears

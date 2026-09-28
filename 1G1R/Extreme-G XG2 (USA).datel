@@ -1,0 +1,54 @@
+# Extreme-G XG2 (USA)
+
+: 80183A33 0064 100 Points
+: 8018320F 0001 Enable Anville
+: 801833BF 0001 Enable Canous
+: 80183497 0001 Enable Cordilon
+: 801839CF 0001 Enable Critical Mass & Venom
+: 801839D7 0001 Enable Duel & Spectre
+: 8018371F 0001 Enable Eschaton
+: 8018305F 0001 Enable Farron
+: 80182F87 0001 Enable Hydra Prime
+: 80183647 0001 Enable Lumania
+: 801839D3 0001 Enable Meltdown & Wasp
+: 80183137 0001 Enable Meza Virs
+: 80183570 0001 Enable Sensara
+: 801837F7 0001 Enable Tethra
+: 801832E7 0001 Enable Tex City
+: 801839CF 0001 Extra Characters
+: 801839D3 0001
+: 801839D7 0001
+: 80182F87 0001 Extra Tracks
+: 8018305F 0001
+: 80183137 0001
+: 8018320F 0001
+: 801832E7 0001
+: 801833BF 0001
+: 80183497 0001
+: 80183647 0001
+: 8018371F 0001
+: 801837F7 0001
+: 500007D8 0000 Extra Tracks ("GS" Pro v3.0+ ONLY)
+: 80182F87 0001
+: 500003D8 0000
+: 80183647 0001
+: 81130810 2400 Infinite Lasers (All Players)
+: 8113080C 2400 Infinite Lasers (All Players) Alternate
+: 81171200 42C8 Infinite Lasers P2
+: 81171868 42C8 Infinite Lasers P3
+: 81171ED0 42C8 Infinite Lasers P4
+: 81170B66 0003 Infinite Nitros P1
+: 81170B62 0003
+: 801711CB 0003 Infinite Nitros P2
+: 801711CF 0003
+: 80171833 0003 Infinite Nitros P3
+: 80171837 0003
+: 80171E9B 0003 Infinite Nitros P4
+: 80171E9F 0003
+: 81170B8C 42C8 Infinite Shield P1
+: 811711F4 42C8 Infinite Shield P2
+: 8117185C 42C8 Infinite Shield P3
+: 81171EC4 42C8 Infinite Shield P4
+: 81170B98 42C8 Lasers Never Overheat P1
+: 81091E74 0000 Low Timer
+: 81091E76 0300

@@ -1,0 +1,29 @@
+# Army Men - Sarge's Heroes 2 (USA)
+
+: EE000000 0000 Enable Code (Must Be On)
+: 8115D06E 0001 All Weapons
+: 8115D062 0001 Continues
+: 800B9D71 00FF Enlarge Enemies
+: 800B9CBD 00FF Enlarge Yourself
+: 8005AED5 0002 Get Hit, Then Walls Turn Off (Able To Just Roam)
+: 800B9D70 0040 Gigantic Enemies
+: 810BA890 3E40 High Jump
+: 811636BE 0001 Immortal (Invincible)
+: 8005AEFF 0020 Incendiary Bullets (Shoot Enemies And They Burn)
+: 8135C518 0600 Infinite Armor
+: 8135C516 0600 Infinite Health
+: 8115D052 0001 Invisible
+: 800B9724 003E Jump Farther
+: 800B9724 003F Jump Feally Far
+: 8116368E 0001 Max Ammo
+: 810B9D70 3E01 Microscopic Enemies
+: 810B9CBC 3E01 Microscopic Self
+: D01550C4 0040 Moon Jump
+: 8135C4D4 3D24
+: 800B9705 00FF Move Faster
+: 800B9749 00FF
+: 8005AED5 0001 Multiplayer Incendiary Bullets (You Burn When Shot)
+: 810BA890 3E80 Super Jump
+: 8115D3B6 0001 Test Info
+: 8115D072 0001 Tin Soldier
+: 810BA890 3EFF Ultra High Jump (Jump From A Running Start)

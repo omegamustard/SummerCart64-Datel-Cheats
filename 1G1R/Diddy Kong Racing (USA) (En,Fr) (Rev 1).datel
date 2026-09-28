@@ -1,0 +1,146 @@
+# Diddy Kong Racing (USA) (En,Fr) (Rev 1)
+
+: DE000400 0000 Enable Code (Must Be On)
+: F1025000 1000
+: F1025002 0002
+: F105FB1C 1000
+: F105FB1E 0004
+: F1070D1C 2400 Master Code
+: F1070D24 2400
+: 801FD3DD 0063 99 Balloons
+: 8103C118 2400 Can Enter Races With Zero Balloons
+: 810561C0 2400 Can't Get Powerup Balloons
+: 8108A6D0 8C99 Click "Clear All Codes" To Instead Unlock All Codes
+: 8008A6D3 000C
+: 81056174 1000 Disable Horn Sound Effect
+: 81053070 0000 Drive Fast In Water When Using Car
+: 81053072 0000
+: 810519F4 0000 Drive Fast On Land When Using Car
+: 810519F6 0000
+: 80047E73 0000 Drive Fast On Land When Using Hovercraft
+: 81047E74 0000 Drive Fast On Land When Using Hovercraft (Alternate)
+: 81047E76 0000
+: 81053F04 0C00 Everyone Always Has 50 Bananas
+: 81053F06 0018
+: 81000060 2401
+: 81000062 0032
+: 81000064 03E0
+: 81000066 0008
+: 81000068 A201
+: 8100006A 0185
+: 8003E39F 0002 Infinite Blue Balloons Upon Pickup
+: 800564EB 0000
+: 810564EC 2400 Infinite Blue Balloons Upon Pickup (Alternate)
+: 81056958 2400 Infinite Item Usage
+: 8103E37C 2400 Mix'n Match Powerups
+: 8103E3A8 2400 Powered Up Balloons
+: 8103E37C 2400 Powered Up Balloons (Alternate)
+: 8103E38C 2400
+: 8103E370 2400 Red Balloons Give Blue Balloon Effect Instead
+: 8003E39F 0002 Two Powerups Needed For Max (Instead Of 3)
+: 8108F1E8 2400 Unlock Tracks
+: 8106B37C 2402 Use Any Vehicle in Any Track
+: 8106B37E 0007
+: 81092B90 370F
+: 811E3264 4659 Walrus Boss Can't Move
+: 811E3266 0C00
+: 811E045C 44A0 Octo Boss Cannot Move
+: 811E0E7C C61C Dragon Boss Can't Move
+: 811E0E7E 4000
+: 801DF377 00C8 Wizpig Can't Win
+: 801DD447 00C8 Wizpig in space (II) can't win
+: 801E34AA 0008 Have All Silver Coins Ancient Lake
+: 801E63CA 0008 Have All Silver Coins Boulder Canyon
+: 801E3C0A 0008 Have All Silver Coins Crescent Island
+: 801E694A 0008 Have All Silver Coins Fossil Canyon
+: 801E612A 0008 Have All Silver Coins Frosty Village
+: 801E4C8A 0008 Have All Silver Coins Greenwood Village
+: 801E4BFA 0008 Have All Silver Coins Haunted Woods
+: 801E480A 0008 Have All Silver Coins Hot Top Volcano
+: 801E513A 0008 Have All Silver Coins Jungle Falls
+: 801E2B3A 0008 Have All Silver Coins Pirate Lagoon
+: 801E4BDA 0008 Have All Silver Coins Snowball Valley
+: 801E38FA 0008 Have All Silver Coins Treasure Caves
+: 801E4C5A 0008 Have All Silver Coins Walrus Cove
+: 801E3CDA 0008 Have All Silver Coins Whale Bay
+: 801E9D9A 0008 Have All Silver Coins Windmill Plains
+: 801E32CD 0032 Have 50 Bananas Codes (Battle Mode) Ancient Lake P1
+: 801E3B7D 0032 Have 50 Bananas Codes (Battle Mode) Ancient Lake P2
+: 801E430D 0032 Have 50 Bananas Codes (Battle Mode) Ancient Lake P3
+: 801E4A9D 0032 Have 50 Bananas Codes (Battle Mode) Ancient Lake P4
+: 801E61ED 0032 Have 50 Bananas Codes (Battle Mode) Boulder Canyon P1
+: 801E685D 0032 Have 50 Bananas Codes (Battle Mode) Boulder Canyon P2
+: 801E6E4D 0032 Have 50 Bananas Codes (Battle Mode) Boulder Canyon P3
+: 801E773D 0032 Have 50 Bananas Codes (Battle Mode) Boulder Canyon P4
+: 801E3A2D 0032 Have 50 Bananas Codes (Battle Mode) Crescent Island P1
+: 801E42DD 0032 Have 50 Bananas Codes (Battle Mode) Crescent Island P2
+: 801E4A6D 0032 Have 50 Bananas Codes (Battle Mode) Crescent Island P3
+: 801E51FD 0032 Have 50 Bananas Codes (Battle Mode) Crescent Island P4
+: 801E5D0D 0032 Have 50 Bananas Codes (Battle Mode) Darkmoon Caverns P1
+: 801E65BD 0032 Have 50 Bananas Codes (Battle Mode) Darkmoon Caverns P2
+: 801E6D4D 0032 Have 50 Bananas Codes (Battle Mode) Darkmoon Caverns P3
+: 801E74DD 0032 Have 50 Bananas Codes (Battle Mode) Darkmoon Caverns P4
+: 801DF2DD 0032 Have 50 Bananas Codes (Battle Mode) Darkwater Beach P1
+: 801DF94D 0032 Have 50 Bananas Codes (Battle Mode) Darkwater Beach P2
+: 801DFF3D 0032 Have 50 Bananas Codes (Battle Mode) Darkwater Beach P3
+: 801E052D 0032 Have 50 Bananas Codes (Battle Mode) Darkwater Beach P4
+: 801E4F5D 0032 Have 50 Bananas Codes (Battle Mode) Everfrost Peak P1
+: 801E569D 0032 Have 50 Bananas Codes (Battle Mode) Everfrost Peak P2
+: 801E5BFD 0032 Have 50 Bananas Codes (Battle Mode) Everfrost Peak P3
+: 801E61CD 0032 Have 50 Bananas Codes (Battle Mode) Everfrost Peak P4
+: 801E676D 0032 Have 50 Bananas Codes (Battle Mode) Fossil Canyon P1
+: 801E701D 0032 Have 50 Bananas Codes (Battle Mode) Fossil Canyon P2
+: 801E77AD 0032 Have 50 Bananas Codes (Battle Mode) Fossil Canyon P3
+: 801E7F3D 0032 Have 50 Bananas Codes (Battle Mode) Fossil Canyon P4
+: 801E5F4D 0032 Have 50 Bananas Codes (Battle Mode) Frosty Village P1
+: 801E67FD 0032 Have 50 Bananas Codes (Battle Mode) Frosty Village P2
+: 801E6F8D 0032 Have 50 Bananas Codes (Battle Mode) Frosty Village P3
+: 801E771D 0032 Have 50 Bananas Codes (Battle Mode) Frosty Village P4
+: 801E4AAD 0032 Have 50 Bananas Codes (Battle Mode) Greenwood Village P1
+: 801E535D 0032 Have 50 Bananas Codes (Battle Mode) Greenwood Village P2
+: 801E5AED 0032 Have 50 Bananas Codes (Battle Mode) Greenwood Village P3
+: 801E627D 0032 Have 50 Bananas Codes (Battle Mode) Greenwood Village P4
+: 801E4A1D 0032 Have 50 Bananas Codes (Battle Mode) Haunted Woods P1
+: 801E5A5D 0032 Have 50 Bananas Codes (Battle Mode) Haunted Woods P3
+: 801E462D 0032 Have 50 Bananas Codes (Battle Mode) Hot Top Volcano P1
+: 801E4CFD 0032 Have 50 Bananas Codes (Battle Mode) Hot Top Volcano P2
+: 801E52CD 0032 Have 50 Bananas Codes (Battle Mode) Hot Top Volcano P3
+: 801E589D 0032 Have 50 Bananas Codes (Battle Mode) Hot Top Volcano P4
+: 801E44CD 0032 Have 50 Bananas Codes (Battle Mode) Jungle Falls P1
+: 801E4D1D 0032 Have 50 Bananas Codes (Battle Mode) Jungle Falls P2
+: 801E54AD 0032 Have 50 Bananas Codes (Battle Mode) Jungle Falls P3
+: 801E5C3D 0032 Have 50 Bananas Codes (Battle Mode) Jungle Falls P4
+: 801E295D 0032 Have 50 Bananas Codes (Battle Mode) Pirate Lagoon P1
+: 801E2FCD 0032 Have 50 Bananas Codes (Battle Mode) Pirate Lagoon P2
+: 801E35BD 0032 Have 50 Bananas Codes (Battle Mode) Pirate Lagoon P3
+: 801E3BAD 0032 Have 50 Bananas Codes (Battle Mode) Pirate Lagoon P4
+: 801E49FD 0032 Have 50 Bananas Codes (Battle Mode) Snowball Valley P1
+: 801E52AD 0032 Have 50 Bananas Codes (Battle Mode) Snowball Valley P2
+: 801E5A3D 0032 Have 50 Bananas Codes (Battle Mode) Snowball Valley P3
+: 801E654D 0032 Have 50 Bananas Codes (Battle Mode) Spacedust Alley P1
+: 801E6C1D 0032 Have 50 Bananas Codes (Battle Mode) Spacedust Alley P2
+: 801E71ED 0032 Have 50 Bananas Codes (Battle Mode) Spacedust Alley P3
+: 801E77BD 0032 Have 50 Bananas Codes (Battle Mode) Spacedust Alley P4
+: 801E3C6D 0032 Have 50 Bananas Codes (Battle Mode) Spaceport Alpha P1
+: 801E433D 0032 Have 50 Bananas Codes (Battle Mode) Spaceport Alpha P2
+: 801E490D 0032 Have 50 Bananas Codes (Battle Mode) Spaceport Alpha P3
+: 801E4EDD 0032 Have 50 Bananas Codes (Battle Mode) Spaceport Alpha P4
+: 801E578D 0032 Have 50 Bananas Codes (Battle Mode) Star City P1
+: 801E603D 0032 Have 50 Bananas Codes (Battle Mode) Star City P2
+: 801E67CD 0032 Have 50 Bananas Codes (Battle Mode) Star City P3
+: 801E6F5D 0032 Have 50 Bananas Codes (Battle Mode) Star City P4
+: 801E371D 0032 Have 50 Bananas Codes (Battle Mode) Treasure Caves P1
+: 801E3FCD 0032 Have 50 Bananas Codes (Battle Mode) Treasure Caves P2
+: 801E4EED 0032 Have 50 Bananas Codes (Battle Mode) Treasure Caves P4
+: 801E4A7D 0032 Have 50 Bananas Codes (Battle Mode) Walrus Cove P1
+: 801E532D 0032 Have 50 Bananas Codes (Battle Mode) Walrus Cove P2
+: 801E5ABD 0032 Have 50 Bananas Codes (Battle Mode) Walrus Cove P3
+: 801E624D 0032 Have 50 Bananas Codes (Battle Mode) Walrus Cove P4
+: 801E3AFD 0032 Have 50 Bananas Codes (Battle Mode) Whale Bay P1
+: 801E416D 0032 Have 50 Bananas Codes (Battle Mode) Whale Bay P2
+: 801E475D 0032 Have 50 Bananas Codes (Battle Mode) Whale Bay P3
+: 801E4D4D 0032 Have 50 Bananas Codes (Battle Mode) Whale Bay P4
+: 801E9BBD 0032 Have 50 Bananas Codes (Battle Mode) Windwill Plains P1
+: 801EA28D 0032 Have 50 Bananas Codes (Battle Mode) Windwill Plains P2
+: 801EA85D 0032 Have 50 Bananas Codes (Battle Mode) Windwill Plains P3
+: 801EAE2D 0032 Have 50 Bananas Codes (Battle Mode) Windwill Plains P4

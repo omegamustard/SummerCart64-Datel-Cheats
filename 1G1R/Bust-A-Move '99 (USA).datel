@@ -1,0 +1,22 @@
+# Bust-A-Move '99 (USA)
+
+: F108351C 2400 Master Code
+: F1082FFC 2400
+: F1083008 2400
+: 800E5A08 0001 Have Another World Open (Puzzle Game)
+: 810ECE2C 0000 Infinite Time To Set Pieces P1
+: 810ECF1C 0000 Infinite Time To Set Pieces P2
+: 81158884 0000 Infinite Time To Set Pieces P3
+: 81158974 0000 Infinite Time To Set Pieces P4
+: 800ECE59 0006 P1 Always Gets Bubbles
+: 800ECE59 0000 P1 Never Gets Bubbles
+: 800ECF49 0006 P2 Always Gets Bubbles
+: 800ECF49 0000 P2 Never Gets Bubbles
+: 801588B1 0006 P3 Always Gets Bubbles
+: 801588B1 0000 P3 Never Gets Bubbles
+: 801589A1 0006 P4 Always Gets Bubbles
+: 801589A1 0000 P4 Never Gets Bubbles
+: 810ECDEE 0000 Screen Never Fills Over Time P1
+: 810ECEDE 0000 Screen Never Fills Over Time P2
+: 81158846 0000 Screen Never Fills Over Time P3
+: 81158936 0000 Screen Never Fills Over Time P4

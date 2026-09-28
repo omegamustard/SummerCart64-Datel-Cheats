@@ -1,0 +1,28 @@
+# PGA European Tour (USA)
+
+F105333C 2400 Master Code
+F1052E1C 2400
+F1052E28 2400
+801124E8 0001 Always Start On Hole 18 (Tournment Mode Only)
+801124E2 0001 Big Hands Mode
+801124E1 0001 Big Head Mode
+801124E0 0001 Huge Throbbing Head
+801124E3 0001 Tiny Head Mode
+800FF713 0000 Only One Shot Recorded - Hole 1
+800FF715 0000 Only One Shot Recorded - Hole 2
+800FF717 0000 Only One Shot Recorded - Hole 3
+800FF719 0000 Only One Shot Recorded - Hole 4
+800FF71B 0000 Only One Shot Recorded - Hole 5
+800FF71D 0000 Only One Shot Recorded - Hole 6
+800FF71F 0000 Only One Shot Recorded - Hole 7
+800FF721 0000 Only One Shot Recorded - Hole 8
+800FF723 0000 Only One Shot Recorded - Hole 9
+800FF725 0000 Only One Shot Recorded - Hole 10
+800FF727 0000 Only One Shot Recorded - Hole 11
+800FF729 0000 Only One Shot Recorded - Hole 12
+800FF72B 0000 Only One Shot Recorded - Hole 13
+800FF72D 0000 Only One Shot Recorded - Hole 14
+800FF72F 0000 Only One Shot Recorded - Hole 15
+800FF731 0000 Only One Shot Recorded - Hole 16
+800FF733 0000 Only One Shot Recorded - Hole 17
+800FF735 0000 Only One Shot Recorded - Hole 18

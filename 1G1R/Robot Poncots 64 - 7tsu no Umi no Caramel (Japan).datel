@@ -1,0 +1,6 @@
+# Robot Poncots 64 - 7tsu no Umi no Caramel (Japan)
+
+: F107CCA0 3000 Enable Code (Must be on when using real hardware)
+: F107CCA0 2400 Master Code
+: 810C2880 3000 Infinite fuel when sailing on water in your "Fish"
+: 813135C8 0000 Infinite HP in battle

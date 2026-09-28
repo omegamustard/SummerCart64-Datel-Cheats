@@ -1,0 +1,13 @@
+# F1 Pole Position 64 (USA) (En,Fr,De)
+
+: 810BA6DA 0000 Always Place First
+: D10B06C0 0010 Enable Debug Menus - Hold R while the game is booting. Use C buttons for Menus
+: 8002046F 0000
+: D10B06C0 0008
+: 8002046F 0001
+: D10B06C0 0002
+: 8002046F 0002
+: D10B06C0 0001
+: 8002046F 0003
+: D10B06C0 0004
+: 8002046F 0004

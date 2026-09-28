@@ -1,0 +1,24 @@
+# Doraemon 3 - Nobita no Machi SOS! (Japan)
+
+: DE025C00 0000 (M) Enable Code
+: F1060490 2400
+: 50000702 0000 All Characters
+: 801B361B 0001
+: 50001602 0000 All Key Items
+: 811B3714 0101
+: 50000902 0000 All Normal Items
+: 811B3700 6363
+: 50000702 0000 All Weapons
+: 811B3678 0101
+: 811B362A FFFF Can Leave Town
+: 80043407 005A Debug Menu At Startup
+: 8121D4FA 04B0 Infinite Air
+: 50000602 0000 Infinite HP (All Characters)
+: 801B361C 000A
+: 812457B8 000F Invincible
+: D0082915 0020 Press L-Button for Moon Jump
+: 812456F4 418E
+: D0082915 0020
+: 812456F6 38E2
+: D0082914 0020 Press Z-Button for Max Air-Cannon Shot
+: 8121D69A 0032

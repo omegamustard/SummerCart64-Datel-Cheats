@@ -1,0 +1,19 @@
+# Army Men - Air Combat (USA)
+
+: F10507CC 2400 Enable Code (Must Be On)
+: 81049630 2400 Infinite Ammo (Both Res)
+: 805D62C9 00FF Infinite Fire Bombs (High Res)
+: 802AAF89 00FF Infinite Fire Bombs (Low Res)
+: 81062444 0C00 Infinite Health (Both Res)
+: 81062446 0015
+: 81000054 3C03
+: 81000056 0002
+: 81000058 03E0
+: 8100005A 0008
+: 8100005C AFC3
+: 8100005E 005C
+: 805D62F9 00FF Infinite Homing Missiles (High Res)
+: 802AAFB9 00FF Infinite Homing Missiles (Low Res)
+: 805D6329 00FF Infinite Rockets (High Res)
+: 802AAFE9 00FF Infinite Rockets (Low Res)
+: 810B252A 0105 Unlock All Helicopters

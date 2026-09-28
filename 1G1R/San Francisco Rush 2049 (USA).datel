@@ -1,0 +1,49 @@
+# San Francisco Rush 2049 (USA)
+
+: 80152906 0000 Always Place 1st
+: FF720000 0000 Hi-Res Enable Code
+: 80152B9D 0050 Infinite Ammo All Players In Battle
+: 80152F55 0050
+: 8015330D 0050
+: 801536C5 0050
+: 8115204C 7FFF Max Score (Stunt Mode)
+: 8115204E FFFF
+: 810D265C 2400 One lap to race
+: 810E59BE 0063 Opponents don't move
+: D03B6A6F 0003 Play 3-4 Player Races
+: 8014A109 0003
+: D03B6A6F 0004
+: 8014A109 0004
+: D01174B7 0040
+: 8014A109 0002
+: 8111648C 0101 Unlock All Cheats
+: 8111648E 0101
+: 81116490 0101
+: 81116492 0101
+: 81116494 0101
+: 81116496 0101
+: 81116498 0101
+: 8111649A 0101
+: 8111649C 0101
+: 8111649E 0101
+: 811164A0 0101
+: 50000B02 0000 Unlock All Cheats (Cheat Device Pro 3.0 Or Higher Only)
+: 8111648C 0101
+: 8113A110 FFFF Track 1 Statistics - Have All Coins
+: 8013A110 00FF Track 1 Statistics - Have All Gold Coins
+: 8013A111 00FF Track 1 Statistics - Have All Silver Coins
+: 8113A170 FFFF Track 2 Statistics - Have All Coins
+: 8013A170 00FF Track 2 Statistics - Have All Gold Coins
+: 8013A171 00FF Track 2 Statistics - Have All Silver Coins
+: 8113A1D0 FFFF Track 3 Statistics - Have All Coins
+: 8013A1D0 00FF Track 3 Statistics - Have All Gold Coins
+: 8013A1D1 00FF Track 3 Statistics - Have All Silver Coins
+: 8113A230 FFFF Track 4 Statistics - Have All Coins
+: 8013A230 00FF Track 4 Statistics - Have All Gold Coins
+: 8013A231 00FF Track 4 Statistics - Have All Silver Coins
+: 8113A290 FFFF Track 5 Statistics - Have All Coins
+: 8013A290 00FF Track 5 Statistics - Have All Gold Coins
+: 8013A291 00FF Track 5 Statistics - Have All Silver Coins
+: 8113A2F0 FFFF Track 6 Statistics - Have All Coins
+: 8013A2F0 00FF Track 6 Statistics - Have All Gold Coins
+: 8013A2F1 00FF Track 6 Statistics - Have All Silver Coins

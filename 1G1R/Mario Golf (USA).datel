@@ -1,0 +1,44 @@
+# Mario Golf (USA)
+
+: F10B1670 2400 Enable Code (Must Be On)
+: 801B71F3 0000 Always Zero Strokes Taken P1
+: 801B71F8 0006 Have Infinite Power Shots P1
+: 801B72B0 0009 Have Infinite Power Shots P2
+: 801B7368 0006 Have Infinite Power Shots P3
+: 801B7420 0006 Have Infinite Power Shots P4
+: D20FF51D 0010 Ball Goes in From Anywhere
+: 810345F4 144A
+: D00FF51D 0010
+: 810345F4 2400
+: 801B7248 0000 Have Zero Rings Left In Ring Mode
+: 801B7249 0000
+: 801B724A 0000
+: 800C545B 0063 Max Gold Mario Badges P1
+: 50006C01 0000 Have All 108 Birdie Badges
+: 801301A4 0001
+: 50002401 0000 Have All 36 Stars
+: 80130A40 0001
+: 810FBE08 0100 Play Left Handed
+: 81130CEE FFFF Have All Courses
+: 50001502 0000 Get All Characters Except Metal Mario (Cheat Device 3.0 or Higher Needed!)
+: 81130219 FFFF
+: 50000E02 0001 Have All Characters
+: 810C28E4 0000
+: 810C2900 000E Have ?? Character
+: 810C2902 000F Have ?? Character
+: 810C2904 0010 Have ?? Character
+: 810C2906 0011 Have ?? Character
+: 810C28F4 0003 Have Baby Mario
+: 810C28F0 000C Have Bowser
+: 810C28F2 0001 Have Charlie
+: 810C28FC 000B Have DK
+: 810C28EC 0008 Have Harry
+: 810C28E8 0004 Have Luigi
+: 810C28EE 000A Have Maple
+: 810C28FA 0009 Have Mario
+: 810C28FE 000D Have Metal Mario
+: 810C28E6 0002 Have Peach
+: 810C28E4 0000 Have Plum
+: 810C28EA 0006 Have Sonny
+: 810C28F8 0007 Have Wario
+: 810C28F6 0005 Have Yoshi

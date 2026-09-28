@@ -1,0 +1,23 @@
+# Asteroids Hyper 64 (USA)
+
+: F105865C 2400 Master Code
+: F105813C 2400
+: F1058148 2400
+: 81032988 3402 Enable Debug Menu : Hold L and press Start in the pause menu
+: 8103298A 1000
+: 8103299E 0001
+: 8105284E 0001 Gain Lives Instead Of Losing Them (All Players)
+: 8107F892 0001 Infinite Armageddon
+: 8107F8A2 270F Infinite Items On Pickup
+: 81052878 2400 Infinite Lives (All Players)
+: 8007F90F 002F Infinite Lives (Classic Asteroids)
+: 8007F90F 0063 Infinite Lives P1
+: 8007F913 0063 Infinite Lives P2
+: 8007F917 0063 Infinite Lives P3
+: 8007F91B 0063 Infinite Lives P4
+: 8007288F 0001 Invulnerability
+: 8007FAD9 0001 P1 Invincible
+: 8007FADB 0001 P2 Invincible
+: 8007FADD 0001 P3 Invincible
+: 8007FADF 0001 P4 Invincible
+: 8106DF5A 0001 Unlock Classic Asteroids

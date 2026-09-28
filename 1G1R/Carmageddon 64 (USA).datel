@@ -1,0 +1,38 @@
+# Carmageddon 64 (USA)
+
+: F100E04C 2400 Master Code
+: F100DB2C 2400
+: F100DB38 2400
+: 801C496B 0003 All Cars Wasted (You Don't Get The Car However)
+: 8009AC46 0001 All Zombies Wasted (Quickly Beat Level)
+: 8009AC47 002C
+: 801C490C 0001 Extra ?
+: 801C490D 0001 Extra Power
+: 801C490E 0001 Extra Speed
+: 8009E1A8 0006 Infinite Car Zapper
+: 8009E1AB 0006 Infinite Car Zapper P2
+: 811C481A FFFF Infinite Credits
+: 811C481E FFFF Infinite Credits P2
+: 8009E161 0006 Infinite Green Guy
+: 8009E164 0006 Infinite Green Guy P2
+: 8009E179 0006 Infinite Hover Jump
+: 8009E17C 0006 Infinite Hover Jump P2
+: 81053128 2400 Infinite Item/Weapon Usage (Once You Have Them)
+: 81054958 A45B Infinite Item/Weapon Usage (Once You Have Them) (Alternate)
+: 8009E118 0006 Infinite Spiked Mines
+: 8009E11B 0006 Infinite Spiked Mines P2
+: D01C477C 00FF Infinite Time (Fixed)
+: 811C479E 1C1F
+: D01C477C 00FF Infinite Time P2
+: 811C47A2 1C1F
+: 8009E131 0006 Infinite Turbo
+: 8009E134 0006 Infinite Turbo P2
+: 8009E1C0 0006 Infinite Zombie Zapper
+: 8009E1C3 0006 Infinite Zombie Zapper P2
+: 8109DEAE 0258 Invincible P2
+: 8009E149 0006 Jumping Guy
+: 8009E14C 0006 Jumping Guy P2
+: D00A37A5 0008 Press C-Up For Moon Jump P1
+: 811B595C 40C2
+: D00A37A4 0020 Press Z For More Time
+: 811C479E 1C1F

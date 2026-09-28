@@ -1,0 +1,14 @@
+# Ms. Pac-Man - Maze Madness (USA)
+
+: F12005E0 3C02 Enable Code (Must Be On)
+: F12005E2 A00C
+: F12005E8 0020
+: F12005EA F809
+: F12005EC AC40
+: F12005EE B170
+: 8111D55E 0FFF Have All Dots
+: 8111D55C 003C Infinite Health
+: 8010A3D7 0009 Infinite Lives
+: 8111EF14 05F5 Max Score
+: 8111EF16 E0FF
+: 81121DD2 00E6 Time Slows Down (Time Trial)

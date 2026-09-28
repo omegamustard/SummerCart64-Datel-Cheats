@@ -1,0 +1,22 @@
+# San Francisco Rush - Extreme Racing (USA) (En,Fr,De)
+
+: 800F4078 0001 Activate Auto Abort Disable
+: 800F3DA0 0001 Activate Change Track Textures
+: 800F3F88 0001 Activate Cones to Mines
+: 800F4050 0001 Activate Disable Car 2 Car Control
+: 800F4080 0001 Activate Resurrect in Place
+: 800F4090 0001 Activate Stop Timer
+: 800F4061 0001 Activate Upside Down Mode
+: 80129DD1 0000 Always Place First
+: 8010240D 0002 Reverse Controls
+: 80119248 0001 Stop Timer
+: 80119038 0001 Upside Down Mode
+: 50000716 0000 Have All Keys Found For All Tracks (Cheat Device 3.0 or Higher Needed!)
+: 810CBF42 FFFF
+: 810CBF42 FFFF Have All Keys Found Track 1
+: 810CBF58 FFFF Have All Keys Found Track 2
+: 810CBF6E FFFF Have All Keys Found Track 3
+: 810CBF84 FFFF Have All Keys Found Track 4
+: 810CBF9A FFFF Have All Keys Found Track 5
+: 810CBFB0 FFFF Have All Keys Found Track 6
+: 810CBFC6 FFFF Have All Keys Found Track 7 (Alcatraz)

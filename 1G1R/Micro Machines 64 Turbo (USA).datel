@@ -1,0 +1,14 @@
+# Micro Machines 64 Turbo (USA)
+
+: 8109328E 0001 Debug Mode
+: 80093293 0001 Big Bounce (Must Be Used With Debug Mode)
+: 80093294 0001 Double Speed (Must Be Used With Debug Mode)
+: 80093290 0001 Drive Through Objects (Must Be Used With Debug Mode)
+: 802083F1 0001 P1 Always Place 1st
+: 800BAFD2 0009 P1 Infinite Lives
+: 80208401 0005 P1 Infinite Secondary Weapons (On Pickup)
+: 80208671 0005 P2 Infinite Secondary Weapons (On Pickup)
+: 802088E1 0005 P3 Infinite Secondary Weapons (On Pickup)
+: 80208B51 0005 P4 Infinite Secondary Weapons (On Pickup)
+: 80093292 0001 Slow CPU Cars (Must Be Used With Debug Mode)
+: 80093290 0001 Your Car Bounces (When You Are Going Off A Ramp)

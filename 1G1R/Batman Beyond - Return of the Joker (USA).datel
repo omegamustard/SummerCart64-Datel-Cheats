@@ -1,0 +1,11 @@
+# Batman Beyond - Return of the Joker (USA)
+
+: F11942C0 2400 Enable Code (Must Be On)
+: D01BB02D 0008 C-Up For Easy Bosses
+: 801FC597 0000
+: D01BB02D 0008 C-Up For Easy Joker
+: 801FC45F 0000
+: 802086FE 000F Infinite Batarangs
+: 802086F1 0064 Infinite Health
+: 812434D0 0000 Infinite Health (Alternate)
+: 802086F2 000A Infinite Lives

@@ -1,0 +1,60 @@
+# Body Harvest (USA)
+
+: 8113FCD2 0001 Alien Fat Leg Mode
+: 8110F2D8 2400 Armor Suit Doesn't Deteriorate When Swimming
+: 8104DCEE 0101 Can't Fire
+: 8004DC5F 0001 Have Alien Artifact
+: 81129418 A482 Inf. Ammo (All Weaps) [ASM]
+: 8112941A 0000
+: 8004E43C 0050 Infinite Fuel
+: 81103E40 A443 Infinite Fuel [ASM]
+: 81103E42 003C
+: 81052B18 0098 Infinite Greece
+: 81052B1A 967F
+: 8104DCEC 0258 Infinite Health
+: 811240EC 84E9 Infinite Health [ASM]
+: 811240EE 001C
+: 8110F2D8 A502 Infinite Swim Time [ASM]
+: 8110F2DA 0000
+: 81075BA0 0000 Kill Timers [ASM]
+: D0047589 0020 L Button For Moon Jump
+: 8104DD04 414C
+: D00475D9 0020 L Button To Wall Over Water, Climb Hills
+: 8104DCD2 0808
+: 8104816A 0000 No Humans Killed
+: 810AE1B4 A45C No Humans Killed [ASM]
+: 810AE1B6 0000
+: 810AE1BC A47C
+: 810AE1BE 0000
+: 810884AC 01CE One-Hit Kills [ASM]
+: 810884AE 7823
+: 81129A7C 2400 Semi-Rapid Fire (All Weapons)
+: 81159322 0080 Surreal Mode
+: 8804DC4B 00FF Warp to A Boss/Save Point
+: 8904DC48 FFFF Warp to Bomb Battlefield
+: 8904DC4A FFFF
+: 81052ACE FFFF Weapon Power Up
+: 8113B9A0 6177 Award Cheat Enabled (Press A, C-Left, A, Right, D) - ICHEAT
+: 8113B9A2 6172
+: 8113B9A4 6400
+: 8113B9F0 6465 Defender Cheat Enabled (Press Down, C-Right, Z, C-Right, C-Up, Down, C-Right, Right) ICHEAT
+: 8113B9F2 6665
+: 8113B9F4 6E64
+: 8113B9F6 6572
+: 8113B9F8 0000
+: 8113B950 6661 Farewell Cheat Enabled (Press Z, A, Right, C-Right, C-Left, C-Right, Left, Left) - ICHEAT
+: 8113B952 7265
+: 8113B954 7765
+: 8113B956 6C6C
+: 8113B958 0000
+: 8113B9C0 6672 Freed Cheat Enabled (Z, Right, C-Right, C-Right, Down) - ICHEAT
+: 8113B9C2 6565
+: 8113B9C4 6400
+: 8113B9B0 736E Snared Cheat Enabled (C-Down, C-Up, A, Right, C-Right, Down) - ICHEAT
+: 8113B9B2 6172
+: 8113B9B4 6564
+: 8113B9B6 0000
+: 8113B980 7761 Wander Cheat Enabled (C-Left, A, C-Up, Down, C-Right, Right) - ICHEAT
+: 8113B982 6E64
+: 8113B984 6572
+: 8113B986 0000

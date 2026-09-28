@@ -1,0 +1,61 @@
+# Power Rangers - Lightspeed Rescue (USA)
+
+: F1060720 2400 Enable Code (Must Be On)
+: F1060720 2400 Master Code
+: F10025C0 2400
+: F10025E0 2400
+: F1002698 2400
+: F10026C0 2400
+: F1002708 2400
+: F1002730 2400
+: F1002760 2400
+: F1002780 2400
+: F1002978 2400
+: F10029B8 2400
+: 8008037D 0000 0 Objects Left (Disable after every level)
+: 81064DF0 42C8 Infinite Health (Overhead & Driving Levels)
+: 50000C01 0000 Unlock All Characters (Cheat Device 3.0 Or Higher Needed!)
+: 8006252D 0001
+: 80062533 0001 Unlock Evil Mirror Megazord
+: 8006252E 0001 Unlock Evil Plasmazord
+: 80062532 0001 Unlock Lavaca
+: 80062536 0001 Unlock Lectron
+: 80062537 0001 Unlock Lectronic Trembler
+: 8006252D 0001 Unlock Lightspeed Megazord
+: 80062534 0001 Unlock Max Solarzord
+: 80062538 0001 Unlock Omega Megazord
+: 8006252F 0001 Unlock Supertrain Megazord
+: 80062535 0001 Unlock Trembler
+: 80062531 0001 Unlock Typhonus
+: 80062530 0001 Unlock Vector
+: 50001102 0000 Unlock All Levels (Cheat Device 3.0 Or Higher Needed!)
+: 81062508 0001
+: 80062508 0001 Unlock Episode 1
+: 80062512 0001 Unlock Episode 1 - Big Wind
+: 80062513 0001 Unlock Episode 1 - Eye In The Sky
+: 80062511 0001 Unlock Episode 1 - The Flood
+: 8006250F 0001 Unlock Episode 1 - This Is No Drill
+: 80062510 0001 Unlock Episode 1 - Typhonus Attacks
+: 8006250E 0001 Unlock Episode 1 - Virtual Arena 1
+: 8006250C 0001 Unlock Episode 1 - Virtual Room 1
+: 8006250D 0001 Unlock Episode 1 - Virtual Room 2
+: 80062509 0001 Unlock Episode 2
+: 8006251C 0001 Unlock Episode 2 - Airlift
+: 80062520 0001 Unlock Episode 2 - Black Strike
+: 80062519 0001 Unlock Episode 2 - Coin Cavern
+: 8006251A 0001 Unlock Episode 2 - Lavaca Attacks
+: 80062525 0001 Unlock Episode 2 - Lectron Attacks
+: 80062522 0001 Unlock Episode 2 - Max Power
+: 80062523 0001 Unlock Episode 2 - Radioactive
+: 8006251D 0001 Unlock Episode 2 - Reflections
+: 80062524 0001 Unlock Episode 2 - Ruin Rescue
+: 80062521 0001 Unlock Episode 2 - Shocked And Shaken
+: 80062527 0001 Unlock Episode 2 - The Third Coin
+: 80062526 0001 Unlock Episode 2 - Trembler Attacks
+: 80062528 0001 Unlock Episode 2 - Ultimate Showdown
+: 8006251B 0001 Unlock Episode 2 - Under Fire
+: 8006251F 0001 Unlock Episode 2 - Under Rubble
+: 80062518 0001 Unlock Episode 2 - Virtual Arena 1
+: 80062516 0001 Unlock Episode 2 - Virtual Room 1
+: 80062517 0001 Unlock Episode 2 - Virtual Room 2
+: 8006250A 0001 Unlock Episode 3

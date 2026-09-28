@@ -1,0 +1,29 @@
+# Killer Instinct Gold (USA) (Rev 2)
+
+: 801D32C5 00C0 Always Have Full Super Bar	P1
+: 801D3B35 00C0 Always Have Full Super Bar	P2
+: D11BC1DC 1180 Enable Finishers During Round
+: 811BC1DC 2400
+: D11BC1E4 95CD
+: 811BC1E4 2400
+: 801D3508 0020 Fulgore Always Invisible P1	
+: 801D3509 0090
+: 801D3555 0092
+: 801D35B7 005E
+: 801D3608 0020 Fulgore Always Invisible P2	
+: 801D3609 0090
+: 801D3655 0092
+: 801D35B7 005E
+: 801D3508 0023 Fulgore Always Visible P1	
+: 801D3509 00F0
+: 801D3555 0080
+: 801D35B7 00AF
+: 801D3608 0023 Fulgore Always Visible P2	
+: 801D3609 00F0
+: 801D3655 0080
+: 801D35B7 00AF
+: 801D3514 0078 Infinite Energy	P1
+: 801D3614 0078 Infinite Energy	P2
+: 801D35B3 0006 Spinal Always Has All Skulls P1	
+: 801D36B3 0006 Spinal Always Has All Skulls P2	
+: 8012823C 0006 Unlock Level 1-5 Options

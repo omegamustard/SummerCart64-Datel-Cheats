@@ -1,0 +1,87 @@
+# Madden Football 64 (USA)
+
+: 810886E0 0000 Away Team Always Has The Ball
+: 81088AE4 0001
+: D207E5CD 0010 Cannot Be Tackled
+: 810C296C 1040
+: D007E5CD 0010
+: 810C296C 1000
+: 810596E0 0003 Coloured Madden Background
+: 50000901 0000 Enable All Stadiums (Cheat Device 3.0 or Higher Needed!)
+: 80073510 00FF
+: 50000901 0000 Enable All Teams (Cheat Device 3.0 or Higher Needed!)
+: 80073CF8 00FF
+: 81073510 FFFF Extra Stadium
+: 81073512 FFFF
+: 81073514 FFFF
+: 81073516 FFFF
+: 80073518 00FF
+: 81073CF8 FFFF Extra Teams
+: 81073CFA FFFF
+: 81073CFC FFFF
+: 81073CFE FFFF
+: 80073D00 00FF
+: 8109EB72 0001 Gain Time Outs Instead Of Losing Them - Both Teams
+: 89089320 0001 GS Button For 1st Down
+: 89089320 0004 GS Button For 4th Down
+: 80073CFA 00FF Have 60 Conference B Team
+: 80073CF8 00FF Have 97 Conference A Team
+: 80073CF9 00FF Have 97 Conference B Team
+: 80073CFB 00FF Have All 70's Team
+: 80073CFC 00FF Have All 80's Team
+: 80073CFD 00FF Have All Time Madden
+: 80073CFE 00FF Have All Time Stats Leaders Team
+: 80073513 00FF Have Cleveland Stadium
+: 80073518 00FF Have Dallas Stadium
+: 80073512 00FF Have EA Sports Stadium
+: 80073CFF 00FF Have EA Sports Team
+: 80073514 00FF Have Houston Stadium
+: 80073511 00FF Have Miami Stadium
+: 80073510 00FF Have Oakland Stadium
+: 80073517 00FF Have Tampa Stadium
+: 80073515 00FF Have Tiburon Stadium
+: 80073D00 00FF Have Tiburon Team
+: 80073516 00FF Have Washington Stadium
+: 810886E0 0001 Home Team Always Has The Ball
+: 81088AE4 0000
+: 8109EB7C 2400 Infinite Time Outs - Both Teams
+: 8109EB70 2400 Infinite Time Outs - Both Teams (Alternate)
+: 80084EE3 0003 Infinite Time Outs Away Team
+: 80082D97 0003 Infinite Time Outs Home Team
+: 800545A0 0000 Invisible Players
+: 800545A0 0001
+: 800545A0 0002
+: 800545A0 0003
+: 80084EE3 0000 No Time-Outs Away Team
+: 80082D97 0000 No Time-Outs Home Team
+: D0087F93 0020 P1 Press L For First Down
+: 81089320 0001
+: D0087F93 0020 P1 Press L For More Time To Choose Play
+: 80087759 0028
+: D0087F93 0010 P1 Press R For Fourth Down
+: 81089320 0004
+: D0087F97 0020 P2 Press L For First Down
+: 81089320 0001
+: D0087F97 0020 P2 Press L For More Time To Choose Play
+: 80087759 0028
+: D0087F97 0010 P2 Press R For Fourth Down
+: 81089320 0004
+: D0087F9B 0020 P3 Press L For First Down
+: 81089320 0001
+: D0087F9B 0020 P3 Press L For More Time To Choose Play
+: 80087759 0028
+: D0087F9B 0010 P3 Press R For Fourth Down
+: 81089320 0004
+: D0087F9F 0020 P4 Press L For First Down
+: 81089320 0001
+: D0087F9F 0020 P4 Press L For More Time To Choose Play
+: 80087759 0028
+: D0087F9F 0010 P4 Press R For Fourth Down
+: 81089320 0004
+: 8109C2A8 2400 Stop Timer
+: 810596E0 0000 Gray Madden Background
+: 810596E0 0002 Green & Black Madden Background
+: 810596E0 0004 Pink & Purple Madden Background
+: 810596E0 0001 Pink Madden Background
+: 810596E0 0005 Pink Madden Background
+: 810596E0 0006 Pinker Madden Background

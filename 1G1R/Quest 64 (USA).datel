@@ -1,0 +1,41 @@
+# Quest 64 (USA)
+
+: 8007BA92 0001 100% Circle Element
+: 8907BA92 0101 Cheat Device Button for Free Element Menu
+: 81006E30 2400 Don't Take Any Damage
+: 8007BAB5 0000 Earn Spirits Faster
+: 8007BA90 00FF Extra Spirits
+: 8007BA92 00FF
+: 8107BAA5 3232 Have 50 Earth Gems
+: 8107BAA4 3232 Have 50 Fire Gems
+: 8107BAA6 3232 Have 50 Water Gems
+: 8107BAA7 3232 Have 50 Wind Gems
+: 8107BAA4 3232 Have All Elements
+: 8107BAA6 3232
+: 8100541A 4030 Hold B To Move Faster
+: D0095454 0040
+: 8100541A 40C0
+: 8107BBC8 4000 Huge Fighting Area In Battle
+: 8101ED2C A25B Infinite All 4 Gems
+: 8107BA84 01F4 Infinite HP
+: 8107BA88 01F4 Infinite MP
+: 8007BBD5 0003 Lock Magic Spells
+: 810072EC 2400 Magic Doesn't Decrease
+: 8107BAA8 3232 Makes HP/MP 500/500
+: 8107BAAA 3232
+: 8107BAAE FFFF Max Agi Exp %
+: 8107BAAC FFFF Max Def Exp %
+: 8107BA86 01F4 Max HP
+: 8107BAA8 FFFF Max HP Exp %
+: 8107BA8A 01F4 Max MP
+: 8107BAAA FFFF Max MP Exp %
+: 8107BAA0 01F4 No Clipping, Walk Thru Walls
+: 8108C574 0000 No Random Battles
+: 8108C576 0000
+: 80036F69 0000 No Sound
+: 8100AF7C 2400 One Hit Kills
+: 8107BAAF 01F4 Receive Random Items After Battle
+: 8107BA8E 01F4 Super Agility
+: 8107BA8C 01F4 Super Defense
+: 8007BBDD 0003 Unlock Magic Spells
+: 8007BBD5 0000

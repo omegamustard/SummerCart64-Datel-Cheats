@@ -1,0 +1,68 @@
+# Banjo-Kazooie (USA) (Rev 1)
+
+: DE000400 0000 Enable Code (Must Be On)
+: 8124B728 1700
+: 812864E4 1700
+: 812D2E00 1300
+: F10396B0 2402 Improved Enable Code (Use This For Hacking)
+: DE000400 0000
+: 8037B3F2 0002 Do Shock Spring Jump From Anywhere
+: 8037C1D1 0001 Fly From Anywhere
+: 8134527C 2402 Grabbing Notes/Health etc. Keeps Them At 100
+: 8134527E 0064
+: 81385F62 0064 Have 99 Notes
+: 8038519B 0010 Have All Jinjos
+: D0285941 0008 Have All Secret Items
+: 8037D167 0040
+: 80385FBF 0009 Have Infinite Acorns
+: 80385FBB 0009 Have Infinite Caterpillars
+: 80385F93 0002 Have Infinite Gold Bars
+: 80385F97 0001 Have Infinite Oranges
+: 80385FCF 0002 Have Infinity Joker Cards
+: 803851A3 0010 Have Red Honeycombs
+: 80385FAF 0001 Have The Blue Present
+: 80385FB3 0001 Have The Green Present
+: 80385FB7 0001 Have The Red Present
+: 813851AE 0E10 Infinite Air
+: 80385187 0063 Infinite Eggs
+: 80385193 0063 Infinite Golden Feathers
+: 803851A3 0008 Infinite Health
+: 803851A7 0010 Infinite Health With Red Honeycombs
+: 803851EB 0063 Infinite Jiggy's
+: 803851AB 0009 Infinite Lives
+: 803851E7 0063 Infinite Mumbo Tokens
+: 80385183 0063 Infinite Notes
+: 8038518F 0063 Infinite Red Feathers
+: D02804C9 0020 L Button For Moon Jump
+: 8137B6BC 43E0
+: 803851A7 0008 Max Health Available
+: 80037CAC 0063 Mega Jump
+: D02804C8 0008 Open All Secret Areas
+: 8137B7A0 3FDB
+: D02804C8 0008
+: 8137B7A8 3FDB
+: 80383327 0000 Remove All Secret Items
+: 8037C1D2 0001 Shock Jump From Anywhere
+: 8037C1E3 0001 Slow Motion
+: 8037D239 0001 Swamp Boots Kazooie
+: 8037B3F1 0002 Take Off And Fly From Anywhere
+: 8138524C 1040 Time Is Always 00:00.00
+: D02804C8 0001 Walk Through Walls
+: 8037B477 0001
+: D02804C8 0002
+: 8037B477 0000
+: 812E7B40 1000 Walk Through Walls
+: 812E7B42 002B
+: 8037BF61 0000 Walk Under Water
+: D0280471 0008 Character Select - Hold a C button or L or R when Mumbo Transforms you
+: 8037B4F3 0002
+: D0280471 0001
+: 8037B4F3 0003
+: D0280471 0004
+: 8037B4F3 0004
+: D0280471 0002
+: 8037B4F3 0005
+: D0280471 0010
+: 8037B4F3 0006
+: D0280471 0020
+: 8037B4F3 0007

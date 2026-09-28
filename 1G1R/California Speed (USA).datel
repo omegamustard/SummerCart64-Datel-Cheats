@@ -1,0 +1,32 @@
+# California Speed (USA)
+
+: 80151C01 0000 Always Place 1st
+: 810AD586 0001 Always Have Fog Adjust Option 
+: 81168F8C FFFF Have All Tracks
+: D013435F 0020 Press L To Refill The Timer
+: 810EC8F8 4020
+: D013435F 0010 Press R For Nitrous Boost
+: 8112BD0C 43CB
+: 810C986C 2400 Stop Timer (Fixed)
+: 810A6144 2400 Unlock All Vehicles For All Modes
+: 800AAE63 0001 Have Car In All Modes 486SE
+: 800AAE9B 0001 Have Car In All Modes Baja
+: 800AAEA3 0001 Have Car In All Modes Camper
+: 800AAE93 0001 Have Car In All Modes Convertible
+: 800AAEAB 0001 Have Car In All Modes Dozer
+: 800AAE7B 0001 Have Car In All Modes Fairchild
+: 800AAE6F 0001 Have Car In All Modes Five Oh
+: 800AAE8F 0001 Have Car In All Modes Forklift
+: 800AAE87 0001 Have Car In All Modes Golf Cart
+: 800AAE77 0001 Have Car In All Modes Hopper
+: 800AAE7F 0001 Have Car In All Modes Insect
+: 800AAE6B 0001 Have Car In All Modes Mano
+: 800AAE83 0001 Have Car In All Modes Mercado
+: 800AAE73 0001 Have Car In All Modes Mt. Dew
+: 800AAE5F 0001 Have Car In All Modes Muscle
+: 800AAE9F 0001 Have Car In All Modes Ol' Truck
+: 800AAE67 0001 Have Car In All Modes Predator
+: 800AAEA7 0001 Have Car In All Modes Semi
+: 800AAE97 0001 Have Car In All Modes Sled
+: 800AAE5B 0001 Have Car In All Modes Sportster
+: 800AAE8B 0001 Have Car In All Modes Squirrel

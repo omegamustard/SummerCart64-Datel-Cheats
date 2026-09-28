@@ -1,0 +1,8 @@
+# Pokemon Puzzle League (USA)
+
+: F10A1AE2 0120 Enable Code (Must Be On)
+: 801A59FF 0004 Infinite Tries (Puzzle University)
+: 811A151C 000F Max Score
+: 811A151E 423F
+: D01AB824 0020 Push Z Button To Get 9999 Points
+: 811A151E 270F

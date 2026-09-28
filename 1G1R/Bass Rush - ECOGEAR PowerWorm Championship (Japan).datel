@@ -1,0 +1,12 @@
+# Bass Rush - ECOGEAR PowerWorm Championship (Japan)
+
+: F1056790 2400 Master Code
+: 8018BA7F 0001 Enable Debug Display
+: D10DD9A4 1020 L + Start At Title Screen For Sound Test, R + Start to Exit
+: 801F8615 0000
+: D10DD9A4 1020
+: 811F8616 CB5C
+: D10DD9A4 1010
+: 801F8615 0007
+: D10DD9A4 1010
+: 811F8616 E1CA

@@ -1,0 +1,152 @@
+# S.C.A.R.S. (USA)
+
+: 8125B2F4 2400 Acceleration doubled
+: 803FB127 0002
+: 8125B2F4 2400 Acceleration quadrupled
+: 803FB127 0004
+: 8123BC68 1000 Auto drive
+: 8125B378 2400 Car accelerates by itself
+: 8125D5A0 2400
+: 8125D5C4 2400
+: 812C1EAC 0200
+: 8125D3F8 2400 Drive on walls and map boundaries
+: 8125FD3C 2400
+: 81260194 1000 Driving through objects like stone totems
+: 803DD109 0001 Enable Challenge Mode
+: 803DF94F 0001 Enable Cheetah Car
+: 803DD10D 0001 Enable Cheetah Challenge
+: 803DF94D 0001 Enable Cobra Car
+: 803DD10B 0001 Enable Cobra Challenge
+: 802CB4A9 0001 Enable Crystal Cup
+: 802CB4AB 0001 Enable Diamond Cup
+: 803DF951 0001 Enable Panther Car
+: 803DD10F 0001 Enable Panther Challenge
+: 803DF94B 0001 Enable Scorpion Car
+: 803DD111 0001 Enable Super Challenge
+: 802CB4AD 0001 Enable Zenith Cup, Mirror Mode & All Tracks
+: 803DF94B 0001 Have All Cars
+: 803DF94D 0001
+: 803DF94F 0001
+: 803DF951 0001
+: 803DD109 0001 Have All Challenges
+: 803DD10B 0001
+: 803DD10D 0001
+: 803DD10F 0001
+: 803DD111 0001
+: 802CB4A9 0001 Have All Cups/Tracks
+: 802CB4AB 0001
+: 802CB4AD 0001
+: 81256C7C 2400 Infinite ammo
+: 81256FF0 1000
+: 80388C1D 0003 Infinite Credits
+: 8039B14A 00FF Infinite Current Weapon P1
+: 8039B3EA 00FF Infinite Current Weapon P2
+: 8039B68A 00FF Infinite Current Weapon P3
+: 8039B92A 00FF Infinite Current Weapon P4
+: 8125A714 2400 Jump higher
+: 8125A720 2400
+: 8125A708 2400 Jump in midair
+: 803AE9A7 0001 One lap to race
+: 8125E778 1000 Opponents don't move
+: 81256C4C 2400 Pow bar charges instantly
+: 81220014 2400 Stop Minutes & Seconds On Lap Timer 1
+: 8123AC98 2400 Stop Overall Timer
+: 81256C40 2442 Weapons Charge Instantly
+: 81256C42 3000
+: 81256C4C 2400 Weapons Charge Instantly (Alternate)
+: 8039B144 0004 P1 Always Boomerang Equipped
+: 8039B147 0004
+: 8039B149 0009
+: 8039B144 0007 P1 Always Bullets Equipped
+: 8039B147 0007
+: 8039B149 0009
+: 8039B144 0001 P1 Always Magnet Equipped
+: 8039B147 0001
+: 8039B149 0009
+: 8039B144 0005 P1 Always Seeker Equipped
+: 8039B147 0005
+: 8039B149 0009
+: 8039B144 0008 P1 Always Shield Equipped
+: 8039B147 0008
+: 8039B149 0009
+: 8039B144 0003 P1 Always Stinger Equipped
+: 8039B147 0003
+: 8039B149 0009
+: 8039B144 0006 P1 Always Stopper Equipped
+: 8039B147 0006
+: 8039B149 0009
+: 8039B144 0000 P1 Always Turbo Equipped
+: 8039B147 0000
+: 8039B149 0009
+: 8039B3E4 0004 P2 Always Boomerang Equipped
+: 8039B3E7 0004
+: 8039B3E9 0009
+: 8039B3E4 0007 P2 Always Bullets Equipped
+: 8039B3E7 0007
+: 8039B3E9 0009
+: 8039B3E4 0001 P2 Always Magnet Equipped
+: 8039B3E7 0001
+: 8039B3E9 0009
+: 8039B3E4 0005 P2 Always Seeker Equipped
+: 8039B3E7 0005
+: 8039B3E9 0009
+: 8039B3E4 0008 P2 Always Shield Equipped
+: 8039B3E7 0008
+: 8039B3E9 0009
+: 8039B3E4 0003 P2 Always Stinger Equipped
+: 8039B3E7 0003
+: 8039B3E9 0009
+: 8039B3E4 0006 P2 Always Stopper Equipped
+: 8039B3E7 0006
+: 8039B3E9 0009
+: 8039B3E4 0000 P2 Always Turbo Equipped
+: 8039B3E7 0000
+: 8039B3E9 0009
+: 8039B684 0004 P3 Always Boomerang Equipped
+: 8039B687 0004
+: 8039B689 0009
+: 8039B684 0007 P3 Always Bullets Equipped
+: 8039B687 0007
+: 8039B689 0009
+: 8039B684 0001 P3 Always Magnet Equipped
+: 8039B687 0001
+: 8039B689 0009
+: 8039B684 0005 P3 Always Seeker Equipped
+: 8039B687 0005
+: 8039B689 0009
+: 8039B684 0008 P3 Always Shield Equipped
+: 8039B687 0008
+: 8039B689 0009
+: 8039B684 0003 P3 Always Stinger Equipped
+: 8039B687 0003
+: 8039B689 0009
+: 8039B684 0006 P3 Always Stopper Equipped
+: 8039B687 0006
+: 8039B689 0009
+: 8039B684 0000 P3 Always Turbo Equipped
+: 8039B687 0000
+: 8039B689 0009
+: 8039B924 0004 P4 Always Boomerang Equipped
+: 8039B927 0004
+: 8039B929 0009
+: 8039B924 0007 P4 Always Bullets Equipped
+: 8039B927 0007
+: 8039B929 0009
+: 8039B924 0001 P4 Always Magnet Equipped
+: 8039B927 0001
+: 8039B929 0009
+: 8039B924 0005 P4 Always Seeker Equipped
+: 8039B927 0005
+: 8039B929 0009
+: 8039B924 0008 P4 Always Shield Equipped
+: 8039B927 0008
+: 8039B929 0009
+: 8039B924 0003 P4 Always Stinger Equipped
+: 8039B927 0003
+: 8039B929 0009
+: 8039B924 0006 P4 Always Stopper Equipped
+: 8039B927 0006
+: 8039B929 0009
+: 8039B924 0000 P4 Always Turbo Equipped
+: 8039B927 0000
+: 8039B929 0009

@@ -1,0 +1,7 @@
+# Bassmasters 2000 (USA)
+
+: F105E400 2400 Enable Code (Must Be On)
+: 81030AC2 0009 Cheat Menu Accessible In Options Menu
+: 81030A4E 000A
+: 8107A412 FFFF P1 Max Score (Casting Game)
+: 8107A416 FFFF P2 Max Score (Casting Game)

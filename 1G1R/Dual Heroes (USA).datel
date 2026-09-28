@@ -1,0 +1,43 @@
+# Dual Heroes (USA)
+
+: D0226716 0000 1 Loss To Lose Player 1
+: 81226716 0001
+: D0226791 0000 1 Round Always
+: 81226719 0001
+: D0226715 0000 1 Win To Win P1
+: 80226715 0001
+: D0226717 0000 1 Win To Win P2
+: 80226717 0001
+: 8118F604 0800 Double Damage
+: 8118F606 0018
+: 81000060 0004
+: 81000062 7C03
+: 81000064 0806
+: 81000066 3D83
+: 81000068 00E7
+: 8100006A 3821
+: 811A78F0 2400 Hit Anywhere
+: 811A7A14 2400
+: D022671C 0000 Infinite Energy P1
+: 8122671C 00FA
+: D022671E 0000 Infinite Energy P2
+: 8122671E 00FA
+: D0226724 0000 Infinite Time
+: 81226724 003C
+: 802267CB 0009 Infinite Time To Continue P1
+: 803CF2A1 0009
+: 81226710 0008 Every Fighter In Story Mode Have Block All Over Them
+: 81226716 0001 Every Fighter In Story Mode Have Blocks All Over Them Except Gai And Kuma
+: 8122671E 0009 Look At Gai And Zen in Story Mode And They Have Block All Over Them
+: 8122671F 1111 Look At Zen In Story Mode And He Has Blocks All Over Him
+: 8118F4B2 4823 Lose Health Over Time Instead Of Recovering It
+: D022671C 0000 No Energy P1
+: 8122671C 0000
+: D022671E 0000 No Energy P2
+: 8122671E 0000
+: 8118F4B4 2400 No Health Recovery
+: D0226715 0001 P1 Never Wins
+: 80226715 0000
+: D0226717 0001 P2 Never Wins
+: 80226717 0000
+: 8113E3B0 2400 Stop Timer

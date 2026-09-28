@@ -1,0 +1,8 @@
+# Mia Hamm Soccer 64 (USA) (En,Es)
+
+: 81063BE6 0000 Always Low Timer
+: 81063BF2 0000
+: D0077EAD 0020 P1 Press L For Quick Half
+: 81063BE6 12D0
+: D0077EAD 0020
+: 81063BF2 12D0
