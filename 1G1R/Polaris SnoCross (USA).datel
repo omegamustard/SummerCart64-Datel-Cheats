@@ -1,0 +1,31 @@
+# Polaris SnoCross (USA)
+
+: F1059C24 2400 Master Code
+: F10596FC 2400
+: F1059708 2400
+: 8008323F 00FF All Divisions Complete
+: 8108324E FFFF All Sleds Unlocked
+: 81083252 03FF All Tracks Unlocked
+: 80083247 00FF Continue Tournament With All Tracks & Divisions Unlocked
+: 8108321E FFFF Max Race Points
+: 8008316D 0064 Max Wrenches - 440 XCR '00
+: 80083172 0064 Max Wrenches - 440 XCR '01
+: 80083168 0064 Max Wrenches - 440 XCR '99
+: 80083169 0064 Max Wrenches - 500 XC '99
+: 8008316E 0064 Max Wrenches - 500 XCSP '00
+: 80083173 0064 Max Wrenches - 500 XCSP '01
+: 80083182 0064 Max Wrenches - 600 Edge X
+: 8008316A 0064 Max Wrenches - 600 XC '99
+: 8008316F 0064 Max Wrenches - 600 XCSP '00
+: 80083177 0064 Max Wrenches - 600 XCSP '01
+: 80083178 0064 Max Wrenches - 700 XC '01
+: 8008316B 0064 Max Wrenches - 700 XC '99
+: 80083170 0064 Max Wrenches - 700 XCSP '00
+: 8008317C 0064 Max Wrenches - 800 XC '01
+: 80083171 0064 Max Wrenches - 800 XCR '00
+: 8008316C 0064 Max Wrenches - 800 XCR '99
+: 80083190 0064 Max Wrenches - Kundari
+: 8008318C 0064 Max Wrenches - Lobster
+: 80083192 0064 Max Wrenches - Siberon
+: 80083186 0064 Max Wrenches - Sno-Razor
+: 80083191 0064 Max Wrenches - Xeno Force

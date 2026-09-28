@@ -1,0 +1,97 @@
+# Gauntlet Legends (USA)
+
+: EE000000 0000 Enable Code (Must Be On)
+: 810C5D26 FFFF 65535 Experience Points
+: 810C5D36 FFFF 65535 Gold
+: 800FD19A 0002 Always Shoot 3-Way P1
+: 800FD198 0000 Always Shoot 5-Way P1
+: 800FD19A 0000 Always Shoot Rapid Fire P1
+: 50000100 0000 Get Infinite Amount Of Item On Pickup
+: 810C5BF6 FFFF
+: 8104EFC6 1FFF Have Rune Stones
+: 8104EFCA 000F Have Window Shards
+: 810C5C67 01F4 Infinite Health Freya
+: 810C5C56 07D0 Infinite Health Korick
+: 810C5C54 0000 Infinite Health P1
+: 810C5C56 270F
+: 810C6054 0000 Infinite Health P2
+: 810C6056 270F
+: 810C6454 0000 Infinite Health P3
+: 810C6456 270F
+: 810C6854 0000 Infinite Health P4
+: 810C6856 270F
+: 810C5C66 01F4 Infinite Health Sirus
+: 800C5C97 0006 Infinite Keys
+: 810C5CF6 FFFF Infinite Money P1
+: 810C60D6 FFFF Infinite Money P2
+: 800C5FF7 0009 Infinite Special Weapons P1
+: 800C5D37 0009
+: 800C5D67 0009
+: 800C5DE7 0009
+: 810C5EB7 0009
+: 800FD30F 0064 Infinite Turbo P1
+: 800FD4FF 0064 Infinite Turbo P2
+: 800FD6EF 0064 Infinite Turbo P3
+: 800FD8DF 0064 Infinite Turbo P4
+: 800C6137 0009 Infinite War Hammer & Light Arrow P2
+: 800C6187 0009
+: 810C5C44 0000 Level 99 P1
+: 810C5C46 0063
+: 810C6044 0000 Level 99 P2
+: 810C6046 270F
+: 810C6444 0000 Level 99 P3
+: 810C6446 270F
+: 810C6844 0000 Level 99 P4
+: 810C6846 270F
+: 810C5C34 0000 Max Armour P1
+: 810C5C36 FFFF
+: 810C6034 0000 Max Armour P2
+: 810C6036 270F
+: 810C6434 0000 Max Armour P3
+: 810C6436 270F
+: 810C6834 0000 Max Armour P4
+: 810C6836 270F
+: 810C5C64 0000 Max Health P1
+: 810C5C66 270F
+: 810C6064 0000 Max Health P2
+: 810C6066 270F
+: 810C6464 0000 Max Health P3
+: 810C6466 270F
+: 810C6864 0000 Max Health P4
+: 810C6866 270F
+: 810C5C24 0000 Max Magic P1
+: 810C5C26 FFFF
+: 810C6024 0000 Max Magic P2
+: 810C6026 270F
+: 810C6424 0000 Max Magic P3
+: 810C6426 270F
+: 810C6824 0000 Max Magic P4
+: 810C6826 270F
+: 810C5C14 0000 Max Speed P1
+: 810C5C16 FFFF
+: 810C6014 0000 Max Speed P2
+: 810C6016 270F
+: 810C6414 0000 Max Speed P3
+: 810C6416 270F
+: 810C6814 0000 Max Speed P4
+: 810C6816 270F
+: 810C5C04 0000 Max Strength P1
+: 810C5C06 FFFF
+: 810C6004 0000 Max Strength P2
+: 810C6006 270F
+: 810C6404 0000 Max Strength P3
+: 810C6406 270F
+: 810C6804 0000 Max Strength P4
+: 810C6806 270F
+: 810C5C16 01F4 Omega Code - 500 of Everything
+: 810C5CB6 01F4
+: 810C5CD6 01F4
+: 81065CE6 01F4
+: 50001010 0000 Super Code P1 (Cheat Device 3.0 Or Higher Needed!) - Whatever you have/pick up, you get Infinite of. Once you finish one board inside a level, the whole level will be finished
+: 810C5BF6 FFFF
+: 50001010 0000 Super Code P2 (Cheat Device 3.0 Or Higher Needed!)
+: 810C5FF6 FFFF
+: 50001010 0000 Super Code P3 (Cheat Device 3.0 Or Higher Needed!)
+: 810C63F6 FFFF
+: 50001010 0000 Super Code P4 (Cheat Device 3.0 Or Higher Needed!)
+: 810C67F6 FFFF
