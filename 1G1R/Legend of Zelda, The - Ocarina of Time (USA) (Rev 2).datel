@@ -1,0 +1,148 @@
+# Legend of Zelda, The - Ocarina of Time (USA) (Rev 2)
+
+: F10004E4 2400 Master Code
+: EE000000 0000
+: F10004E4 2400 Better Enable Code
+: F0000319 0078
+: 8138EDA0 2400 Infinite Health (ASM)
+: 8111ACAE 0140 Max Hearts
+: 810F933E 0000 Max Rupees Adult Wallet
+: 810F9340 0000 Max Rupees Giant Wallet
+: 810F933C 0000 Max Rupees Kid Wallet
+: 800289ED 0080 1-Hit Kills
+: 810289D0 2400 One Hit Kill (Some Enemies) (ASM)
+: 8111AD1C 7777 All Equipment
+: 8011AD21 0001 All Equipment (Alternate)
+: 8011AD22 0004
+: 8011AD23 00D8
+: 8111AD24 30FF All Quest/Status Items
+: 8111AD26 FFFF
+: 8011AD00 000E Always Have Boomerang
+: 8011AD06 0014 Always Have Bottle 1
+: 8011AD07 0014 Always Have Bottle 2
+: 8011AD08 0014 Always Have Bottle 3
+: 8011AD09 0014 Always Have Bottle 4
+: 8011ACFB 0007 Always Have Fairy Ocarina
+: 8011ACFD 000A Always Have Hookshot
+: 8011AD01 000F Always Have Lens of Truth
+: 8011ACFD 000B Always Have Longshot
+: 8011AD02 0010 Always Have Magic Beans
+: 8011AD03 0011 Always Have Megaton Hammer
+: 8138C2F8 2405 Arrows/Deku Seeds Never Decrease
+: 8138C2FA 0000
+: 8011ACE9 0011 C Left to Use Hammer - Even as Kid Link
+: 8139F8EA 0909 Can Equip Any Boots
+: 8039F8E1 0009 Can Equip Any Shield
+: 8139F8E2 0909
+: 8039F8DD 0009 Can Equip Any Sword
+: 8139F8DE 0909
+: 8139F8E6 0909 Can Equip Any Tunic
+: 813A590C 2405 Deku Nuts/Bombs Never Decrease
+: 813A590E 0000
+: 81399CE8 2405 Deku Sticks Never Decrease (ASM)
+: 81399CEA 0000
+: 81072B20 2400 Don't Lose Bombs When Using Them
+: 8138FE40 2402 Every Item Can Be Equipped
+: 8138FE42 0000
+: 80078E21 0004 Every Rupee Gives You Max Money
+: 81078ECC 246D Gain Rupees When Buying (ASM)
+: 81078ECE 0001
+: D1013260 4612 Get Items From Anywhere
+: 81013268 2400
+: D10232A8 4606
+: 810232B0 2400
+: 8011AD28 0007 Have Big Key, Compass, & Map
+: 8011ACFC 0009 Have Bombchu
+: 8011AD06 0002 Have Bombs
+: 8011ACF5 0001 Have Deku Nut
+: 8011ACF4 0000 Have Deku Stick
+: 8011ACF9 0005 Have Din's Fire (MP6)
+: 8011ACFF 000D Have Fairie's Wind (MP6)
+: 8011ACF7 0003 Have Fairy Bow
+: 8011ACFA 0006 Have Fairy Slingshot
+: 8011ACF8 0004 Have Fire Arrow (MP2)
+: 8011ACFE 000C Have Ice Arrow (MP2)
+: 8011AD04 0012 Have Light Arrow (MP4)
+: 8011AD05 0013 Have Nayru's Love (MP12)
+: 8011ACFB 0008 Have Ocarina of Time
+: 8011AD21 0001 Have Quiver (Holds 30)
+: 81034CEE 2400 Hookshot/Longshot Grabs Most Surfaces
+: 81034CF0 2400
+: D01C8D75 0030 Hover Boots Last While Holding L & R Buttons
+: 811DBB72 000D
+: 8139ED80 2444 Infinite Hover Boots (ASM)
+: 8139ED82 0000
+: 50000F01 0000 Infinite All Items
+: 8011AD0C 0063
+: D011ACB9 0008 Infinite Magic
+: 8011ACBA 0001
+: 8011ACBC 0001
+: 8011ACB3 0060
+: 8011AD0F 0009 Infinite Arrows
+: 8011AD14 0009 Infinite Bombchu's
+: 8011AD0E 0009 Infinite Bombs
+: 8011AD0D 0009 Infinite Deku Nuts
+: 8011AD0C 0009 Infinite Deku Sticks
+: 8111ACB0 0140 Infinite Energy
+: 8011AD1A 0009 Infinite Magic Beans
+: 8111C04C 0001 Infinite Rupees
+: 8011AD12 0009 Infinite Slingshot Ammo
+: 8011AD49 0009 Infinite Small Keys
+: 801EEEB8 0005 Infinite Carrots (Geurdo Fortress)
+: 801EED38 0005 Infinite Carrots (Geurdo Valley/Hyrule Field)
+: 801EF138 0005 Infinite Carrots (Lake Hylia)
+: 801EF338 0005 Infinite Carrots (Lon Lon Ranch)
+: 8111C055 0000 Infinite Time To Race The Running Man
+: D01C8D75 0020 L Button For Moon Jump
+: 811DB350 40CB
+: 801CA987 0001 Lens Of Truth Always On
+: 8111C048 FFFF Nayru's Love Always On
+: 8011C053 0000 No Timers
+: 8011C04F 0000
+: 8111AD50 03E7 Skulltulas Killed
+: 8011ACBE 0001 Turn Giant's Knife Into Biggoron's Sword
+: 8111C062 0000 Use Any Item Anywhere (Except In Water)
+: 8111C064 0000
+: 81022518 1460 Walk Though Walls (Hold A)
+: D01C8D74 0080
+: 81022518 1060
+: 8011AD30 0007 Big Key Compass and Map Bottom of Well
+: 8011AD29 0007 Big Key Compass and Map Dodongo's Cave
+: 8011AD2C 0007 Big Key Compass and Map Forest Temple
+: 8011AD31 0007 Big Key Compass and Map Ice Cavern
+: 8011AD2A 0007 Big Key Compass and Map Jabu-Jabu's Belly
+: 8011AD2F 0007 Big Key Compass and Map Shadow Temple
+: 8011AD32 0007 Big Key Compass and Map Spirit Temple
+: 8011AD2D 0007 Big Key Compass and Map Water Temple
+: 8011AD44 0009 Infinite Small Keys Bottom of Well
+: 8011AD40 0009 Infinite Small Keys Fire Temple
+: 8011AD3F 0009 Infinite Small Keys Forest Temple
+: 8011AD8F 0009 Infinite Small Keys Forest Temple
+: 8011AD47 0009 Infinite Small Keys Gerudo Fortress
+: 8011AD43 0009 Infinite Small Keys Shadow Temple
+: 8011AD42 0009 Infinite Small Keys Spirit Temple
+: 8011AD4C 0009 Infinite Small Keys Treasure Chest Game
+: 8011AD41 0009 Infinite Small Keys Water Temple
+: 8011AD0A 002D Quest Item 1 Pocket Egg
+: 8011AD0A 002E Quest Item 1 Pocket Cucco
+: 8011AD0A 002F Quest Item 1 Cojiro
+: 8011AD0A 0030 Quest Item 1 Odd Mushroom
+: 8011AD0A 0031 Quest Item 1 Odd Potion
+: 8011AD0A 0032 Quest Item 1 Poacher's Saw
+: 8011AD0A 0033 Quest Item 1 Goron's Sword (Broken)
+: 8011AD0A 0034 Quest Item 1 Prescription
+: 8011AD0A 0035 Quest Item 1 Eyeball Frog
+: 8011AD0A 0036 Quest Item 1 Eye Drops
+: 8011AD0A 0037 Quest Item 1 Claim Check
+: 8011AD0B 0021 Quest Item 2 Weird Egg
+: 8011AD0B 0022 Quest Item 2 Chicken
+: 8011AD0B 0023 Quest Item 2 Zelda's Letter
+: 8011AD0B 0024 Quest Item 2 Keaton Mask
+: 8011AD0B 0025 Quest Item 2 Skull Mask
+: 8011AD0B 0026 Quest Item 2 Spooky Mask
+: 8011AD0B 0027 Quest Item 2 Bunny Hood
+: 8011AD0B 0028 Quest Item 2 Goron Mask
+: 8011AD0B 0029 Quest Item 2 Zora Mask
+: 8011AD0B 002A Quest Item 2 Gerudo Mask
+: 8011AD0B 002B Quest Item 2 Mask of Truth
+: 8011AD0B 002C Quest Item 2 SOLD OUT

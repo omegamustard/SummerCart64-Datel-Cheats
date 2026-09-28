@@ -1,0 +1,97 @@
+# Legend of Zelda, The - Majora's Mask (USA)
+
+: F1096820 2400 Enable Code (Must Be On)
+: FF000220 0000
+: F1096820 2400 Enable Code (Alternate) - Don't use both at same time
+: FF000240 0000
+: 811F05AA FFFF Complete Bomber's Notebook
+: 811F05AC FFFF
+: 811F05AE FFFF
+: 811F05B0 FFFF
+: 810F6C3C 2400 Disable 3-day Timer
+: 811EF6B6 FFFF Enable All Owl Statues
+: 811EF6A4 0140 Infinite Health
+: 811EF6A6 0140 Max Health
+: 80166118 0020 Max Visibility
+: 8017F5B4 0020 No Collisions - Doesn't work on Doors
+: 8017CBC4 0020 Walk Through Walls 1 - Use 1 at a time
+: 8017CBAC 0020 Walk Through Walls 2
+: D141E54C 240E Hit One Target For 1000 in Koume's Target Shooting
+: 8141E54E 03E8
+: D14193E0 25AE Hit One Target To Add 5000 Points in Swamp Shooting Gallery
+: 814193E2 1388
+: 810C9CFE 2442 Hookshot/Longshot Grabs Anything It Can Reach
+: 810C9D00 2042
+: 801EF73A 0063 Infinite Keys
+: 801EF73B 0063
+: 801EF73C 0063
+: 801EF73D 0063
+: 801EF6A9 0030 Infinite Magic
+: 811EF6AA 03E7 Infinite Rupees
+: 801EF711 0009 Infinite Arrows
+: 801EF716 0009 Infinite Bombs
+: 801EF717 0009 Infinite Bombachus
+: 801EF718 0009 Infinite Deku Sticks
+: 801EF719 0009 Infinite Deku Nuts
+: 801EF71A 0009 Infinite Magic Beans
+: 801EF71C 0009 Infinite Powder Keg
+: 801EF6F7 0025 Have Bottle 6 Chateau Romani
+: 810A6A0E 6A40 Get Items From Anywhere
+: 810A6A16 0000
+: 80146ACB 005A Make A Save File For Debug Save File
+: 81146B18 1000
+: 81146B1A 0017
+: 801EF6E6 0006 Have Bomb
+: 801EF6E7 0007 Have Bombchu
+: 801EF6F2 0012 Have Bottle 1
+: 801EF6F3 0012 Have Bottle 2
+: 801EF6F4 0012 Have Bottle 3
+: 801EF6F5 0012 Have Bottle 4
+: 801EF6F6 0012 Have Bottle 5
+: 801EF6F7 0012 Have Bottle 6
+: 801EF6E9 0009 Have Deku Nut
+: 801EF6E8 0008 Have Deku Stick
+: 801EF6E2 0002 Have Fire Arrow (MP2)
+: 801EF6F0 0010 Have Great Fairy's Sword
+: 801EF6E1 0001 Have Hero's Bow
+: 801EF6EF 000F Have Hookshot
+: 801EF6E3 0003 Have Ice Arrow (MP2)
+: 801EF6EE 000E Have Lens Of Truth
+: 801EF6E4 0004 Have Light Arrow (MP4)
+: 801EF6EA 000A Have Magic Beans
+: 801EF6E0 0000 Have Ocarina Of Time
+: 801EF6ED 000D Have Pictograph Box
+: 801EF6EC 000C Have Powder Keg
+: 801EF6F9 0038 Have All-Night Mask
+: 801EF6FA 0047 Have Blast Mask
+: 801EF6FF 0046 Have Breman Mask
+: 801EF700 0039 Have Bunny Hood
+: 801EF70D 0044 Have Captain's Hat
+: 801EF705 003D Have Circus Leader's Mask
+: 801EF707 003F Have Couple Mask
+: 801EF6FD 0032 Have Deku Mask
+: 801EF701 0042 Have Don Gero's Mask
+: 801EF70F 0035 Have Fierce Deity's Mask
+: 801EF70C 003B Have Garo's Mask
+: 801EF70E 0049 Have Giant's Mask
+: 801EF70B 0041 Have Gibdo Mask
+: 801EF703 0033 Have Goron Mask
+: 801EF6FC 0040 Have Great Fairy's Mask
+: 801EF706 0037 Have Kafei's Mask
+: 801EF70A 0043 Have Kamaro's Mask
+: 801EF6FE 003A Have Keaton Mask
+: 801EF702 0048 Have Mask of Scents
+: 801EF708 0036 Have Mask of Truth
+: 801EF6F8 003E Have Postman's Mask
+: 801EF704 003C Have Romani's Mask
+: 801EF6FB 0045 Have Stone Mask
+: 801EF709 0034 Have Zora Mask
+: 801EF6E5 0028 Have Event Item 1 - Moon's Tear
+: 801EF6E5 0029 Have Event Item 1 - Land Title Deed
+: 801EF6E5 002A Have Event Item 1 - Swamp Title Deed
+: 801EF6E5 002B Have Event Item 1 - Mountain Title Deed
+: 801EF6E5 002C Have Event Item 1 - Ocean Title Deed
+: 801EF6E5 002D Have Event Item 1 - Room Key
+: 801EF6E5 002E Have Event Item 1 - Special Delivery to Mama
+: 801EF6E5 002F Have Event Item 1 - Letter To Kafei
+: 801EF6E5 0030 Have Event Item 1 - Pendant of Memories

@@ -1,0 +1,8 @@
+# Lode Runner 3-D (USA)
+
+: 811170AC 2400 Don't Lose Bombs Once You Have Them
+: 81152946 FFFF Enable All Options
+: 81152946 0064 Enable Unlock Worlds Option
+: 80152AFF 0032 High Gold
+: 8015293B 0032
+: 8015299F 0063 Infinite Lives

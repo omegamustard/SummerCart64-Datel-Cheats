@@ -1,0 +1,19 @@
+# Pokemon Stadium 2 (USA)
+
+: DE000400 0000 Enable Code ('Must Be On')
+: F100B6A0 0000
+: F100B6A2 0000
+: F107A214 0000
+: F107A216 0000
+: F1085190 0000
+: F1085192 0000
+: F100B6A0 2400 Master Code
+: F1085190 2400
+: F100B6A4 2400
+: 8014576F 0000 One Hit KO
+: 801457C7 0000
+: 8014581F 0000
+: 8017DFEB 0002 P1 Infinite Dirt Rollout Rampage
+: 8016EA97 0005 P1 Instant Win Barrier Ball
+: 8016D64F 0050 P1 Instant Win Pichu's Power Plant
+: 80176887 0005 P1 Instant Win Topsy Turvy

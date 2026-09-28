@@ -1,0 +1,31 @@
+# AeroFighters Assault (USA)
+
+: 80130B80 0063 99 Accuracy
+: 80130B87 0063 99 Bonus
+: 8027CCEC 0010 Always Have F-15J Eagle
+: 8032AA90 0001 Always Have Level Select
+: 8027CCED 0020 Always Have X-29A A.T.D.
+: 813190E4 2400 Don't Take Damage
+: 8127CCEC FFFF Extra Planes
+: D027A20C 0000 Extra Points
+: 8027A20C 00FF
+: 812C22DC 2400 Gun Never Loses Charge
+: 8127CFF4 44A0 Infinite Armor Plane
+: 8127CFF8 44A0
+: 8027E017 000A Infinite Chaffs
+: 8027F7F7 000A Infinite Chaffs P2
+: 8027E110 0001 Infinite Gun
+: 8027F8F0 0001 Infinite Gun P2
+: 8027CFF5 00C8 Infinite Health
+: 8027CFF9 00C8
+: 8127E7D4 4420 Infinite Health P2
+: 8127E7D8 4420
+: 8027E4D2 0002 Infinite Special Weapons
+: 8027FCB2 0002 Infinite Special Weapons P2
+: 812A9624 2400 Invincible
+: 8027E107 0001 Rocket Squad
+: 8027E109 0001 Tomahawk Squad
+: 8027E300 0001 Ultra-Fast Missile Recharge
+: 8027FAE0 0001 Ultra-Fast Missile Recharge P2
+: 80348BAC 00FF Unlock All Planes and Bosses
+: 81348B50 FFFF Unlock All Planes in Deathmatch

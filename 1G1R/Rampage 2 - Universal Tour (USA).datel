@@ -1,0 +1,113 @@
+# Rampage 2 - Universal Tour (USA)
+
+: 8118CF92 0000 Have George
+: 8118CF94 0000 Have Lizzie
+: 8118CF98 0000 Have Myukus
+: 8118CF96 0000 Have Ralph
+: 8118CF9A 06CB Infinite Time to Choose A Character
+: 810D5710 0001 Unlock Cheat Menu
+: D01543D5 0044 Boris 1-Hit Death
+: 811543D4 0001
+: D01543D5 0044 Boris 25% Health
+: 811543D4 0011
+: D01543D5 0044 Boris 50% Health
+: 811543D4 0022
+: D01543D5 0044 Boris 75% Health
+: 811543D4 0033
+: 811543D4 0044 Boris Infinite Health
+: 811543D0 0063 Boris Infinite Lives
+: 811543DC 0044 Boris Infinite Special
+: 81154404 000F Boris Max Score
+: 81154406 423F
+: 811543D4 0000 Boris No Health
+: 811543DC 0000 Boris No Special
+: D01541B9 0044 Curtis 1-Hit Death
+: 811541B8 0001
+: D01541B9 0044 Curtis 25% Health
+: 811541B8 0011
+: D01541B9 0044 Curtis 50% Health
+: 811541B8 0022
+: D01541B9 0044 Curtis 75% Health
+: 811541B8 0033
+: 811541B8 0044 Curtis Infinite Health
+: 811541B4 0063 Curtis Infinite Lives
+: 811541C0 0044 Curtis Infinite Special
+: 811541E8 000F Curtis Max Score
+: 811541EA 423F
+: 811541B8 0000 Curtis No Health
+: 811541C0 0000 Curtis No Special
+: D015480D 0044 George 1-Hit Death
+: 8115480C 0001
+: D015480D 0044 George 25% Health
+: 8115480C 0011
+: D015480D 0044 George 50% Health
+: 8115480C 0022
+: D015480D 0044 George 75% Health
+: 8115480C 0033
+: 8115480C 0044 George Infinite Health
+: 81154808 0063 George Infinite Lives
+: 81154814 0044 George Infinite Special
+: 8115483C 000F George Max Score
+: 8115483E 423F
+: 8115480C 0000 George No Health
+: 81154814 0000 George No Special
+: D0154A29 0044 Lizzie 1-Hit Death
+: 81154A28 0001
+: D0154A29 0044 Lizzie 25% Health
+: 81154A28 0011
+: D0154A29 0044 Lizzie 50% Health
+: 81154A28 0022
+: D0154A29 0044 Lizzie 75% Health
+: 81154A28 0033
+: 81154A28 0044 Lizzie Infinite Health
+: 81154A24 0063 Lizzie Infinite Lives
+: 81154A30 0044 Lizzie Infinite Special
+: 81154A58 000F Lizzie Max Score
+: 81154A5A 423F
+: 81154A28 0000 Lizzie No Health
+: 81154A30 0000 Lizzie No Special
+: D0154E61 0044 Myukus 1-Hit Death
+: 81154E60 0001
+: D0154E61 0044 Myukus 25% Health
+: 81154E60 0011
+: D0154E61 0044 Myukus 50% Health
+: 81154E60 0022
+: D0154E61 0044 Myukus 75% Health
+: 81154E60 0033
+: 81154E60 0044 Myukus Infinite Health
+: 81154E5C 0063 Myukus Infinite Lives
+: 81154E68 0044 Myukus Infinite Special
+: 81154E90 000F Myukus Max Score
+: 81154E92 423F
+: 81154E60 0000 Myukus No Health
+: 81154E68 0000 Myukus No Special
+: D0154C45 0044 Ralph 1-Hit Death
+: 81154C44 0001
+: D0154C45 0044 Ralph 25% Health
+: 81154C44 0011
+: D0154C45 0044 Ralph 50% Health
+: 81154C44 0022
+: D0154C45 0044 Ralph 75% Health
+: 81154C44 0033
+: 81154C44 0044 Ralph Infinite Health
+: 81154C40 0063 Ralph Infinite Lives
+: 81154C4C 0044 Ralph Infinite Special
+: 81154C74 000F Ralph Max Score
+: 81154C76 423F
+: 81154C44 0000 Ralph No Health
+: 81154C4C 0000 Ralph No Special
+: D01545F1 0044 Ruby 1-Hit Death
+: 811545F0 0001
+: D01545F1 0044 Ruby 25% Health
+: 811545F0 0011
+: D01545F1 0044 Ruby 50% Health
+: 811545F0 0022
+: D01545F1 0044 Ruby 75% Health
+: 811545F0 0033
+: 811545F0 0044 Ruby Infinite Health
+: 811545EC 0063 Ruby Infinite Lives
+: 811545F8 0044 Ruby Infinite Special
+: 81154620 000F Ruby Max Score
+: 81154622 423F
+: 811545F0 0000 Ruby No Health
+: 81154F58 0000 Ruby No Special

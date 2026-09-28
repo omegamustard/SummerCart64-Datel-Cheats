@@ -1,0 +1,207 @@
+# Quake (USA)
+
+: 80163A2B 00FF Single Player 255 OF ANY AMMO
+: 801639EB 007F Single Player All Weapons
+: 8116397C 42C8 Single Player Always Have Quad Damage
+: 811639E8 42C8 Single Player Always Have Ring of Shadows
+: 8006C4C2 0001 Single Player Debug Mode
+: 8103E30C 2400 Single Player Don't Lose Keys On Death
+: 8103E310 2400 Single Player Don't Lose Weapons On Death
+: 801639E9 000F Single Player Have All Keys
+: 81163930 42C8 Single Player Infinite Health
+: 80163931 00C8 Single Player INFINITE HEALTH ALL LEVELS
+: 81163944 42C8 Single Player Infinite Armor
+: 81163980 42C8 Single Player Infinite Bio Suit
+: 80163A2D 0064 Single Player Infinite Ammo
+: 80163A2F 0064
+: 80163A31 0064
+: 80163A33 0064
+: 81163A30 03E7 Single Player Infinite Ammo Grenade Launcher & Rocket Launcher (Official Code That Has Been Modified & Separated)
+: 81163A2E 03E7 Single Player Infinite Ammo Nailgun & Super Nailgun (Official Code That Has Been Modified & Separated)
+: 81163A2C 03E7 Single Player Infinite Ammo Shotgun & Double Barrel Shotgun (Official Code That Has Been Modified & Separated)
+: 81163A32 03E7 Single Player Infinite Ammo Thunderbolt (Official Code That Has Been Modified & Separated)
+: 8102081C 2400 Single Player Infinite Grenade Launcher Ammo (Once You Have Some)
+: 81020CC8 2400 Single Player Infinite Nailgun Ammo (Once You Have Some)
+: 81020028 2400 Single Player Infinite Rocker Launcher Ammo (Once You Have Some)
+: 8101FC64 2400 Single Player Infinite Shotgun Ammo
+: 81020B40 2400 Single Player Infinite Super Nailgun Ammo (Once You Have Some)
+: 8101FD68 2400 Single Player Infinite Super Shotgun Ammo (Once You Have Some)
+: 810205D0 2400 Single Player Infinite Thunderbolt Ammo (Once You Have Some)
+: 81163974 42C8 Single Player Pentagram Of Protection & Quad Damage Always Active
+: D00CA9E1 0020 Single Player Press L Button for Peaceful Enemies
+: 811639F2 42C8
+: D00CA9E0 0020 Single Player Rapid Fire
+: 8016396D 0001
+: 810034FC 4604 Single Player Take Double Damage (You AND Enemies)
+: 810034FE 3181
+: 8100350C E606
+: 8100350E 01C0
+: 81166290 42C8 Multi-Player Infinite Health P1
+: 81166560 42C8 Multi-Player Infinite Health P2
+: 811662A4 42C8 Multi-Player Infinite Armor P1
+: 81166574 42C8 Multi-Player Infinite Armor P2
+: 811662E0 42C8 Multi-Player Infinite Bio Suit P1
+: 811665B0 42C8 Multi-Player Infinite Bio Suit P2
+: 81166390 03E7 Multi-Player Infinite Ammo Grenade Launcher & Rocket Launcher P1
+: 81166660 03E7 Multi-Player Infinite Ammo Grenade Launcher & Rocket Launcher P2
+: 8116638E 03E7 Multi-Player Infinite Ammo Nailgun & Super Nailgun P1
+: 8116665E 03E7 Multi-Player Infinite Ammo Nailgun & Super Nailgun P2
+: 8116638C 03E7 Multi-Player Infinite Ammo Shotgun & Double Barrel Shotgun P1
+: 8116665C 03E7 Multi-Player Infinite Ammo Shotgun & Double Barrel Shotgun P2
+: 81166392 03E7 Multi-Player Infinite Ammo Thunderbolt P1
+: 81166662 03E7 Multi-Player Infinite Ammo Thunderbolt P2
+: 81044B00 0000 [ASM] Can Stay Underwater Without Drowning [ASM]
+: 81044B02 0000
+: 81020524 0000 [ASM] Discharging Thunderbolt In Liquid Doesn't Take Away All Cell Ammo [ASM]
+: 81020526 0000
+: 8102081C 0000 [ASM] Infinite Ammo (Grenade Launcher) [ASM]
+: 8102081E 0000
+: 81020CC8 0000 [ASM] Infinite Ammo (Nailgun) [ASM]
+: 81020CCA 0000
+: 81020028 0000 [ASM] Infinite Ammo (Rocket Launcher) [ASM]
+: 8102002A 0000
+: 8101FC64 0000 [ASM] Infinite Ammo (Shotgun) [ASM]
+: 8101FC66 0000
+: 81020B40 0000 [ASM] Infinite Ammo (Super Nailgun) [ASM]
+: 81020B42 0000
+: 8101FD68 0000 [ASM] Infinite Ammo (Super Shotgun) [ASM]
+: 8101FD6A 0000
+: 810205D0 0000 [ASM] Infinite Ammo (Thunderbolt) [ASM]
+: 810205D2 0000
+: 810157A8 0000 [ASM] Rapid Fire (Fix For Both Nailguns) [ASM]
+: 810157AA 0000
+: 81020CB0 0000 [ASM] Rapid Fire (Nailgun) [ASM]
+: 81020CB2 0000
+: 810215A4 0000 [ASM] Rapid Fire (Rocket Launcher) [ASM]
+: 810215A6 0000
+: 810214A0 0000 [ASM] Rapid Fire (Shotgun) [ASM]
+: 810214A2 0000
+: 81020B28 0000 [ASM] Rapid Fire (Super Nailgun) [ASM]
+: 81020B2A 0000
+: 810214E4 0000 [ASM] Rapid Fire (Super Shotgun) [ASM]
+: 810214E6 0000
+: 81015A18 0000 [ASM] Rapid Fire (Thunderbolt) [ASM]
+: 81015A1A 0000
+: 810215E0 0000
+: 810215E2 0000
+: 81021560 0000 [ASM] Rapid Fire Grenade Launcher) [ASM]
+: 81021562 0000
+: 8103796C 0000 [ASM] Screen Doesn't Turn Red When Taking Damage [ASM]
+: 8103796E 0000
+: 81037B00 0000 [ASM] View Doesn't Tilt When Taking Damage [ASM]
+: 81037B02 0000
+: 81032500 3000 Debugger is always available in the Option menu
+: D00DD7C5 0010 Hold R To Moon Jump
+: 811637E4 4380
+: D00DD7C5 0011
+: 811637E4 4380
+: D00DD7C5 0012
+: 811637E4 4380
+: D00DD7C5 0014
+: 811637E4 4380
+: D00DD7C5 0018
+: 811637E4 4380
+: D00DD7C5 0015
+: 811637E4 4380
+: D00DD7C5 0016
+: 811637E4 4380
+: D00DD7C5 0019
+: 811637E4 4380
+: D00DD7C5 001A
+: 811637E4 4380
+: 80086AD1 0065 Level Select Azure Agony
+: 81086AD2 346D
+: 80086AD4 0037
+: 80086AD1 0065 Level Select Castle Of The Damned
+: 81086AD2 316D
+: 80086AD4 0032
+: 80086AD1 0065 Level Select Chambers Of Torment
+: 81086AD2 336D
+: 80086AD4 0036
+: 80086AD1 0064 Level Select Claustrophobopolis
+: 81086AD2 6D32
+: 80086AD4 0000
+: 80086AD1 0065 Level Select Gloom Keep
+: 81086AD2 316D
+: 80086AD4 0035
+: 80086AD1 0064 Level Select Place Of Two Deaths
+: 81086AD2 6D31
+: 80086AD4 0000
+: 80086AD1 0065 Level Select Satan's Dark Delight
+: 81086AD2 336D
+: 80086AD4 0034
+: 80086AD1 0065 Level Select Shub-Niggurath's Pit
+: 81086AD2 6E64
+: 80086AD4 0000
+: 80086AD1 0065 Level Select Termination Central
+: 81086AD2 336D
+: 80086AD4 0031
+: 80086AD1 0064 Level Select The Abandoned Base
+: 81086AD2 6D33
+: 80086AD4 0000
+: 80086AD1 0064 Level Select The Bad Place
+: 81086AD2 6D34
+: 80086AD4 0000
+: 80086AD1 0064 Level Select The Cistern
+: 81086AD2 6D35
+: 80086AD4 0000
+: 80086AD1 0064 Level Select The Court Of Death
+: 81086AD2 6D37
+: 80086AD4 0000
+: 80086AD1 0065 Level Select The Crypt Of Decay
+: 81086AD2 326D
+: 80086AD4 0033
+: 80086AD1 0064 Level Select The Dark Zone
+: 81086AD2 6D36
+: 80086AD4 0000
+: 80086AD1 0065 Level Select The Dismal Oubliette
+: 81086AD2 326D
+: 80086AD4 0036
+: 80086AD1 0065 Level Select The Door To Cthlon
+: 81086AD2 316D
+: 80086AD4 0036
+: 80086AD1 0065 Level Select The Elder God Shrine
+: 81086AD2 346D
+: 80086AD4 0033
+: 80086AD1 0065 Level Select The Haunted Halls
+: 81086AD2 336D
+: 80086AD4 0037
+: 80086AD1 0065 Level Select The House Of Cthlon
+: 81086AD2 316D
+: 80086AD4 0037
+: 80086AD1 0065 Level Select The Nameless City
+: 81086AD2 346D
+: 80086AD4 0038
+: 80086AD1 0065 Level Select The Necropolis
+: 81086AD2 316D
+: 80086AD4 0033
+: 80086AD1 0065 Level Select The Ogre Citadel
+: 81086AD2 326D
+: 80086AD4 0032
+: 80086AD1 0065 Level Select The Pain Maze
+: 81086AD2 346D
+: 80086AD4 0036
+: 80086AD1 0065 Level Select The Palace Of Hate
+: 81086AD2 346D
+: 80086AD4 0034
+: 80086AD1 0065 Level Select The Slipgate Complex
+: 81086AD2 316D
+: 80086AD4 0031
+: 80086AD1 0065 Level Select The Tomb Of Terror
+: 81086AD2 336D
+: 80086AD4 0033
+: 80086AD1 0065 Level Select The Tower Of Despair
+: 81086AD2 346D
+: 80086AD4 0032
+: 80086AD1 0065 Level Select The Underearth
+: 81086AD2 326D
+: 80086AD4 0037
+: 80086AD1 0065 Level Select The Vaults Of Zin
+: 81086AD2 336D
+: 80086AD4 0032
+: 80086AD1 0065 Level Select The Wizards Manse
+: 81086AD2 326D
+: 80086AD4 0035
+: 80086AD1 0065 Level Select Ziggurat Vertigo
+: 81086AD2 316D
+: 80086AD4 0038

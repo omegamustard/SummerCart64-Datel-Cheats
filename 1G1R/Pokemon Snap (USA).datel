@@ -1,0 +1,26 @@
+# Pokemon Snap (USA)
+
+: DE000400 0000 Enable Code (Must Be On)
+: F103D8A0 2400
+: 8024A1DB 00FF Always Have 65535 Types Of Pokémon When Multiplying For The Score
+: 80382CB7 0000 Rapid-Fire Apples and PesterBalls
+: 800AC0E3 0000 Unlimited Film
+: 810C2212 0006 Have All Levels
+: 803AE51F 0001 Have Apple
+: 803AE51F 0002 Have Apple & Bomb
+: 803AE51F 0004 Have Apple, Bomb & Flute
+: 803AE51F 0020 Have Rocket Boost (R Button)
+: D00489E1 0020 Press L Button To Pull Mew Closer To Camera
+: 8118C890 4300
+: D00489E1 0020 Press L To Stop On Beach Level
+: 802020F5 0001
+: D00489E1 0020 Press L To Stop On Cave Level
+: 80202225 0001
+: D00489E1 0020 Press L To Stop On River Level
+: 801EF96D 0001
+: D00489E1 0020 Press L To Stop On Tunnel Level
+: 801DDC55 0001
+: D00489E1 0020 Press L To Stop On Valley Level
+: 801D9ABD 0001
+: D00489E1 0020 Press L To Stop On Volcano Level
+: 801FC5C5 0001
