@@ -1,0 +1,12 @@
+# Baku Bomberman 2 (Japan)
+
+: F1071F24 2400 Master Code
+: F1071F34 2400
+: 800AB5C7 000A Flashing Invincible
+: 800AB59B 0003 Have Fire Bombs
+: 800AB5A3 0003 Have Kick Bombs Anytime
+: 800AB593 0003 Have Max Fire Level
+: 800AB5B8 0003 Infinite Bombs
+: 810B3B36 0090 Infinite Continue Time
+: 800AB5BF 0005 Infinite Health
+: 810A9BB2 FFFF Infinite Money
