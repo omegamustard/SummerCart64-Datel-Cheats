@@ -1,0 +1,33 @@
+# Ken Griffey Jr.'s Slugfest (USA)
+
+: DE061600 0000 Enable Code (Must Be On)
+: F1061910 2400 Master Code
+: F1061914 2400
+: D021AC47 0000 1 Ball And You Walk
+: 8021AC47 0003
+: D021AC41 0000 1 Out And You Are Out
+: 8021AC41 0002
+: D021AC48 0000 1 Strike And You Are Out
+: 8021AC48 0002
+: D021AC47 0000 2 Balls And You Walk
+: 8021AC47 0002
+: D021AC41 0000 2 Outs And You Are Out
+: 8021AC41 0001
+: D021AC48 0000 2 Strikes And You Are Out
+: 8021AC48 0001
+: D021AC47 0000 3 Balls And You Walk
+: 8021AC47 0001
+: 8021AC47 0000 Infinite Balls
+: 8021AC41 0000 Infinite Outs
+: 8021AC48 0000 Infinite Strikes
+: 81059408 420C Infinite Creation Points
+: 8105C5F8 4120 Character Creation Max Arm Strength
+: 8105D6D8 4120 Character Creation Max Batting
+: 8105BB98 4120 Character Creation Max Clutch
+: 8105B760 4120 Character Creation Max Control
+: 8105CA60 4120 Character Creation Max Defense
+: 8105C098 4120 Character Creation Max Durability
+: 8105AE90 4120 Character Creation Max Pitch Speed
+: 8105D270 4120 Character Creation Max Power
+: 8105CE68 4120 Character Creation Max Speed
+: 8105B2F8 4120 Character Creation Max Stamina

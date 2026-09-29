@@ -1,0 +1,58 @@
+# All-Star Baseball 2001 (USA)
+
+F103B0B0 2400 Master Code
+F121A5F0 2400
+F131D628 2400
+D006A277 0000 1 Ball And You Walk
+8006A277 0003
+D006A27B 0000 1 Out And You Are Out
+8006A27B 0002
+D006A279 0000 1 Strike And You Are Out
+8006A279 0002
+D006A277 0000 2 Balls And You Walk
+8006A277 0002
+D006A27B 0000 2 Outs And You Are Out
+8006A27B 0001
+D006A279 0000 2 Strikes And You Are Out
+8006A279 0001
+D006A277 0000 3 Balls And You Walk
+8006A277 0001
+8002964B 0001 Aluminum Bats
+80029632 0001 Big Ball Mode
+80029647 0001 Blackout Mode
+80029643 0001 Blur Mode
+8002963F 0001 Fly Away Mode
+8002963A 0001 Small Players Mode
+D0076009 0010 Hit A Homerun - Hold R before hitting the ball
+D006A28F 000F
+8006A28F 0025
+D0076009 0010
+D006A28F 0013
+8006A28F 0025
+8006A277 0000 Infinite Balls
+81105340 42C8 Infinite Creation Points
+8006A27B 0000 Infinite Outs
+81105A54 42C8 Infinite Pitch Type Points
+8006A279 0000 Infinite Strikes
+81117B1C 4170 Create-A-Player Max Arm Str
+81117B08 4170 Create-A-Player Max Bunting
+81117B24 4170 Create-A-Player Max Clutch
+81117AF8 4170 Create-A-Player Max Contact
+81117B18 4170 Create-A-Player Max Defense
+81117AFC 4170 Create-A-Player Max Power
+81117B14 4170 Create-A-Player Max Speed
+81117B20 4170 Create-A-Player Max Streak
+81117B00 4170 Create-A-Player Max Vs LHP
+81117B04 4170 Create-A-Player Max Vs RHP
+81117AF0 4170 Pitcher Attributes Max Accuracy
+81105970 4170 Pitcher Attributes Max Curveball
+81105968 4170 Pitcher Attributes Max Fastball
+8110597C 4170 Pitcher Attributes Max Forkball
+81105974 4170 Pitcher Attributes Max Knuckleball
+81105984 4170 Pitcher Attributes Max Screwball
+81105980 4170 Pitcher Attributes Max Sinkerball
+81105978 4170 Pitcher Attributes Max Split Fastball
+81117AF4 4170 Pitcher Attributes Max Stamina
+8110596C 4170 Pitcher Attributes Max Straight Change
+81117B0C 4170 Pitcher Attributes Max Vs LHB
+81117B10 4170 Pitcher Attributes Max Vs RHB

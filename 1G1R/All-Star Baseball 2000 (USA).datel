@@ -1,0 +1,73 @@
+# All-Star Baseball 2000 (USA)
+
+: F103DE78 2400 Master Code
+: D006E4DF 0000 1 Ball And You Walk
+: 8006E4DF 0003
+: D006E4E3 0000 1 Out And You Are Out
+: 8006E4E3 0002
+: D006E4E1 0000 1 Strike And You Are Out
+: 8006E4E1 0002
+: D006E4DF 0000 2 Balls And You Walk
+: 8006E4DF 0002
+: D006E4E3 0000 2 Outs And You Are Out
+: 8006E4E3 0001
+: D006E4E1 0000 2 Strikes And You Are Out
+: 8006E4E1 0001
+: D006E4DF 0000 3 Balls And You Walk
+: 8006E4DF 0001
+: 81647450 3C02 All Scores Count For Away Team
+: 81647452 8006
+: 81647454 2442
+: 81647456 528C
+: 81647450 3C02 All Scores Count For Home Team
+: 81647452 8006
+: 81647454 2442
+: 81647456 E2C8
+: D0079F81 0010 Hit A Homerun - Hold R before hitting the ball
+: D006E4F3 000F
+: 8006E4F3 0025
+: D0079F81 0010
+: D006E4F3 0013
+: 8006E4F3 0025
+: 8102A176 0001 Baseball Trail Mode
+: 8102A17A 0001 Beach Ball Mode
+: 8102A18E 0001 Blackout Mode
+: 8102A18A 0001 Blind Code
+: 8102A186 0001 Fly Back To Dugout
+: 8102A182 0001 Small Players Mode
+: 8176D584 2400 Character Creation Points Don't Decrease While Setting Attributes
+: 81773FE0 2400 Pitcher Creation Points Don't Decrease When Setting Pitcher Attributes
+: 8006E4DF 0000 Infinite Balls
+: 8006E4E3 0000 Infinite Outs
+: 8006E4E1 0000 Infinite Strikes
+: 8166AD76 0006 Strikes Count As Balls
+: 8166AD7E 0006
+: 81103350 4170 Infinite Character Creation Points
+: 811039BC 4170 Infinite Pitch Type Creation Points
+: 811039C0 4170
+: 50000E04 0000 Max All (Cheat Device 3.0+)
+: 81115A20 4170
+: 81115A20 4170 Max Accuracy
+: 81115A4C 4170 Max Arm Str.
+: 81115A38 4170 Max Bunting
+: 81115A54 4170 Max Clutch
+: 81115A28 4170 Max Contact
+: 81115A48 4170 Max Defense
+: 81115A2C 4170 Max Power
+: 81115A44 4170 Max Speed
+: 81115A24 4170 Max Stamina
+: 81115A50 4170 Max Streak
+: 81115A3C 4170 Max VS LHB
+: 81115A30 4170 Max VS LHP
+: 81115A40 4170 Max VS RHB
+: 81115A34 4170 Max VS RHP
+: 50000804 0000 Max Pitch 1-8 (Cheat Device 3.0+)
+: 811038D0 4170
+: 811038D0 4170 Max Pitch 1
+: 811038D4 4170 Max Pitch 2
+: 811038D8 4170 Max Pitch 3
+: 811038DC 4170 Max Pitch 4
+: 811038E0 4170 Max Pitch 5
+: 811038E4 4170 Max Pitch 6
+: 811038E8 4170 Max Pitch 7
+: 811038EC 4170 Max Pitch 8

@@ -1,0 +1,25 @@
+# Battlezone - Rise of the Black Dogs (USA)
+
+: F103ED4C 2400 Master Code
+: F103E82C 2400
+: F103E838 2400
+: 8116F994 2400 Infinite Ammo
+: 8116FA50 2400 Infinite Health (You & Enemies)
+: 811DF6DE 0BA9 Infinite Ship Health
+: 811DF6EA 04B0 Infinite Weapons
+: 811DA682 0003 Outside Tank Infinite Shots For Sniper Rifle
+: 8006A1C0 0001 Commander Mode Add Building
+: 8006A1C3 0001 Commander Mode Add Satellite
+: 8006A1EC 0011 Commander Mode Have All Missions Open And Complete For Americans
+: 8006A1EF 000A Commander Mode Have All Missions Open And Complete For Black Dogs
+: 8006A1ED 0008 Commander Mode Have All Missions Open And Complete For Soviets
+: 8006A1C1 0001 Commander Mode Infinite Ammo
+: 8006A1C2 0001 Commander Mode Infinite Armor
+: 811FBCCE FFFF Commander Mode Infinite Pilots
+: 811FBCC6 FFFF Commander Mode Infinite Scrap Collected
+: 8006A1F5 0001 Commander Mode Level Select
+: 811FBCD2 FFFF Commander Mode Max Pilot Limits
+: 811FBCCA FFFF Commander Mode Max Scrap Limit
+: 8006A1F0 0011 Pilot Mode Have All Levels Unlocked & Completed For Americans
+: 8006A1F3 000A Pilot Mode Have All Levels Unlocked & Completed For Black Dogs
+: 8006A1F1 0008 Pilot Mode Have All Levels Unlocked & Completed For Soviets

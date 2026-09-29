@@ -1,0 +1,46 @@
+# All-Star Baseball 99 (USA)
+
+800ABFB7 0000 Infinite Balls
+800E2C31 00B0 Infinite Character Creation Points
+800ABFBB 0000 Infinite Outs
+800ABFB9 0000 Infinite Strikes
+D00ABFB7 0000 1 Ball And You Walk
+800ABFB7 0003
+D00ABFBB 0000 1 Out And You Are Out
+800ABFBB 0002
+D00ABFB9 0000 1 Strike And You Are Out
+800ABFB9 0002
+D00ABFB7 0000 2 Balls And You Walk
+800ABFB7 0002
+D00ABFBB 0000 2 Outs And You Are Out
+800ABFBB 0001
+D00ABFB9 0000 2 Strikes And You Are Out
+800ABFB9 0001
+D00ABFB7 0000 3 Balls And You Walk
+800ABFB7 0001
+D20702B1 0010 Hit A Homerun - Hold R before hitting the pitch
+810FD93C 1602
+D00702B1 0010
+810FD93C 2400
+8106724A 0001 Alien Abductions Mode
+81097242 0001 Ball Trail Mode
+81067236 0001 Big Ball Mode
+81067232 0001 Big Head Mode
+8106723E 0001 Fat-Skinny Mode
+8106723A 0001 Paperman Mode
+50000F04 0000 Character Creation Max All Stats (Cheat Device 3.0+ Only)
+810E2BF0 4170
+810E2BF0 4170 Character Creation Max Accuracy
+810E2C20 4170 Character Creation Max Arm Strength
+810E2C0C 4170 Character Creation Max Bunting
+810E2BF4 4170 Character Creation Max Clutch
+810E2C28 4170 Character Creation Max Clutch (Alternate)
+810E2BFC 4170 Character Creation Max Contact
+810E2C1C 4170 Character Creation Max Defense
+810E2C00 4170 Character Creation Max Power
+810E2C18 4170 Character Creation Max Speed
+810E2C24 4170 Character Creation Max Streak
+810E2C10 4170 Character Creation Max VS LHB
+810E2C14 4170 Character Creation Max VS RHB
+810E2C04 4170 Character Creation Max VS. LHP
+810E2C08 4170 Character Creation Max VS. RHP

@@ -1,0 +1,114 @@
+# BattleTanx - Global Assault (USA)
+
+: 80125AB0 0001 Invulnerability
+: 80117F49 0001 Level Select
+: 8009C624 0001 Able To Move Around After Beating A Level (Press B To End Level)
+: 80114CFD 0001 Able To Move While Menu Is Up
+: 80125AB6 0001 Brandon Gang
+: 80125AB5 0001 Cassandra Gang
+: 50001370 0000 Enable All Tanks, All Levels (Shortened)
+: 81124BD6 FFFF
+: 50001370 0000
+: 81124BDA FFFF
+: 50001370 0000 Enable Edge Power All Levels, At Full Strength
+: 81124BDE 07D0
+: 50001370 0000
+: 81124BE0 0A0A
+: 80125AB3 0001 Enable Models
+: 80082854 0001 Enemies Can't Move
+: 8009D7AE 0020 Enemies On Turntable
+: 800A5774 0001 If One Tanker/Gas Pump Blows Up, They All Do (Shoot A Pump In Arizona Level, Message From Staff To You Will Appear)
+: 80236A9F 00FF Infinite TankBucks
+: 80071AB4 0043 Lasers Do Massive Damage
+: 50001370 0000 Numerous Enemies Switch To Your Side (All Levels)
+: 81124B90 0000
+: 8008E7F0 0001 Rapid Fire! (Might Only Fire So Many Times Each Level Though)
+: 80071AA4 0042 Rockets Are Faster
+: 80071AA4 0040 Rockets Are Slower
+: 80125AB2 0001 Secret Level
+: 80125AB1 0001 Start With All Weapons
+: 80114CE8 0000 Turn Off All Explosive Level Devices (Like Explosive Barrels)
+: 80114CF4 0000 Turn Off Item Debris Cleaner (Debris Is Now Left Behind)
+: 80114CC0 0000 Turn Off Buildings
+: 80114CC1 0000 Turn Off Enemies
+: 80114CCF 0000 Turn Off Submarines
+: 80125AB4 0001 What The ?
+: 81124BD6 FFFF Enable All Tanks All Campaigns
+: 81124BDA FFFF
+: 81124C46 FFFF
+: 81124C4A FFFF
+: 81124CB6 FFFF
+: 81124CBA FFFF
+: 81124D26 FFFF
+: 81124D2A FFFF
+: 81124D96 FFFF
+: 81124D9A FFFF
+: 81124E06 FFFF
+: 81124E0A FFFF
+: 81124E76 FFFF
+: 81124E7A FFFF
+: 81124EE6 FFFF
+: 81124EEA FFFF
+: 81124F56 FFFF
+: 81124F5A FFFF
+: 81124FC6 FFFF
+: 81124FCA FFFF
+: 81125036 FFFF
+: 8112503A FFFF
+: 811250A6 FFFF
+: 811250AA FFFF
+: 81125116 FFFF
+: 8112511A FFFF
+: 81125186 FFFF
+: 8112518A FFFF
+: 811251F6 FFFF
+: 811251FA FFFF
+: 81125266 FFFF
+: 8112526A FFFF
+: 811252D6 FFFF
+: 811252DA FFFF
+: 81125346 FFFF
+: 8112534A FFFF
+: 811253B6 FFFF
+: 811253BA FFFF
+: 810A89F8 2400 Enemies Killed Counter Doesn't Increment [ASM]
+: 810DB8C4 2400 Guided Missiles Can Be Flown Forever [ASM]
+: 810E459C 2400 Gun Buddies Are Invincible (All Types) [ASM]
+: 8108D230 2400 Infinite Ammo (Special Weapons) [ASM]
+: 8108D990 2400
+: 8108DB20 2400
+: 8108DD00 2400
+: 8108DE24 2400
+: 8108DEF8 2400
+: 8108E174 2400
+: 8108E3E0 2400
+: 8108E4C0 2400
+: 8108E518 2400
+: 8108EA84 2400
+: 8108E97C 2400 Infinite Ammo (Tank Bullets) [ASM]
+: 810D7420 2400 Infinite Tank Bucks [ASM]
+: 810DC14C 2400 Powered Up Guided Missile - Unlimited Laser Shots [ASM]
+: 50000E02 0000 Battlelord P1 Has All Special Weapons & Infinite Ammo (Cheat Device 3.0 or Higher Needed!)
+: 811AD7EF FFFF
+: 50000E02 0000 Battlelord P2 Has All Special Weapons & Infinite Ammo
+: 811AE187 FFFF
+: 50000E02 0000 Battlelord P3 Has All Special Weapons & Infinite Ammo
+: 811AEB1F FFFF
+: 50000E02 0000 Battlelord P4 Has All Special Weapons & Infinite Ammo
+: 811AF4B7 FFFF
+: 50000E02 0000 Deathmatch, Frenzy & Convoy P1 Has All Special Weapons & Infinite Ammo
+: 811AD322 FFFF
+: 50000E02 0000 Deathmatch, Frenzy & Convoy P2 Has All Special Weapons & Infinite Ammo
+: 811ADCBA FFFF
+: 50000E02 0000 Deathmatch, Frenzy & Convoy P3 Has All Special Weapons & Infinite Ammo
+: 811AE652 FFFF
+: 50000E02 0000 Deathmatch, Frenzy & Convoy P4 Has All Special Weapons & Infinite Ammo
+: 811AEFEA FFFF
+: 50000E02 0000 Hold 'Em Mode P1 Has All Special Weapons & Infinite Ammo
+: 811AD7EE FFFF
+: 50000E02 0000 Hold 'Em Mode P2 Has All Special Weapons & Infinite Ammo
+: 811AE186 FFFF
+: 50000E02 0000 Hold 'Em Mode P3 Has All Special Weapons & Infinite Ammo
+: 811AEB1E FFFF
+: 50000E02 0000 Hold 'Em Mode P4 Has All Special Weapons & Infinite Ammo
+: 811AF4B6 FFFF

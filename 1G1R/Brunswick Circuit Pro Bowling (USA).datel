@@ -1,0 +1,26 @@
+# Brunswick Circuit Pro Bowling (USA)
+
+: F1056F5C 2400 Master Code
+: F1056A3C 2400
+: F1056A48 2400
+: 8007DB77 0005 Headless Bowler
+: 81089E12 010A Score 20 Extra Points 1st Frame
+: 81089E14 0A0A
+: 81089E26 010A Score 20 Extra Points 2nd Frame
+: 81089E28 0A0A
+: 81089E3A 010A Score 20 Extra Points 3rd Frame
+: 81089E3C 0A0A
+: 81089E4E 010A Score 20 Extra Points 4th Frame
+: 81089E50 0A0A
+: 81089E62 010A Score 20 Extra Points 5th Frame
+: 81089E64 0A0A
+: 81089E76 010A Score 20 Extra Points 6th Frame
+: 81089E78 0A0A
+: 81089E8A 010A Score 20 Extra Points 7th Frame
+: 81089E8C 0A0A
+: 81089E9E 010A Score 20 Extra Points 8th Frame
+: 81089EA0 0A0A
+: 81089EB2 010A Score 20 Extra Points 9th Frame
+: 81089EB4 0A0A
+: 81089EC6 010A Score 20 Extra Points 10th Frame
+: 81089EC8 0A0A

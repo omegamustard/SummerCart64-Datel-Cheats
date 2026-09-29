@@ -1,0 +1,13 @@
+# F1 Racing Championship (Europe) (En,Fr,De,Es,It)
+
+: 80054E2D 0000 Regional Lockout Bypass
+: D1109518 27BD Opponents don't move - In Race, Activate with Z, Deactivate with Start
+: D00A31F4 0020
+: 81109518 03E0
+: D00A31F4 0010
+: 81109518 27BD
+: D110951A FFD0
+: D00A31F4 0020
+: 8110951A 0008
+: D00A31F4 0010
+: 8110951A FFD0

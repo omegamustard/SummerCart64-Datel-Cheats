@@ -1,0 +1,54 @@
+# Armorines - Project S.W.A.R.M. (USA)
+
+: F1093178 1000 Enable Code (Must Be On)
+: F10A929C 2400 Master Code
+: F100108C 2400
+: F17A1AC8 2400
+: F10A8D7C 2400
+: F10A8D88 2400
+: 8104A260 2400 Don't Take Any Damage
+: 810496D0 2400 Infinite Ammo (All Guns)
+: 81048CA0 2400 Invincible
+: 810A4B2E 43CB Infinite Time (Story Mode)
+: 810A4D1E 43CB Infinite Time (VS Mode)
+: 816FE8BE 6400 Hi-Res Single Player Infinite Health
+: 806FE8F0 0001 Hi-Res Single Player Have Electrical Gun
+: 806FE8EE 0001 Hi-Res Single Player Have Laser Rifle
+: 806FE8EF 0001 Hi-Res Single Player Have Machine Gun
+: 806FE8F2 0001 Hi-Res Single Player Have Rocket Gun
+: 806FE8D3 0064 Hi-Res Single Player Infinite Ammo Electrical Gun
+: 806FE8E1 0064 Hi-Res Single Player Infinite Ammo Machine Gun
+: 806FE8E3 0070 Hi-Res Single Player Infinite Laser Rifle
+: 806FE8D9 0030 Hi-Res Single Player Infinite Rocket Gun
+: D10F7550 0020 Hi-Res Single Player L Button For Moon Jump
+: 816FE35C 43D5
+: D10F7550 2000 Hi-Res Single Player Rapid Fire
+: 816FE6D8 0000
+: 812E1D4E 6400 Lo-Res Single Player Infinite Health
+: 812E2618 4080 Lo-Res Single Player Giant Mode
+: 812E261C 4080
+: 802E1D80 0001 Lo-Res Single Player Have Electrical Gun
+: 802E1D7E 0001 Lo-Res Single Player Have Laser Rifle
+: 802E1D7F 0001 Lo-Res Single Player Have Machine Gun
+: 802E1D82 0001 Lo-Res Single Player Have Rocket Gun
+: 802E1D63 0064 Lo-Res Single Player Infinite Ammo Electrical Gun
+: 802E1D71 0064 Lo-Res Single Player Infinite Ammo Machine Gun
+: 802E1D7B 0060 Lo-Res Single Player Infinite Jungle Chemical Gun
+: 802E1D69 0030 Lo-Res Single Player Infinite Lewis Explosive Projectile Weapon
+: 802E1D6F 0070 Lo-Res Single Player Infinite Lewis Laser Rifle
+: D10F7550 0020 Lo-Res Single Player L Button For Moon Jump
+: 812E17EC 43D5
+: 812E1B68 0000 Lo-Res Single Player Rapid Fire
+: 812E1B6A 0000
+: 81115932 0001 Activate Cheat Invincibility
+: 81115932 0002 Activate Cheat Have All Weapons
+: 81115932 0004 Activate Cheat Infinite Ammo
+: 81115932 0008 Activate Cheat Level Select
+: 81115932 0040 Activate Cheat ? Mode
+: 81115932 0100 Activate Cheat Pen And Ink Mode
+: 81115932 0800 Activate Cheat Female Trooper (2-Player Mode)
+: 81115932 1000 Activate Cheat Hive Guard Bug
+: 81115932 2000 Activate Cheat Volcano Guard Bug
+: 81115932 4000 Activate Cheat Egypt Worker Bug Activated
+: 81115932 8000 Activate Cheat Hive Worker Bug
+: 81115932 F94F Activate Cheat All Of The Above

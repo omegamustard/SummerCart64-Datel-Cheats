@@ -1,0 +1,21 @@
+# Bomberman 64 - The Second Attack! (USA)
+
+: F1073EE4 2400 Enable Code (Must Be On)
+: F1073ED4 2400 Master Code
+: F1073EE4 2400
+: 800AD743 0007 Have Time Bombs
+: 810B5CD6 0090 Infinite Continue Time
+: 800AD75F 0005 Infinite Health
+: 8108F8B6 0004 Infinite Lives
+: D10ABD50 0000 Infinite Money
+: 810ABD50 0001
+: D10ABD50 0000
+: 810ABD52 869F
+: 800AD737 0003 Max Bombs Level
+: 800AD733 0003 Max Fire Level
+: D108F912 0005 Maximum Health
+: 8108F912 000A
+: 810AD762 0005
+: 810AD762 000A
+: D00AFF75 0020 Bomberman Hovers
+: 810B8856 0001

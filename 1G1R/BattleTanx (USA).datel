@@ -1,0 +1,97 @@
+# BattleTanx (USA)
+
+: 810998EC 3000 Infinite ammo for all weapons, items, and main gun
+: 810998B8 1000 Infinite ammo for main gun
+: 810F80D0 AF1B Infinite health (your tank won't blow up)
+: 802DE65B 00FF Infinite Lives
+: 81098424 3000 Invincibility
+: 80135763 0001 Invincible
+: 8013576A 0001 Invisible
+: 80125AB0 0001 Invulnerability
+: 80117F49 0001 Level Select
+: 802DE64B 00FF 255 Kills
+: 800A1F7C 0001 All Batteries Have Bad Aim
+: 800A34A2 0001 All Batteries Have Hellfire
+: 8009843D 0001 All Battletanx Are Invincible
+: 80082AB4 0001 All Battletanx Are Invisible
+: 8008904B 0086 All Walls Completely Off
+: 81099874 3000 Allows most weapons to shoot ultra fast (no reload delay)
+: 800A6746 0001 Auto Lose All Queen Lord Levels
+: 800A6745 0001 Auto Win All Queen Lord Levels
+: 802DE7DF 000A Black Tanks (Multi)
+: 80092990 0001 Buildings Don't Show Signs Of Damage, Untill Destroyed
+: 80091BBC 0001 Buildings Fall Fast
+: 8009298E 0001 Buildings Implode Instead Of Explode, And Remain Afire
+: 8012579A 0001 Can Choose Your Gang In Campaign
+: 80125AB3 0001 Enable Models
+: 80125AB5 0001 Cassandra Gang
+: 80125AB6 0001 Brandon Gang
+: 81099874 3000 Enemies don't shoot at you
+: 8107B1B8 3000
+: 80135767 0001 Extra Multi-Player Stages
+: 81134E5A 0002
+: 81134E5E 0000
+: 80108188 0001 Go Through Walls (Doesn't Work In Arena)
+: 80135767 0001 Have All Levels
+: 80135773 0001 Have Storm Ravens Gang
+: 8013576B 0001 Hurl Mode
+: 812DE830 7FFF Mega Score
+: 812DE832 FFFF
+: 80072298 00BE No Gun Recoil
+: 81099FC6 003C Normal tank shell ammo pickups give you twice as much ammo (60 instead of 30)
+: 8009FB2A 0001 Regenerated Allied Tanks Are Indestructible In Campaign
+: 80135770 0001 Run Story
+: 8008E529 0001 Shoot Through Walls
+: 81099E74 00A3 Small health pick-ups fully restore your health
+: 80135765 0001 Start With All Guns
+: 80135775 0001 Frogs
+: 80135776 0001 Toads
+: 80135771 0001 Trippy
+: 80135760 0001 Unlimited Ammo (main gun only)
+: 802D861F 0003 Unlimited Cloak
+: 802D860F 0062 Unlimited Grenades
+: 802D8617 0030 Unlimited Guided Missiles
+: 802D861B 0002 Unlimited Gun Buddies
+: 802D8621 0005 Unlimited Health [Pick Ups]
+: 802D860B 002F Unlimited Laser
+: 80135772 0001 Unlimited Lives
+: 802D8619 0040 Unlimited Mines
+: 802D860D 0002 Unlimited Nuke
+: 802D8609 0036 Unlimited Swarmer Missilies
+: 810977D0 3000 Your tank is invisible
+: 802D818D 0001 P1 Always Has Cloaked On
+: 802D8195 0080 P1 Always Have Radar
+: 802D8603 00FF P1 Infinite Ammo
+: 802D819F 0001 P1 One Hit And You Bite It
+: 802DE7FB 0011 P1 Tank Turret Always On (Use Right/Left C Button)
+: 802DE7FF 0002
+: 802D8695 0001 P1 Your Goalith Tank On Tracks Always Has Cloaked On
+: 802D869D 0080 P1 Your Goalith Tank On Tracks Always Has Radar
+: 802D9AB5 0001 P2 Always Has Cloaked On
+: 802D9ABD 0080 P2 Always Have Radar
+: 802D9F2B 00FF P2 Infinite Ammo
+: 802D9AC7 0001 P2 One Hit And You Bite It
+: 802DEB43 0011 P2 Tank Turret Always On
+: 802DEB47 0002
+: 802D9FBD 0001 P2 Your Goalith Tank On Tracks Always Has Cloaked On
+: 802D9FC5 0080 P2 Your Goalith Tank On Tracks Always Has Radar
+: 802DEE8B 0011 P3 Tank Turret Always On
+: 802DEE8F 0002
+: 802DF1D3 0011 P4 Tank Turret Always On
+: 802DF1D7 0002
+: 50000E02 0000 Battlelord Mode P1 Has All Special Weapons & Infinite Ammo
+: 811AD7EE FFFF
+: 50000E02 0000 Battlelord Mode P2 Has All Special Weapons & Infinite Ammo
+: 811AE186 FFFF
+: 50000E02 0000 Battlelord Mode P3 Has All Special Weapons & Infinite Ammo
+: 811AEB1E FFFF
+: 50000E02 0000 Battlelord Mode P4 Has All Special Weapons & Infinite Ammo
+: 811AF4B6 FFFF
+: 50000E02 0000 Deathmatch, Frenzy & Convoy Modes P1 Has All Special Weapons & Infinite Ammo
+: 811AD322 FFFF
+: 50000E02 0000 Deathmatch, Frenzy & Convoy Modes P2 Has All Special Weapons & Infinite Ammo
+: 811ADCBA FFFF
+: 50000E02 0000 Deathmatch, Frenzy & Convoy Modes P3 Has All Special Weapons & Infinite Ammo
+: 811AE652 FFFF
+: 50000E02 0000 Deathmatch, Frenzy & Convoy Modes P4 Has All Special Weapons & Infinite Ammo
+: 811AEFEA FFFF
