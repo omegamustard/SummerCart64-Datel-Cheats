@@ -1,3 +1,10 @@
 # SimCity 2000 (Japan)
 
 : 810AC32E FFFF Money Credits
+: 810DD938 FFFF Unlock All Scenarios
+: 8123D190 05F5 Infinite Money
+: 8123D192 E0FF
+: 8123D22A 0007 All Bonus Buildings
+: 8123D21C 000F
+: 81155BF8 03FF
+: 81157A6C 0004
