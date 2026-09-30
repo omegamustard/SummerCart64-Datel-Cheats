@@ -1,3 +1,7 @@
 # 64 Oozumou (Japan)
 
 : 80048CC6 0064 Infinite Sumo Moves Points
+: 8110CF68 0000 Player 1 Max Health
+: 8110CF68 4220 Player 1 Low Health
+: 8110CF6C 0000 Player 2 Max Health
+: 8110CF6C 4220 Player 2 Low Health
