@@ -12,6 +12,7 @@
 : 8010DC37 0001 Infinite Health Cheat Enabled (RAM)
 : 8117D9A2 0000 Infinite Ink Ribbon Usage
 : 8108C940 2400 Infinite Item Usage
+: 800E8CBF 0010 Infinite Time
 : 8108E968 2400 Item Amount Doesn't Decrease After Combining
 : 810746F8 2400 Leon Can Open Desks Without The Small Key
 : 8012BD90 0011 Leon Starts A New Game With Rocket Launcher Instead Of Handgun
@@ -21,4 +22,14 @@
 : 810E8928 8007
 : D1014FA4 6000
 : 810E892A 4110
+: 810E13E4 0000 Have Fine Condition Always
 : 8108C53C 1000 Use Items Without Having Them
+: 810E8B50 0000 Saves Always 0
+: 50000E04 0100 Have All Guns In  Chest
+: 810E8EF4 05FF
+: D1014FA4 1020 Quick Chest Access - Hold L and Press Start
+: 8012BFA8 0001
+: D1014FA4 6000 Quick Save Access - Press Z+B, Must have Ink Ribbon
+: 810E8928 8007
+: D1014FA4 6000
+: 810E892A 4110
