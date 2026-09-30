@@ -1,0 +1,20 @@
+# Mortal Kombat Trilogy (USA) (Rev 2)
+
+: 8114C3D8 000A Infinite Time
+: 8016998D 00A6 Infinite Energy P1
+: 81169854 0030 Infinite Run P1
+: 80169A21 0030 Infinite Aggressor P1
+: 8016998D 0000 No Energy P1
+: D02B5365 0020 Press L for Max Aggressor P1
+: 811699B4 5100
+: D02B5365 0020
+: 811699BC 5100
+: 80169C61 00A6 Infinite Energy P2
+: 81169C68 0030 Infinite Run P2
+: 80169A23 0030 Infinite Aggressor P2
+: 80169C61 0000 No Energy P2
+: D02B536D 0020 Press L for Max Aggressor P2
+: 811699B6 5100
+: D02B536D 0020
+: 811699BE 5100
+: 8016A021 0004 Open Red & Blue ?'s

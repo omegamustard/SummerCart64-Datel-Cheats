@@ -1,0 +1,35 @@
+# NFL Blitz 2001 (USA)
+
+: F10261D2 0120 Enable Code (Must Be On)
+: F10261F2 0120 Enable Code (Must Be On) (Alternate)
+: F1041CAC 2400 Master Code
+: F104178C 2400
+: F1041798 2400
+: 810EC01E 0001 Always 1st Down
+: 810EC01E 0004 Always 4th Down
+: 810EC12C 42C8 Infinite Turbo P1
+: 810EC12E 0000
+: 810EC12C 42C8 Infinite Turbo P1 (Alternate)
+: 810EC166 0000
+: 810EC164 42C8 Infinite Turbo P2
+: 810EC166 0000
+: 810EC19C 42C8 Infinite Turbo P3
+: 810EC19E 0000
+: 810EC1D4 42C8 Infinite Turbo P4
+: 810EC1D6 0000
+: 810EC12C 0000 No Turbo P1
+: 810EC12E 0000
+: 810EC164 0000 No Turbo P2
+: 810EC166 0000
+: 810EC19C 0000 No Turbo P3
+: 810EC19E 0000
+: 810EC1D4 0000 No Turbo P4
+: 810EC1D6 0000
+: 800EBFFF 0000 Team 1 Always Has The Ball
+: 800EC007 0000
+: 800EC0CB 0001 Team 1 Always On Fire
+: 800EC0CB 0000 Team 1 Never On Fire
+: 800EBFFF 0001 Team 2 Always Has The Ball
+: 800EC007 0001
+: 800EC0CF 0001 Team 2 Always On Fire
+: 800EC0CF 0000 Team 2 Never On Fire

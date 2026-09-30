@@ -1,0 +1,62 @@
+# Snowboard Kids 2 (USA)
+
+: 8025B213 0000 1-Hit Death Bosses
+: 8025A5BF 00C8 Extra Points & Money
+: 8125A7F2 012C Have 300 Points - Trick Game
+: 81259130 0101 Have All Gold Medals
+: 81259132 0101
+: 81259134 0101
+: 81259136 0101
+: 81259138 0101
+: 8025A853 001E Infinite Papers - Shoot Cross
+: 8126D442 293C Infinite Time - Speed Cross
+: 8126D440 0A8C Infinite Time - Trick Game
+: D00A1C09 0020 Press L Button To Send All CPU Back To Starting Point Of The Course
+: 8025BDB5 0000
+: D00A1C09 0020
+: 8025B1CD 0000
+: D00A1C09 0020
+: 8025C99D 0000
+: 8125916E 0101 Battle Mode Open Extra Characters & Snowboards
+: 80259170 0001
+: 8025915C 0001
+: 8125915E 0101
+: 81259160 0101
+: 80259140 0001 Enable All Battle Mode Courses
+: 80259141 0001
+: 80259142 0001
+: 80259143 0001
+: 80259144 0001
+: 80259145 0001
+: 80259146 0001
+: 80259147 0001
+: 80259148 0001
+: 80259149 0001
+: 8025914A 0001
+: 8025914B 0001
+: 8025914C 0001
+: 8025914D 0001
+: 8025914E 0001
+: 8025A5F5 0078 Story Mode Always Remain Invisible
+: 8025A61F 0000 Story Mode Ghosts Can't Affect You
+: 8025A5BD 0001 Story Mode Max Coins (In Race)
+: 8025A5BE 0086
+: 8025A5BF 009F
+: 802590D1 0098 Story Mode Max Coins (In Shop)
+: 812590D2 967F
+: D025A60D 0002 Story Mode Never Tumble
+: 8025A5DB 0000
+: D025A60D 0002
+: 8025A60E 0000
+: D025A60D 0002
+: 8025A60D 0001
+: 80259136 0001 Gold Medal Crazy Jungle
+: 80259137 0001 Gold Medal Crazy Jungle Boss
+: 80259139 0001 Gold Medal Haunted House
+: 80259132 0001 Gold Medal Jingle Town
+: 80259133 0001 Gold Medal Jingle Town Boss
+: 80259135 0001 Gold Medal Linda's Castle
+: 80259138 0001 Gold Medal Starlight Highway
+: 80259130 0001 Gold Medal Sunny Mountain
+: 80259131 0001 Gold Medal Turtle Island
+: 80259134 0001 Gold Medal Wendy's House

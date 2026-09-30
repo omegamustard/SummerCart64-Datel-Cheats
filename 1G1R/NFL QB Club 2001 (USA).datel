@@ -1,0 +1,38 @@
+# NFL QB Club 2001 (USA)
+
+: F1030E74 2400 Master Code
+: 800785D2 0001 Always 1st Down
+: 800785D2 0004 Always 4th Down
+: 80053796 0005 Away Team Infinite Time-Outs
+: 80053796 0000 Away Team No Time-Outs
+: 801316E1 0000 Away Team Scores 0
+: 801316E1 0064 Away Team Scores 100
+: 80053216 0005 Home Team Infinite Time-Outs
+: 80053216 0000 Home Team No Time-Outs
+: 801320B1 0000 Home Team Scores 0
+: 801320B1 0064 Home Team Scores 100
+: 810817D8 2800 Infinite Time To Choose Play
+: D005FED5 0020 P1 Press L For 1st Down
+: 800785D2 0001
+: D005FED5 0010 P1 Press R For 4th Down
+: 800785D2 0004
+: D005FEDD 0020 P2 Press L For 1st Down
+: 800785D2 0001
+: D005FEDD 0010 P2 Press R For 4th Down
+: 800785D2 0004
+: D005FEE5 0020 P3 Press L For 1st Down
+: 800785D2 0001
+: D005FEE5 0010 P3 Press R For 4th Down
+: 800785D2 0004
+: D005FEED 0020 P4 Press L For 1st Down
+: 800785D2 0001
+: D005FEED 0010 P4 Press R For 4th Down
+: 800785D2 0004
+: 8107A0F2 03E7 Character Creation Infinite Creation Points
+: 80073CA5 0064 Character Creation Max Agl
+: 80073CA9 0064 Character Creation Max Hnd
+: 80073CA3 0064 Character Creation Max Rcg
+: 80073CA1 0064 Character Creation Max Scr
+: 80073CA7 0064 Character Creation Max Spd
+: 80073C9D 0064 Character Creation Max Tac
+: 80073C9F 0064 Character Creation Max Trg

@@ -1,0 +1,52 @@
+# Big Mountain 2000 (USA)
+
+: F13175B8 2400 Master Code
+: F135D038 2400
+: 50001802 0000 All Boards Complete (Cheat Device 3.0 Or Higher Needed!)
+: 810B3578 0001
+: 8131ADE0 AD87 Always Full Stamina
+: 8131ADE2 0060
+: D132272C 2400 Big jumps - Low gravity - Hold down L button and jump
+: 8132272C E586
+: D012CF21 0020
+: 8132272C 2400
+: 81350C02 0000 Always 1st - Low Time
+: 80350C17 0063
+: 81337988 2400 Don't Lose Stamina
+: 8134F798 1000 Infinite Stamina
+: 81350C02 0000 Infinite Time
+: 81337980 00A5 Lose Stamina Twice As Fast
+: 81337982 2821
+: D13028D4 E5C8 Opponents don't move
+: 813028D4 2400
+: D13073D8 1320 Stop the timer
+: 813073D8 2400
+: 8130746C 2400 Stop Timer (Alternate)
+: D1321830 250F Turn without loss of balance
+: 81321832 0000
+: D1321464 256C
+: 81321466 0000
+: 800B357A 0001 Stage 1 - Boarder Free Ride Complete
+: 800B3582 0001 Stage 1 - Boarder Giant Slalom Complete
+: 800B357E 0001 Stage 1 - Boarder Slalom Complete
+: 800B3578 0001 Stage 1 - Skier Free Ride Complete
+: 800B3580 0001 Stage 1 - Skier Giant Slalom Complete
+: 800B357C 0001 Stage 1 - Skier Slalom Complete
+: 800B3586 0001 Stage 2 - Boarder Free Ride Complete
+: 800B358E 0001 Stage 2 - Boarder Giant Slalom Complete
+: 800B358A 0001 Stage 2 - Boarder Slalom Complete
+: 800B3584 0001 Stage 2 - Skier Free Ride Complete
+: 800B358C 0001 Stage 2 - Skier Giant Slalom Complete
+: 800B3588 0001 Stage 2 - Skier Slalom Complete
+: 800B3592 0001 Stage 3 - Boarder Free Ride Complete
+: 800B359A 0001 Stage 3 - Boarder Giant Slalom Complete
+: 800B3596 0001 Stage 3 - Boarder Slalom Complete
+: 800B3590 0001 Stage 3 - Skier Free Ride Complete
+: 800B3598 0001 Stage 3 - Skier Giant Slalom Complete
+: 800B3594 0001 Stage 3 - Skier Slalom Complete
+: 800B359E 0001 Stage 4 - Boarder Free Ride Complete
+: 800B35A6 0001 Stage 4 - Boarder Giant Slalom Complete
+: 800B35A2 0001 Stage 4 - Boarder Slalom Complete
+: 800B359C 0001 Stage 4 - Skier Free Ride Complete
+: 800B35A4 0001 Stage 4 - Skier Giant Slalom Complete
+: 800B35A0 0001 Stage 4 - Skier Slalom Complete

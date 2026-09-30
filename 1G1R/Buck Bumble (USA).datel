@@ -1,0 +1,38 @@
+# Buck Bumble (USA)
+
+: F1049828 2400 Master Code
+: 810E92E0 0101 Have All Keys
+: 800E92E2 0001
+: 800E92E0 0001 Always Have 1st Key
+: 800E92E1 0001 Always Have 2nd Key
+: 800E92E2 0001 Always Have 3rd Key
+: 810FFF8A 0001 Have All Weapons (Press A+B+R+A A Couple Of Times & You Should Have The Weapons)
+: 810A66AC A05B Infinite Ammo (All Guns)
+: 810A66AE 0027
+: 50000B04 0000 Infinite Ammo (Normal Codes Patched - Cheat Device 3.0+ Only)
+: 810E92E6 03E8
+: 810E92D8 42B0 Infinite Health
+: 810E9652 0005 Infinite Lives
+: 81059540 2400 Don't Take Damage From Enemies
+: 810E964A 270F Max Bonus
+: 810A8F64 2400 Bonus Doesn't Decrease Over Time
+: 810E92F2 03E8 Infinite Ammo Green Phaser
+: 810E930A 03E8 Infinite Ammo Grenades
+: 810E9302 03E8 Infinite Ammo Guided Missiles
+: 810E92F6 03E8 Infinite Ammo Machine Gun
+: 810E930E 03E8 Infinite Ammo Machine Plasma
+: 810E92EA 03E8 Infinite Ammo Photon Phaser
+: 810E92FE 03E8 Infinite Ammo Pistol
+: 810E92EE 03E8 Infinite Ammo Shotgun
+: 810E92FA 03E8 Infinite Ammo Smoke Gun
+: 810E9306 03E8 Infinite Ammo Stretch Laser
+: 810E92E6 03E8 Infinite Ammo Wrist Laser
+: 81063A68 2400 Don't Lose Ammo - Grenades
+: 810621FC 2400 Don't Lose Ammo - Guided Missiles
+: 8105F548 2400 Don't Lose Ammo - Machine Gun
+: 81060A84 2400 Don't Lose Ammo - Machine Plasma
+: 8105EE88 2400 Don't Lose Ammo - Photon Phaser
+: 8105E530 2400 Don't Lose Ammo - Pistol
+: 8105E11C 2400 Don't Lose Ammo - Shotgun
+: 810620DC 2400 Don't Lose Ammo - Smoke Gun
+: 81062BAC 2400 Don't Lose Ammo - Stretch Laser

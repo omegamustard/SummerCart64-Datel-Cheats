@@ -1,0 +1,24 @@
+# NFL Quarterback Club 2000 (USA)
+
+: F10389D4 2400 Master Code
+: 803FDD81 0000 Away Team Scores 0
+: 803FDD81 0064 Away Team Scores 100
+: 880802A4 0001 Cheat Device Button To Be On 1st Down
+: 880802A4 0004 Cheat Device Button To Be On 4th Down
+: 803FC341 0000 Home Team Scores 0
+: 803FC341 0064 Home Team Scores 100
+: 80054ED6 0000 No Time-Outs Away Team
+: 80054956 0000 No Time-Outs Home Team
+: 80054ED6 0003 Infinite Time Outs Away Team
+: 80054956 0003 Infinite Time Outs Home Team
+: 81081448 2800 Infinite Time To Choose Play
+: 8107B36E 03E7 Character Creation Infinite Creation Points
+: 8007526D 0064 Character Creation Max Acc
+: 8007527B 0064 Character Creation Max Cat
+: 80075275 0064 Character Creation Max Clu
+: 8007527D 0064 Character Creation Max End
+: 80075279 0064 Character Creation Max Hnd
+: 80075273 0064 Character Creation Max Rcg
+: 8007526F 0064 Character Creation Max Rng
+: 80075271 0064 Character Creation Max Scr
+: 80075277 0064 Character Creation Max Spd

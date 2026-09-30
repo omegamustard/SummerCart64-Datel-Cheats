@@ -1,0 +1,38 @@
+# Fighters Destiny (USA)
+
+: 80307349 0001 Enable Boro
+: 80307353 0001 Have One Star Abdul & Enable Ushi
+: 8030734F 0001 Have One Star Bob
+: 80307352 0001 Have One Star Leon
+: 80307351 0001 Have One Star Meiling
+: 80307354 0001 Have One Star Ninja
+: 80307350 0001 Have One Star Pierre & Enable Joker
+: 8030734E 0001 Have One Star Ryuji & Enable Master
+: 80307355 0001 Have One Star Tomahawk
+: 80307356 0001 Have One Star Valerie & Enable Robert
+: 811D1904 8FA8 Hit Anywhere P1
+: 811D1906 0040
+: 811D1908 1100
+: 811D190A 0061
+: 811D18A4 8FAC Invincibility P1
+: 811D18A6 0040
+: 811D18A8 1580
+: 8120668C 00FF Never Get Out Of Throws! (P1 & P2)
+: 80209757 0000 P1 Always Have 0 Stars
+: 812098A0 4218 P1 Infinite Life
+: 812098AE 002B
+: 8120C1EC 3EAD
+: D0209757 0000 P1 Start With Extra Stars
+: 80209757 000F
+: 8020B777 00FF Always Win Judge's Decision P1
+: 802098AF 0000
+: 8020B61F 0000 P2 Always Have 0 Stars
+: 8120B768 0000 P2 Infinite Life
+: 8120C1AC BD8F
+: 8120C1EC BD97
+: D020B61F 0000 P2 Start With Extra Stars
+: 8020B61F 000F
+: 8137325E 00F4 P2's Life Begins Less Than Full
+: 813C7A36 00CF
+: 802098AF 00FF Always Win Judge's Decision P2
+: 8020B777 0000
