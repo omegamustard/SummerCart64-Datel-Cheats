@@ -1,0 +1,31 @@
+# Namco Museum 64 (USA)
+
+: F1091F94 1000 Enable Code (Must Be On)
+: 800FE67E 0063 Dig-Dug Infinite Credits
+: 800FE709 0002 Dig-Dug Infinite Lives P1
+: 800FE76B 0004 Dig-Dug Infinite Lives P2
+: 800D76A4 0063 Galaga Infinite Credits
+: 800D7510 0002 Galaga Infinite Lives (Both Players)
+: 800CD3D0 0063 Galaxian Infinite Credits
+: 800CD3AD 0003 Galaxian Infinite Lives
+: 810BC100 0000 Ms. Pac-Man Eat All Ghosts All The Time
+: 810BC102 0000
+: 810BC12C 0000
+: 810BC12E 0000
+: 810BC158 0000
+: 810BC15A 0000
+: 810BC184 0000
+: 810BC186 0000
+: 800BBE4B 0063 Ms. Pac-Man Infinite Credits
+: 800BBE23 0004 Ms. Pac-Man Infinite Lives P1
+: 800BBE27 0004 Ms. Pac-Man Infinite Lives P2
+: 810A8760 0000 Pac-Man Eat All Ghosts All The Time
+: 810A8762 0000
+: 810A878C 0000
+: 810A878E 0000
+: 810A87B8 0000
+: 810A87BA 0000
+: 810A87E4 0000
+: 810A87E6 0000
+: 800A8817 0063 Pac-Man Infinite Credits
+: 8010A243 0063 Pole Position Infinite Time

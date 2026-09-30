@@ -1,0 +1,21 @@
+# Magical Tetris Challenge (USA)
+
+: 811D267E DB20 Always Get 'Magical' Pieces
+: 811D267E CC0C Always Get 'Normal' Pieces
+: 811D7A3A 0000 Show Your Statistics (Endless Tetris 2P-Box)
+: D10B49D0 0028 Test Menu - While at the main menu, press L + D-Pad Up for the test menu. To exit, press L + D-Pad Down.
+: 8007F121 0004
+: D10B49D0 0028
+: 8107F122 D534
+: D10B49D0 0028
+: 8104D920 0801
+: D10B49D0 0028
+: 8104D922 3563
+: D10B49D0 0024
+: 8007F121 0000
+: D10B49D0 0024
+: 8107F122 C758
+: D10B49D0 0024
+: 8104D920 0000
+: D10B49D0 0024
+: 8104D922 0000

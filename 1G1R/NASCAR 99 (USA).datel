@@ -1,0 +1,18 @@
+# NASCAR 99 (USA)
+
+: 800438B3 0009 1 Lap To Race
+: D021FBAB 0000
+: 8021FBAB 0008
+: D022359B 0000
+: 8022359B 0008
+: 810C9E90 7F1E Max Gear Ratios
+: 810C9E82 707F
+: 810E578C 2400 Stop Lap Timer
+: 50000601 0000 Unlock All Drivers
+: 800D89B2 0001
+: 800D89B6 0001 Unlock Alan Kulwicki
+: 800D89B7 0001 Unlock Benny Parsons
+: 800D89B4 0001 Unlock Bobby Allison
+: 800D89B5 0001 Unlock Cale Yarborough
+: 800D89B3 0001 Unlock Davey Allison
+: 800D89B2 0001 Unlock Richard Petty

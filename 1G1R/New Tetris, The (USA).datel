@@ -1,0 +1,12 @@
+# New Tetris, The (USA)
+
+: F10A32E4 2400 Master Code
+: F10A32C8 2400
+: F10A32D4 2400
+: F10A32F0 2400
+: 81069DC8 2400 Drop Piece to Clear Line - Effects cannot be turned off. Use at own risk.
+: D01101B3 0024 L + C-Down For Cheat Screen - Must reset game to close Screen.
+: 8103BFE0 0000
+: D01101B3 0024
+: 8103BFE2 0000
+: 810CFF60 38D1 Turbo Mode (Single Player Mode)

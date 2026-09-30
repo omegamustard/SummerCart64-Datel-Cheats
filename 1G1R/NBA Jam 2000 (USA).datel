@@ -1,0 +1,20 @@
+# NBA Jam 2000 (USA)
+
+: F100888C 2400 Master Code
+: F1302E44 2400
+: F1008364 2400
+: F1302924 2400
+: F1008370 2400
+: F1302930 2400
+: 811378DE 0016 Infinite Shot Clock
+: 8113783A 005D Infinite Violation Clock
+: 8115B512 FF00 Infinite Turbo Team 1 - P1
+: 8115B516 FF00 Infinite Turbo Team 1 - P2
+: 8115B50A FF00 Infinite Turbo Team 2 - P1
+: 8115B50E FF00 Infinite Turbo Team 2 - P2
+: 8115B512 0000 No Turbo Team 1 - P1
+: 8115B516 0000 No Turbo Team 1 - P2
+: 8115B50A 0000 No Turbo Team 2 - P1
+: 8115B50E 0000 No Turbo Team 2 - P2
+: 81137116 0000 Score 0 Team 1
+: 81137112 0000 Score 0 Team 2

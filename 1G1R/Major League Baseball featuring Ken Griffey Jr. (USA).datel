@@ -1,0 +1,31 @@
+# Major League Baseball featuring Ken Griffey Jr. (USA)
+
+: DE025C00 0000 Enable (Must Be On)
+: F1025F30 2400
+: F1025F34 2400
+: DE025C00 0000 Master Code
+: EE000000 0000
+: F1025F30 2400
+: F1025F34 2400
+: 802424A7 0000 Infinite Balls
+: 802424A1 0000 Infinite Outs
+: 802424A8 0000 Infinite Strikes
+: 80342963 0001 Pitches Screen Always Displayed
+: D02424A7 0000 1 Ball And You Walk
+: 802424A7 0003
+: D02424A1 0000 1 Out And You Are Out
+: 802424A1 0002
+: D02424A8 0000 1 Strike And You Are Out
+: 802424A8 0002
+: D02424A7 0000 2 Balls And You Walk
+: 802424A7 0002
+: D02424A1 0000 2 Outs And You Are Out
+: 802424A1 0001
+: D02424A8 0000 2 Strikes And You Are Out
+: 802424A8 0001
+: D02424A7 0000 3 Balls And You Walk
+: 802424A7 0001
+: 810DC34A 183F Home Run Derby Have Secret Teams
+: 801DFB85 0000 Home Run Derby Infinite Outs
+: 810DC468 8000 Home Run Derby Press Z To See Ending (Stadium Select Screen)
+: 801DFB85 000A Home Run Derby Quick Out

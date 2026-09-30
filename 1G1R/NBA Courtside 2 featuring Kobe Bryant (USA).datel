@@ -1,0 +1,64 @@
+# NBA Courtside 2 featuring Kobe Bryant (USA)
+
+: 813F1926 0000 Away Team Score 0
+: 803FD7C6 0007 Away Team Infinite Time-Outs
+: 803FE3F6 0007 Away Team Infinite Time-Outs (Alternate)
+: 8111531E 00FF Away Team Infinite Turbo
+: 811159C2 00FF
+: 81116066 00FF
+: 8111670A 00FF
+: 81116DAE 00FF
+: 803FD7C6 0000 Away Team No Time-Outs
+: 803FE3F6 0000 Away Team No Time-Outs (Alternate)
+: 8111531E 0000 Away Team No Turbo
+: 811159C2 0000
+: 81116066 0000
+: 8111670A 0000
+: 81116DAE 0000
+: 813F4CA6 0000 Home Team Score 0
+: 81117452 00FF Home Team Infinite Turbo
+: 81117AF6 00FF
+: 8111819A 00FF
+: 8111883E 00FF
+: 81118EE2 00FF
+: 81117452 0000 Home Team No Turbo
+: 81117AF6 0000
+: 8111819A 0000
+: 8111883E 0000
+: 81118EE2 0000
+: D2129D45 0010 Never Miss A Shot - Hold R after releasing shot.
+: 8103EF5C 1040
+: D2129D45 0010
+: 8103EF78 1202
+: D2129D45 0010
+: 8103EF80 1602
+: D0129D45 0010
+: 8103EF5C 1000
+: D0129D45 0010
+: 8103EF78 2400
+: D0129D45 0010
+: 8103EF80 2400
+: 8012AA07 00FF Infinite Shot Clock
+: 81113176 02D0 No Shot Clock
+: 800B4857 0001 Activate "Big Heads" Cheat (All Players) 
+: 800B485F 0001 Activate "Big Heads" Cheat (Opponent-Only) 
+: 800CE843 0001 Activate Disco Court Cheat 
+: 800B485B 0001 Activate Small Players Cheat 
+: 800CE82B 0001 Activate Alien Heads For Left Field Production Team
+: 81143222 0100 Unlock Hidden Teams
+: 50000E01 0000 Character Creation Max All Attributes (Cheat Device 3.0 Or Higher Needed!)
+: 801300D0 0064
+: 801300D2 0064 Character Creation Max 3-Pointers
+: 801300DC 0064 Character Creation Max Blocking
+: 801300D4 0064 Character Creation Max Dribbling
+: 801300DA 0064 Character Creation Max Dunking
+: 801300D3 0064 Character Creation Max Free-Throws
+: 801300D7 0064 Character Creation Max Jumping
+: 801300D5 0064 Character Creation Max Passing
+: 801300D8 0064 Character Creation Max Rebounding
+: 801300D1 0064 Character Creation Max Shooting
+: 801300D0 0064 Character Creation Max Shot Range
+: 801300D6 0064 Character Creation Max Speed
+: 801300DD 0064 Character Creation Max Stamina
+: 801300DB 0064 Character Creation Max Stealing
+: 801300D9 0064 Character Creation Max Strength

@@ -1,0 +1,13 @@
+# Iggy's Reckin' Balls (USA)
+
+: EE000000 0000 Master Code
+: 810CCDF2 0B00 Enable All Courses
+: 810CCDF4 0B00
+: 810CCDF6 0B00
+: 810C632E FFFF Extra Characters
+: 800BDEA5 0005 Infinite Credits
+: 800BDEA5 0000 No Credits
+: 800C8809 0001 Only 1 Lap to Race
+: 810233D8 2400 Opponents don't move
+: 810BE642 0001 Race alone
+: 800C632D 00FF Unlock Lizzy

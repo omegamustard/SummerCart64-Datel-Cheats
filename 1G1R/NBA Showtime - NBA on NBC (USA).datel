@@ -1,0 +1,41 @@
+# NBA Showtime - NBA on NBC (USA)
+
+: 8119D2B4 0006 P1 Infinite Turbo
+: 8119D2B6 4000
+: 8119D308 0006 P2 Infinite Turbo
+: 8119D30A 4000
+: 8119D35C 0006 P3 Infinite Turbo
+: 8119D35E 4000
+: 8119D3B0 0006 P4 Infinite Turbo
+: 8119D3B2 4000
+: 8111452E 0001 P1 Big Head
+: 8111452E 0002 P2 Big Head
+: 8111452E 0004 P3 Big Head
+: 8111452E 0008 P4 Big Head
+: 8111452E 000F All Players Big Head
+: 8111450E 0001 P1 Show Hot Spots
+: 8111450E 0002 P2 Show Hot Spots
+: 8111450E 0004 P3 Show Hot Spots
+: 8111450E 0008 P4 Show Hot Spots
+: 8111450E 000F All Players Show Hot Spots
+: 811A1E86 0000 Team 1 Score 0
+: 811A1EA2 0000 Team 2 Score 0
+: 811144FA 0001 Little Players Mode With Big Heads
+: 811144DA 0001 No Fouls In 2-Player Game
+: 811144EE 0001 No Goal Tending
+: 811144F2 0001 No Player Arrows
+: 81114532 0001 Play With ABA Ball
+: 80165C52 000A Character Creation Infinite Creation Points
+: 50000A01 0000 Character Creation Max Stats (Cheat Device 3.0 or Higher Needed!)
+: 80165C41 0014
+: 80165C53 0002 Character Creation Chose All Privileges
+: 80165C45 0014 Character Creation Max 2 Ptrs
+: 80165C46 0014 Character Creation Max 3 Ptrs
+: 80165C48 0014 Character Creation Max Block
+: 80165C4A 0014 Character Creation Max Dribble
+: 80165C49 0014 Character Creation Max Dunks
+: 80165C41 0014 Character Creation Max Height
+: 80165C43 0014 Character Creation Max Power
+: 80165C44 0014 Character Creation Max Speed
+: 80165C47 0014 Character Creation Max Steal
+: 80165C42 0014 Character Creation Max Weight

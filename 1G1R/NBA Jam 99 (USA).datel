@@ -1,0 +1,27 @@
+# NBA Jam 99 (USA)
+
+: 800D5C9B 0007 Infinite Time Outs Away
+: 800D5C75 0007 Infinite Time Outs Home
+: 800D5C9B 0000 No Time Outs Away
+: 800D5C7F 0000 No Time Outs Home
+: 8117E008 03E8 Infinite Bonus Points
+: D0061269 0010 Infinite Creation Points - Press L for Points. Press R to Save.
+: 8117E008 03E8
+: D0061269 0020
+: 8117E008 0000
+: D1100D0A AEA2 Dunk From Anywhere
+: 81100D10 2400
+: D1100D0A AEA2
+: 8113BB64 2400
+: D2061269 0010 Never Miss A Shot - Hold R after releasing your shot.
+: 800F4C24 17C0
+: D2061269 0010
+: 810F4C40 1040
+: D2061269 0010
+: 810F49D0 1040
+: D0061269 0010
+: 810F4C24 2400
+: D0061269 0010
+: 810F4C40 2400
+: D2061269 0010
+: 810F49D0 2400

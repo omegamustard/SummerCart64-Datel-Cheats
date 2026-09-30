@@ -1,0 +1,85 @@
+# NFL Blitz (USA)
+
+: 8008886B 0009 Infinite Time To Choose Player
+: 812ADD6C 42C8 Infinite Turbo P1
+: 812ADD98 42C8 Infinite Turbo P2
+: 812AE044 0000 P1 Character Raiden
+: 812AE046 0009
+: 812AE044 0000 P1 Character Shinnok 
+: 812AE046 000B
+: 812AE044 0000 P1 Character Skull 
+: 812AE046 000C
+: 812AE044 0000 P1 Character Grinch 
+: 812AE046 001F
+: 882ADF93 0001 Press Cheat Device Button For 1st Down
+: 80299757 00FF Press Cheat Device Button To Get A Big Head
+: D12C48F8 2610 Stop Timer
+: 812C48F8 2400
+: D12C4A34 AC30 Stop Timer (Alternate)
+: 812C4A34 2400
+: 802997F7 0001 Activate In-Game Cheat Allow Stepping Out Of Bounds P1
+: 802997F7 0003 Activate In-Game Cheat Allow Stepping Out Of Bounds P1 & P2
+: 802997F7 0002 Activate In-Game Cheat Allow Stepping Out Of Bounds P2
+: 80299767 0001 Activate In-Game Cheat Big Football
+: 8029975B 0001 Activate In-Game Cheat Big Head P1
+: 80299757 0001 Activate In-Game Cheat Big Head P1 (Alternate)
+: 8029975B 0003 Activate In-Game Cheat Big Head P1 & P2
+: 80299757 0003 Activate In-Game Cheat Big Head P1 & P2 (Alternate)
+: 8029975B 0002 Activate In-Game Cheat Big Head P2
+: 80299757 0002 Activate In-Game Cheat Big Head P2 (Alternate)
+: 802997E3 0001 Activate In-Game Cheat Fast Passes P1
+: 802997E3 0003 Activate In-Game Cheat Fast Passes P1 & P2
+: 802997E3 0002 Activate In-Game Cheat Fast Passes P2
+: 802997E7 0001 Activate In-Game Cheat Fast Turbo Running P1
+: 802997E7 0003 Activate In-Game Cheat Fast Turbo Running P1 & P2
+: 802997E7 0002 Activate In-Game Cheat Fast Turbo Running P2
+: 8029977F 0001 Activate In-Game Cheat Fog On
+: 8029977B 0001 Activate In-Game Cheat Headless Team P1
+: 8029977B 0003 Activate In-Game Cheat Headless Team P1 & P2
+: 8029977B 0002 Activate In-Game Cheat Headless Team P2
+: 8029976B 0001 Activate In-Game Cheat Hide Receiver Name
+: 802997CB 0001 Activate In-Game Cheat Huge Head P1
+: 802997CB 0003 Activate In-Game Cheat Huge Head P1 & P2
+: 802997CB 0002 Activate In-Game Cheat Huge Head P2
+: 802997BB 0003 Activate In-Game Cheat Infinite Turbo P1 & P2
+: 802997D7 0001 Activate In-Game Cheat Invisible P1
+: 802997CF 0001 Activate In-Game Cheat Late Hits P1
+: 802997CF 0003 Activate In-Game Cheat Late Hits P1 & P2
+: 802997CF 0002 Activate In-Game Cheat Late Hits P2
+: 802997A7 0001 Activate In-Game Cheat Lights Out
+: 80299777 0001 Activate In-Game Cheat Night Game
+: 802997C7 0001 Activate In-Game Cheat No First Downs
+: 80299803 0001 Activate In-Game Cheat No Head P1
+: 80299803 0003 Activate In-Game Cheat No Head P1 & P2
+: 80299803 0002 Activate In-Game Cheat No Head P2
+: 802997C3 0001 Activate In-Game Cheat No Interceptions
+: 802997BF 0001 Activate In-Game Cheat No Punting
+: 80299787 0001 Activate In-Game Cheat No Random Fumbles
+: 802997EF 0001 Activate In-Game Cheat Power Blockers
+: 802997AF 0001 Activate In-Game Cheat Power Defense
+: 802997B3 0001 Activate In-Game Cheat Powered-up Teammates
+: 802997AB 0001 Activate In-Game Cheat Powerup Offense
+: 802997DF 0001 Activate In-Game Cheat Random Play Choice P1
+: 802997DF 0003 Activate In-Game Cheat Random Play Choice P1 & P2
+: 802997DF 0002 Activate In-Game Cheat Random Play Choice P2
+: 8029978F 0001 Activate In-Game Cheat Show Field Goal %
+: 80299753 0003 Activate In-Game Cheat Show More Field
+: 8029978B 0001 Activate In-Game Cheat Smart CPU Opponent P1
+: 8029978B 0002 Activate In-Game Cheat Smart CPU Opponent P2
+: 802997EB 0001 Activate In-Game Cheat Speed Up
+: 80299766 00FF Activate In-Game Cheat Super Big Football
+: 802997B7 0001 Activate In-Game Cheat Super Blitzing
+: 802997FB 0001 Activate In-Game Cheat Super Field Goals
+: 8029975F 0001 Activate In-Game Cheat Team Big Players P1
+: 8029975F 0003 Activate In-Game Cheat Team Big Players P1 & P2
+: 8029975F 0002 Activate In-Game Cheat Team Big Players P2
+: 80299797 0001 Activate In-Game Cheat Thick Fog
+: 802A5163 0009 Activate In-Game Cheat Time to Choose Play Counts Down Faster
+: 80299763 0001 Activate In-Game Cheat Tiny Team P1
+: 80299763 0003 Activate In-Game Cheat Tiny Team P1 & P2
+: 80299763 0002 Activate In-Game Cheat Tiny Team P2
+: 80299793 0003 Activate In-Game Cheat Tournament Mode
+: 802997DB 0001 Activate In-Game Cheat Turn Off Stadium
+: 802997FF 0001 Activate In-Game Cheat Weather: Clear
+: 8029976F 0001 Activate In-Game Cheat Weather: Rain
+: 802997A3 0001 Activate In-Game Cheat Weather: Snow

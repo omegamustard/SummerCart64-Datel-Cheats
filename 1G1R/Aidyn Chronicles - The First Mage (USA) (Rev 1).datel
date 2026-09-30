@@ -1,0 +1,14 @@
+# Aidyn Chronicles - The First Mage (USA) (Rev 1)
+
+: FF500000 0000 High Resolution Enable Code (Must Be On)
+: F10B848C 2400 Master Code
+: F10B7F6C 2400
+: F10B7F78 2400
+: 50000401 0000 Max Gold
+: 80277335 00FF
+: 50000401 0000 Max Total XP
+: 80278BAD 00FF
+: 802785CB 0063 Infinite 99 Health Potions - Must collect 1st Health Potion before using cheat
+: 80278B98 001E Infinite Max Health
+: 50000401 0000 Max Total XP to Start - Finish first battle to Max Stats
+: 80278BB1 00FF
