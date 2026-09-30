@@ -9,16 +9,20 @@
 : 8002CE44 0030 Bulletproof Bond
 : 80030B20 0030
 : 80036FCB 0001 Debug Mode
+: 800364CB 0000 Walk through doors, objects
 : 800364B4 0001 Invincible [All Stages] - You can't pick up weapons or items, and there's no SFX for reloading or changing your gun.
+: 80079E3B 0001 Infinite Ammo (All Levels)
 : 800364C7 0000 Invisible To CPU
 : 80036FAB 0001 Line Mode
 : 80036F7F 0000 No Objects In Level
 : 80357841 0001 Disarm Enemy Code
 : 80036FB3 0001 Enable All Agent Levels
 : 80036FB7 0001 Enable All Levels
+: 8002B197 0040 Have All 64 Characters In Multi Player
 : 80357000 0011 Enemies Act Like Civilians - Be careful on the Cradle! The only one unarmed is Trevelyan.
 : 8002CE40 0030 Enemy Cannot Aim
 : 80030B1C 0030
+: 8002CE48 0048 Weak Enemies
 : 80030B28 0042 Extra Ammo
 : 80036FCF 0001 Fast Bond
 : D0064F31 0010 Fast Pause Game
@@ -27,7 +31,6 @@
 : 8008C71B 0000
 : 8002A8FB 001A Gain Access To Aztec Level Without Beating Secret Agent Or 00 Agent
 : 8002A8FB 001C Gain Access To Egyptian Level Without Beating Secret Agent Or 00 Agent
-: 80079E3B 0001 Infinite Ammo (All Levels)
 : 800696C3 0002 Get Cheat Permanently - Paintball Mode
 : 800696C4 0002 Get Cheat Permanently - Invincible
 : 800696C5 0002 Get Cheat Permanently - DK Mode
@@ -48,6 +51,14 @@
 : 800696D4 0002 Get Cheat Permanently - Gold PP7
 : 800696D5 0002 Get Cheat Permanently - 2X Lasers
 : 800696D6 0002 Get Cheat Permanently - All Guns
+: 50002902 0000 Everything Unlocked Save File 1
+: 810699EE FFFF
+: 50002902 0000 Everything Unlocked Save File 2
+: 8106992E FFFF
+: 50002902 0000 Everything Unlocked Save File 3
+: 81069A4E FFFF
+: 50002902 0000 Everything Unlocked Save File 4
+: 8106998E FFFF
 : 8100C0F4 0801 Infinite Armor P1
 : 8100C0F6 8090
 : 8100C0F8 AFA4
