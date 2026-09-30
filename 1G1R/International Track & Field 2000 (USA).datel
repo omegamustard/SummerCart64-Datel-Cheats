@@ -1,10 +1,10 @@
 # International Track & Field 2000 (USA)
 
+: F102AA40 2400 Master Code
 : 801E0677 00FF 100m Dash Full Power Bar 
 : 801E0676 0001
 : 81104FA6 0602 Always Take First Place, and All Others Score Zero Points.
 : 801E08A1 00FF Hammer Throw Full Power Bar
-: F102AA40 2400 Master Code
 : 810E3254 1027 Max Total Points
 : 801E0CE9 009F Trap Shooting High Score - Trial Mode Only
 : 801E0CE8 0001
