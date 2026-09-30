@@ -45,29 +45,29 @@
 : 81103350 4170 Infinite Character Creation Points
 : 811039BC 4170 Infinite Pitch Type Creation Points
 : 811039C0 4170
-: 50000E04 0000 Max All (Cheat Device 3.0+)
+: 50000E04 0000 Character Creation Max All (Cheat Device 3.0+)
 : 81115A20 4170
-: 81115A20 4170 Max Accuracy
-: 81115A4C 4170 Max Arm Str.
-: 81115A38 4170 Max Bunting
-: 81115A54 4170 Max Clutch
-: 81115A28 4170 Max Contact
-: 81115A48 4170 Max Defense
-: 81115A2C 4170 Max Power
-: 81115A44 4170 Max Speed
-: 81115A24 4170 Max Stamina
-: 81115A50 4170 Max Streak
-: 81115A3C 4170 Max VS LHB
-: 81115A30 4170 Max VS LHP
-: 81115A40 4170 Max VS RHB
-: 81115A34 4170 Max VS RHP
-: 50000804 0000 Max Pitch 1-8 (Cheat Device 3.0+)
+: 81115A20 4170 Character Creation Max Accuracy
+: 81115A4C 4170 Character Creation Max Arm Str.
+: 81115A38 4170 Character Creation Max Bunting
+: 81115A54 4170 Character Creation Max Clutch
+: 81115A28 4170 Character Creation Max Contact
+: 81115A48 4170 Character Creation Max Defense
+: 81115A2C 4170 Character Creation Max Power
+: 81115A44 4170 Character Creation Max Speed
+: 81115A24 4170 Character Creation Max Stamina
+: 81115A50 4170 Character Creation Max Streak
+: 81115A3C 4170 Character Creation Max VS LHB
+: 81115A30 4170 Character Creation Max VS LHP
+: 81115A40 4170 Character Creation Max VS RHB
+: 81115A34 4170 Character Creation Max VS RHP
+: 50000804 0000 Pitch Type Creation Max Pitch 1-8 (Cheat Device 3.0+)
 : 811038D0 4170
-: 811038D0 4170 Max Pitch 1
-: 811038D4 4170 Max Pitch 2
-: 811038D8 4170 Max Pitch 3
-: 811038DC 4170 Max Pitch 4
-: 811038E0 4170 Max Pitch 5
-: 811038E4 4170 Max Pitch 6
-: 811038E8 4170 Max Pitch 7
-: 811038EC 4170 Max Pitch 8
+: 811038D0 4170 Pitch Type Creation Max Pitch 1
+: 811038D4 4170 Pitch Type Creation Max Pitch 2
+: 811038D8 4170 Pitch Type Creation Max Pitch 3
+: 811038DC 4170 Pitch Type Creation Max Pitch 4
+: 811038E0 4170 Pitch Type Creation Max Pitch 5
+: 811038E4 4170 Pitch Type Creation Max Pitch 6
+: 811038E8 4170 Pitch Type Creation Max Pitch 7
+: 811038EC 4170 Pitch Type Creation Max Pitch 8
