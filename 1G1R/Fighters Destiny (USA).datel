@@ -10,6 +10,8 @@
 : 8030734E 0001 Have One Star Ryuji & Enable Master
 : 80307355 0001 Have One Star Tomahawk
 : 80307356 0001 Have One Star Valerie & Enable Robert
+: 802EF67B 0063 Start on stage 100 on Survival to get Joker
+: 810ADBDC 3F80 Stop timer for Fastest to get Robot
 : 811D1904 8FA8 Hit Anywhere P1
 : 811D1906 0040
 : 811D1908 1100
