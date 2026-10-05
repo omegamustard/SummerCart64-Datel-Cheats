@@ -1,0 +1,49 @@
+# Kirby 64 - The Crystal Shards (USA)
+
+: DE000400 0000 Enable Code (Must Be On)
+: 810BE4F2 0007 Always Skips Playing Demo
+: 8112E7DE 00F0 Can Fly Forever
+: 810D6E50 40C0 Infinite Health
+: 800D6F4F 0009 Infinite Lives
+: 800D6E8B 0003 Infinite Lives (Alternate)
+: 8110FE50 0000 Inhale From Anywhere : Hold R.
+: 81110184 8C63
+: D0048E81 0010
+: 8110FE50 3402
+: D0048E81 0010
+: 81110184 3000
+: 800E7CE3 0005 Invincible
+: D0098AB5 0030 Max Stars (Press L & R)
+: 810D6E60 0000
+: D0098AB5 0030
+: 810D6E62 001D
+: 800ECA18 0064 100% Complete Game Save Slot 1
+: 800ECA70 0064 100% Complete Game Save Slot 2
+: 800ECAC8 0064 100% Complete Game Save Slot 3
+: 8118E46A 0000 100 Yard Hop Mini Game Time Is 0 P1
+: 8118E46E 0000 100 Yard Hop Mini Game Time Is 0 P2
+: 8118E472 0000 100 Yard Hop Mini Game Time Is 0 P3
+: 8118E476 0000 100 Yard Hop Mini Game Time Is 0 P4
+: 8018E1E0 0063 Bumper Crop Bump Mini Game P1 Have Lots Of Fruit
+: 8018E1E0 0000 Bumper Crop Bump Mini Game P1 Have No Fruit
+: 8018E1E1 0063 Bumper Crop Bump Mini Game P2 Have Lots Of Fruit
+: 8018E1E1 0000 Bumper Crop Bump Mini Game P2 Have No Fruit
+: 8018E1E2 0063 Bumper Crop Bump Mini Game P3 Have Lots Of Fruit
+: 8018E1E2 0000 Bumper Crop Bump Mini Game P3 Have No Fruit
+: 8018E1E3 0063 Bumper Crop Bump Mini Game P4 Have Lots Of Fruit
+: 8018E1E3 0000 Bumper Crop Bump Mini Game P4 Have No Fruit
+: 50005101 0000 Checker Board Chase Mini Game All Enemy Info (Cheat Device 3.0 Or Higher Needed!)
+: 800D6C10 0002
+: 800D6BA1 000F Checker Board Chase Mini Game All Movies
+: 810D6BA2 FFFF
+: 50002B01 0000 Checker Board Chase Mini Game All Stages Finished (Cheat Device 3.0 Or Higher Needed!)
+: 800D6BE0 0002
+: 8018E28B 0000 Checker Board Chase Mini Game P1 1 Fall To Lose
+: 8018E28B 0005 Checker Board Chase Mini Game P1 Infinite Falls
+: 8018E28F 0000 Checker Board Chase Mini Game P2 1 Fall To lose
+: 8018E28F 0005 Checker Board Chase Mini Game P2 Infinite Falls
+: 8018E293 0000 Checker Board Chase Mini Game P3 1 Fall To Lose
+: 8018E293 0005 Checker Board Chase Mini Game P3 Infinite Falls
+: 8018E297 0000 Checker Board Chase Mini Game P4 1 Fall To Lose
+: 8018E297 0005 Checker Board Chase Mini Game P4 Infinite Falls
+: 8118E266 0000 Checker Board Chase Mini Game Time Is 0 / Everyone Gets 1st

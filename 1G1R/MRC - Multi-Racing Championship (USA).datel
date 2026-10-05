@@ -1,0 +1,11 @@
+# MRC - Multi-Racing Championship (USA)
+
+: 800A960F 0000 Always Place 1st
+: 810A958C 0001 Have Down Town Complete
+: 810A958A 0001 Have Mountain Complete
+: 810A9588 0001 Have Sea Side Complete
+: 8009483B 00FF High Course Time
+: D0094E97 000A Infinite Time
+: 80094E97 0064
+: 8009483B 0000 Low Course Time
+: 8106A3E0 2400 Stop Timer

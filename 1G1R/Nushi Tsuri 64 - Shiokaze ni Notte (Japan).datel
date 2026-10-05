@@ -1,0 +1,5 @@
+# Nushi Tsuri 64 - Shiokaze ni Notte (Japan)
+
+: F10426E0 3000 Enable Code (only necessary on real hardware)
+: F10426E0 2400 Master Code
+: 8135D7A6 FFFF Infinite money (always have $65,535)

@@ -1,0 +1,39 @@
+# Knockout Kings 2000 (USA)
+
+: EE000000 0000 Master Code
+: 8106B9A6 012C Always Have Super Punch P1
+: 8106B9AE 012C Always Have Super Punch P2
+: 810B5690 1000 Can't Hit Anyone
+: 810ED81E 0001 Debug Display On
+: 8006755F 000A Easy K.O.
+: 810B4EF4 2400 Hit Anywhere
+: 8106B974 42C8 Infinite Health P1
+: 8106B976 0000
+: 8106BA7C 42C8 Infinite Health P2
+: 8106BA7E 0000
+: 81068BF4 7FFF Career Mode Max Points
+: 81068BF6 FFFF
+: 8106B980 0000 Max Power P1
+: 8106B982 0BB2
+: 8106BA88 0000 Max Power P2
+: 8106BA8A 0BB2
+: 8006B983 0064 Power Punch After 1st Punch P1
+: 8006BA8B 0064 Power Punch After 1st Punch P2
+: 810DB548 2400 Neither Player's Super Punch Meter Builds Up
+: 810DC464 2400 No Health Loss From Doing Special Combos
+: 8106B974 0000 No Health P1
+: 8106B976 0000
+: 8106BA7C 0000 No Health P2
+: 8106BA7E 0000
+: 8106B980 0000 No Power P1
+: 8106B982 0000
+: 8106BA88 0000 No Power P2
+: 8106BA8A 0000
+: 81067546 001C Stop Timer
+: 810C2FAC 2400 Timer Doesn't Run
+: 800F401D 0001 Big Glove Mode
+: 800F401C 0001 Big Head Mode
+: 81063742 0064 Create A Boxer Infinite Creation Points
+: 81063746 0064 Create A Boxer Max Power
+: 8106374A 0064 Create A Boxer Max Speed
+: 8106374E 0064 Create A Boxer Max Stamina

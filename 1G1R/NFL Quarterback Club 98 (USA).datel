@@ -1,0 +1,26 @@
+# NFL Quarterback Club 98 (USA)
+
+: 80301E21 0000 Away Team Scores 0
+: 80301E21 0064 Away Team Scores 100
+: 80301F01 0000 Home Team Scores 0
+: 80301F01 0064 Home Team Scores 100
+: 80056F8E 0003 Infinite Time Outs Away Team
+: 80056B96 0003 Infinite Time Outs Home Team
+: 800A6739 00FF Infinite Time To Choose Play
+: 80056F8E 0000 No Time-Outs Away Team
+: 80056B96 0000 No Time-Outs Home Team
+: 880A5376 0001 Press Cheat Device Button to be on 1st Down
+: 880A5376 0002 Press Cheat Device Button To Be On 2nd Down
+: 880A5376 0003 Press Cheat Device Button To Be On 3rd Down
+: 880A5376 0004 Press Cheat Device Button to be on 4th Down
+: D00A6739 0026 Very Little Time To Choose Plays
+: 800A6739 0002
+: 800AECD3 0090 Infinite Character Creation Points
+: 800B0B9B 0064 Character Creation Max Agility
+: 800B0B9D 0064 Character Creation Max Aware
+: 800B0B9F 0064 Character Creation Max Discipline
+: 800B0BA1 0064 Character Creation Max Endurance
+: 800B0BA3 0064 Character Creation Max Pass Acc
+: 800B0BA5 0064 Character Creation Max Pass Rng
+: 800B0B97 0064 Character Creation Max Speed
+: 800B0B99 0064 Character Creation Max Strength

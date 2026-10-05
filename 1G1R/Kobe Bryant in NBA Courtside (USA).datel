@@ -1,0 +1,55 @@
+# Kobe Bryant in NBA Courtside (USA)
+
+: DE000400 0000 Enable Code (Must Be On) (Cheat Device 1.08 Or Higher Needed!)
+: DE000400 0000 Enable Code (Must Be On) (Cheat Device 3.20 Or Higher Needed!)
+: EE000000 0000
+: 81036C32 00FE Never Miss A Shot : Hold R
+: 81036C36 0005
+: D00B6E81 0001
+: 81036C32 0000
+: D00B6E81 0001
+: 81036C36 000A
+: 800B4857 0001 Activate "Big Heads" Cheat (All Players)
+: 800B485F 0001 Activate "Big Heads" Cheat (Opponent-Only)
+: 800CE82B 0001 Activate Alien Heads
+: 800CE843 0001 Activate Disco Court Cheat
+: 800B485B 0001 Activate Small Players Cheat
+: 800B4853 0001 Alien Team (Variation)
+: 8012AA07 00FF Infinite Shot Clock
+: 81143222 0100 Unlock Hidden Teams
+: 813F1926 0000 Away Team Score 0
+: 803F1924 0009 Away Team Infinite Time Outs
+: 8112265E 0100 Away Team Infinite Turbo 1st Character
+: 8112283A 0100 Away Team Infinite Turbo 2nd Character
+: 81122A16 0100 Away Team Infinite Turbo 3rd Character
+: 81122BF2 0100 Away Team Infinite Turbo 4th Character
+: 81122DCE 0100 Away Team Infinite Turbo 5th Character
+: 8112265E 0100 Infinite Turbo Away Team
+: 8112283A 0100
+: 81122A16 0100
+: 81122BF2 0100
+: 81122DCE 0100
+: 803F1924 0000 Away Team No Time Outs
+: 8112265E 0000 Away Team No Turbo 1st Character
+: 8112283A 0000 Away Team No Turbo 2nd Character
+: 81122A16 0000 Away Team No Turbo 3rd Character
+: 81122BF2 0000 Away Team No Turbo 4th Character
+: 81122DCE 0000 Away Team No Turbo 5th Character
+: 813F4CA6 0000 Home Team Score 0
+: 803F4CA4 0009 Home Team Infinite Time Outs
+: 81121D12 0100 Home Team Infinite Turbo 1st Character
+: 81121EEE 0100 Home Team Infinite Turbo 2nd Character
+: 811220CA 0100 Home Team Infinite Turbo 3rd Character
+: 811222A6 0100 Home Team Infinite Turbo 4th Character
+: 81122482 0100 Home Team Infinite Turbo 5th Character
+: 81121D12 0100 Infinite Turbo Home Team
+: 81121EEE 0100
+: 811220CA 0100
+: 811222A6 0100
+: 81122482 0100
+: 803F4CA4 0000 Home Team No Time Outs
+: 81121D12 0000 Home Team No Turbo 1st Character
+: 81121EEE 0000 Home Team No Turbo 2nd Character
+: 811220CA 0000 Home Team No Turbo 3rd Character
+: 811222A6 0000 Home Team No Turbo 4th Character
+: 81122482 0000 Home Team No Turbo 5th Character

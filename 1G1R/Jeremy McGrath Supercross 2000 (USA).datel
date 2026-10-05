@@ -1,0 +1,14 @@
+# Jeremy McGrath Supercross 2000 (USA)
+
+: F1015884 2400 Master Code
+: F1189BF4 2400
+: 8162EB04 AC40 Always finish in first place - Requires Expansion Pak
+: 8106F66E 0000 Always Place First
+: 816A6D70 3000 Can select any of the locked areas in Freestyle mode - Requires Expansion Pak
+: 8168DFBE 0001 Can select as low as 1 lap (for the series) in the Options menu - Requires Expansion Pak
+: 816AE59A 0001 Can select as low as 1 lap in "Race" mode - Requires Expansion Pak
+: 81071834 0001 Enable Chasm Freestyle
+: 81071838 0001 Enable Jim Jam Freestyle
+: 8107183C 0001 Enable Moon Freestyle
+: 81071832 0001 Enable Tabletop Freestyle
+: 800711E7 00FF Extra Points

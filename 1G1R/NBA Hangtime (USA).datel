@@ -1,0 +1,84 @@
+# NBA Hangtime (USA)
+
+: 800A6C0B 0063 99 Trivia Points
+: 81027F04 2400 All Baskets Count For Team 1
+: 81027F04 2722 All Baskets Count For Team 2
+: 81027F06 0002
+: 800A6EBF 000F All Computer Assistance Turned Off
+: 800A6BE1 000F All Players Always On Fire
+: 800A6EC9 000F Baby Size Players
+: 800A6C33 0000 Character Has 0 Losses
+: 800A6C7B 0064 Character Has 100 Trivia Points
+: 800A6C51 001D Character Has Defeated All Teams
+: 810103F8 3000 Dunk From Anywhere
+: 81010404 3000
+: 81010788 ACC0
+: 800A6EDF 000F Fast Passing
+: 810188BC 1000 Fire Never Runs Out
+: 800A6EC0 000F Giant Players
+: 800A6EC5 000F Hot Spots On
+: 800A6ED7 000F Hyper Speed
+: 800A6657 0001 Infinite Shot Time
+: 810A665C 0000 Infinite Time
+: 810A665E 0300
+: 800A7593 003C Infinite Time to Create Character
+: 8100E3AC 2400 Infinite Turbo - All Players
+: 800A7071 0033 Infinite Turbo P1
+: 800A7099 0033 Infinite Turbo P2
+: 800A70C1 0033 Infinite Turbo P3
+: 800A70E9 0033 Infinite Turbo P4
+: 800A6ED3 000F Maximum Power
+: 800A6ED5 000F Maximum Speed
+: 810172BC 1000 Never Miss A Shot
+: 8101852C 1000
+: 81018560 3000
+: 800A6EBB 000F No Arrows
+: 800A6ECD 000F No Goal Tending
+: 800A6EDD 000F No Pushing
+: 800A7071 0000 No Turbo P1
+: 800A7099 0000 No Turbo P2
+: 800A70C1 0000 No Turbo P3
+: 800A70E9 0000 No Turbo P4
+: 800A6BE1 0003 P1 & P2 Always On Fire
+: 800A6EB1 0001 P1 Always On Fire
+: 800A6EB5 000F P1 Big Head
+: 800A6EB7 000F P1 Huge Head
+: 800A6EB1 0002 P2 Always On Fire
+: 800A6BE1 000C P3 & P4 Always On Fire
+: 800A6EB1 0004 P3 Always On Fire
+: 800A6EB1 0008 P4 Always On Fire
+: 800A6EC3 000F Play On Street Court
+: 800A6ED1 000F Quick Hands
+: 800A6EC1 000F Red/White/Blue Ball
+: 800A6EB9 000F Shot Percentage On
+: 800A6ED9 000F Stealth Turbo
+: 810290AC 2400 Team Fire Never Runs Out
+: 810290CC 1000
+: 810A665C 0000 Time Flies - 5 Seconds in each Quarter
+: 810A665E 0000
+: 800A66A6 00FF Timer Always At 3:00
+: 800A6EC7 000F Tournament Mode
+: 810294B0 2400 Unlimited Shot Time
+: 800A6EDB 000F Unlimited Turbo
+: 800A7781 0000 Big Head Mode Always Off
+: 800A7781 0001 Big Head Mode Always On
+: 800A7784 0000 CPU Assistance Always Off
+: 800A7784 0001 CPU Assistance Always On
+: 800A7783 0000 Shot Clock Always Off
+: 800A7783 0001 Shot Clock Always On
+: 800A7782 0000 Tag Arrow Always Off
+: 800A7782 0001 Tag Arrow Always On
+: 800A7780 0000 Tournament Mode Always Off
+: 800A7780 0001 Tournament Mode Always On
+: 810A7595 0050 Create "Super-Human" Character - Max Attributes and All Abilities
+: 810A7597 0001
+: 50000802 0000 Character Creation Max Attributes (Cheat Device 3.0 or Higher Needed!)
+: 810A7580 000A
+: 800A758F 000A Character Creation Max Block
+: 800A758B 000A Character Creation Max Dunks
+: 800A7581 000A Character Creation Max Height
+: 800A7587 000A Character Creation Max Power
+: 800A7589 000A Character Creation Max Shoot
+: 800A7585 000A Character Creation Max Speed
+: 800A758D 000A Character Creation Max Steal
+: 800A7583 000A Character Creation Max Weight
