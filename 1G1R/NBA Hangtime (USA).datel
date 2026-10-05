@@ -4,6 +4,8 @@
 : 81027F04 2400 All Baskets Count For Team 1
 : 81027F04 2722 All Baskets Count For Team 2
 : 81027F06 0002
+: 800A6689 0096 Team 1 Scores 150 pts
+: 800A668B 0096 Team 2 Scores 150 pts
 : 800A6EBF 000F All Computer Assistance Turned Off
 : 800A6BE1 000F All Players Always On Fire
 : 800A6EC9 000F Baby Size Players
