@@ -1,0 +1,16 @@
+# Clay Fighter 63 1-3 (USA)
+
+: 801A2B41 000F Extra Characters/Secret Options
+: 8107AC80 2400 Hit Anywhere
+: 8107C830 2400 Infinite Health Both Players
+: 8107C814 0139 Infinite Health P1
+: 8107C816 B823
+: 8107C828 1AE0
+: 8107C82A 0002
+: 8107C814 0139 Infinite Health P2
+: 8107C816 B823
+: 8107C828 06E1
+: 8107C82A 0002
+: 81200BEC 03A7 Infinite Time To Choose Your Fighter
+: 801A2B39 0001 P1 Always In Second Suit
+: 8020F000 0003 Slow Motion

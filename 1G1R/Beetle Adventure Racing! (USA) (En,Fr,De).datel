@@ -1,0 +1,68 @@
+# Beetle Adventure Racing! (USA) (En,Fr,De)
+
+: 80025E7F 0001 Debug Mode
+: 80025DAF 0002
+: 8001F783 0002
+: 81025DD4 1110 Always Place 1st
+: 81025DDC 3F40
+: 8002CC57 0005 Infinite Continues
+: 81025DD4 3F40 Low Timer
+: 80025D1B 0000 No AI Cars
+: 810026E8 0C00 No Disqualifications
+: 810026EA 0018
+: 81000060 3C0F
+: 81000062 E504
+: 81000064 35EF
+: 81000066 0074
+: 81000068 8C7B
+: 8100006A FFFC
+: 8100006C 536F
+: 8100006E 0001
+: 81000070 AC60
+: 81000072 FFFC
+: 81000074 03E0
+: 81000076 0008
+: 81000078 908F
+: 8100007A 0000
+: 8128B838 2400 Nobody Takes Any Damage (Multi)
+: 81365824 2400 Stop Timer
+: 81025DD4 4B7F Race Time Is Always 73:48.00
+: 81025DD4 1040 Time Is Always 00:00.00
+: 8002CFFB 0003 Open All Difficulties
+: 8002CFF7 000B All Cars
+: 8002CFF3 0006 All Tracks
+: 80025E29 000C Have New Fast Car
+: 80025E29 000D Have New Speedy Metal Car
+: 8002D000 0001 Unlock Airport
+: 8002D003 0001 Unlock Castle
+: 8002D006 0001 Unlock Dunes
+: 8002D004 0001 Unlock Ice Flows
+: 8002D001 0001 Unlock Parkade
+: 8002D007 0001 Unlock Roof Tops
+: 8002D002 0001 Unlock Stadium
+: 8002D005 0001 Unlock Volcano
+: 8002D008 0001 Unlock Woods
+: 80363DD3 0064 100 Bonus Points Coventry Cove
+: 80364633 0064 100 Bonus Points Inferno Isle
+: 8035E61B 0064 100 Bonus Points Metro Madness
+: 80351E9B 0064 100 Bonus Points Mount Mayhem
+: 8033C91B 0064 100 Bonus Points Sunset Sands
+: 80357F33 0064 100 Bonus Points Wicked Woods
+: 8002D010 0001 Enable ? Mode Cheat
+: 8002D012 0001 Enable Breakables Cheat
+: 8002D014 0001 Enable Cars Cheat
+: 8002D016 0001 Enable Color Change Cheat
+: 8002D00F 0001 Enable Damage Cheat
+: 8002D013 0001 Enable Environment Cheat
+: 8002D017 0001 Enable Field of View Cheat
+: 8002D01A 0001 Enable Handbrake Power Cheat
+: 8002D015 0001 Enable Handicap-Two Player Cheat
+: 8002D00B 0001 Enable Health Cheat
+: 8002D018 0001 Enable Horn Cheat
+: 8002D00A 0001 Enable Ladybug Color Change Cheat
+: 8002D009 0001 Enable Number of Ladybugs Cheat
+: 8002D00C 0001 Enable Power-ups Cheat
+: 8002D00E 0001 Enable Radar Cheat
+: 8002D011 0001 Enable Time Attack Bonus Boxes Cheat
+: 8002D00D 0001 Enable Time Limit Cheat
+: 8002D019 0001 Enable Track Music Cheat

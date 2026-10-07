@@ -1,0 +1,47 @@
+# Cruis'n World (USA)
+
+: DE0AD400 0000 Enable Code (Must Be On)
+: 812FE5EC 2402
+: 812FE5EE 0001
+: DE2AD400 0000 Master Code
+: F12FE5EC 2402
+: F12FE5EE 0001
+: CC000000 0000
+: 803CE023 0001 Always Place 1st P1
+: 803CE4FB 0001 Always Place 1st P2
+: 803CDB4B 0001 Always Place 1st P3
+: 803CD673 0001 Always Place 1st P4
+: 803BEE42 0005 Have All Car Upgrades P1
+: 803BEE4A 0005 Have All Car Upgrades P2
+: 803BEE52 0005 Have All Car Upgrades P3
+: 803BEE5A 0005 Have All Car Upgrades P4
+: 803C75E7 0003 Unlimited Nitro P1
+: 803C7823 0003 Unlimited Nitro P2
+: 803C716F 0064 Unlimited Nitro P3
+: 803C73AB 0003 Unlimited Nitro P4
+: D03E3911 0020 Press L For Nitrous Boost P1
+: 813CDD3C 43FF
+: D03E3917 0020 Press L For Nitrous Boost P2
+: 813CE214 43FF
+: D03E391D 0020 Press L For Nitrous Boost P3
+: 813CD38C 43FF
+: D03E3923 0020 Press L For Nitrous Boost P4
+: 813CD86C 43FF
+: 803C750B 00FF At Least 255 Trick Points Championship Mode
+: 803BF2BF 00FF
+: 803BF2EF 000F Always Race On Moon
+: 803CDD93 0000 Cannot Spin Out
+: 803BEE73 0001 Dancing Girl Always On
+: 803C21CF 0054
+: 8033C95B 0001 Disable Left Lane Traffic
+: 8033C95F 0001 Disable Right Lane Traffic
+: 812ED2E4 2479 Infinite Nitro (ASM)
+: 812ED2E6 0000
+: 813D0D3C 4296 Infinite Time
+: 812DF118 2400 Stop Elapsed Time (All PLayers)
+: 813C7678 3C80 Stop Elapsed Time P1
+: 813C78B4 3C80 Stop Elapsed Time P2
+: 812DE298 2400 Stop Timer
+: 813D0D3E 0000 Time Counts Down Faster
+: 813BEE78 1FFF Have All Cars
+: 813BF344 0101 Open Florida And Moon Tracks

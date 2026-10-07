@@ -1,0 +1,18 @@
+# Clay Fighter - Sculptor's Cut (USA)
+
+: 800AA167 0001 Activate Auto-Play
+: 800AA12B 0001 Activate Boogerman In ? Boxes
+: 800AA0E3 0001 Activate Earthworm Jim In ? Boxes
+: 800AD9FB 0001 Activate Frosty In ? Boxes
+: 800AA0BF 0001 Activate High-Five In ? Boxes
+: 800AA107 0001 Activate Sumo Santa In ? Boxes
+: 800AA1A7 0001 Debug Menu
+: 800FED43 0013 2P In 1P Mode
+: 81062FE0 2400 Hit Anywhere
+: 810641F8 2400 Neither Player Takes Any Damage
+: 800D65FF 0001 P1 Always In 2nd Costume
+: 800D63EF 0002 Quick Game Start With Bad Mr. Frosty
+: 810E0CCA 012C Full Superbar P1 (All Levels) 1P VS 2P VS Mode
+: 810E0CCE 012C Full Superbar P2 (All Levels) 1P VS 2P VS Mode
+: 800E0CC3 00C8 P1 Can't Be Stunned (All Levels) 1P VS 2P VS Mode
+: 800E0CC6 00C8 P2 Can't Be Stunned (All Levels) 1P VS 2P VS Mode

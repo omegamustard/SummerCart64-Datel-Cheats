@@ -1,0 +1,80 @@
+# Bomberman 64 (USA)
+
+: F1297D14 2400 Master Code
+: F1297D24 2400
+: 800AEECF 0001 1-Hit Most Sub-Bosses
+: 802AC648 00AA Stop Main Timer
+: 800AEE07 0001 Can Never Pick up Extra Hearts P1
+: 800AF05F 0001 Can Never Pick up Extra Hearts P4
+: 802AC75F 0003 Enable Return to Game & Exit Prompt When Paused
+: 8108E570 FFFF Have All Custom Items Combined
+: 8108E572 FFFF
+: 8108E574 FFFF
+: 8008E575 00FF Have All Gold Cards Combined
+: 8108E576 FFFF
+: 8108E578 FFFF
+: 8108E57A FFFF
+: 8108E57C FFFF
+: 8108E57E FFFF
+: 8108E580 FFFF
+: 8108E582 FFFF
+: 8008E584 00FF
+: 812AC656 0001 Have Extra Battle Stages
+: 802AC61F 00FF Have All Secret Battle Levels
+: 802AC703 00FF
+: 802AC62B 0009 Infinite Credits
+: 800AEE07 0002 Infinite Energy P1
+: 800AEECF 0002 Infinite Energy P2
+: 800AEF97 0002 Infinite Energy P3
+: 800AF05F 0002 Infinite Energy P4
+: 802AC62F 0063 Infinite Gems
+: 802AC627 0063 Infinite Lives
+: 802AC643 0001 Infinite Time
+: 800AEE01 0001 P1 Invincible
+: 800AEE3B 0000 P1 Walk Through Walls
+: 800AEEDF 0001 P2 Controls First Enemy Sub-Boss
+: 800AEEC9 0001 P2 Invincible
+: 800AEF03 0000 P2 Walk Through Walls
+: 800AEFA7 0001 P3 Controls Second Enemy Sub-Boss
+: 800AEF91 0001 P3 Invincible
+: 800AEFCB 0000 P3 Walk Through Walls
+: 800AF059 0001 P4 Invincible
+: 800AF093 0000 P4 Walk Through Walls
+: 800AEE13 0000 Bombs do no Damage P1
+: 800AEEDB 0000 Bombs do no Damage P2
+: 800AEFA3 0000 Bombs do no Damage P3
+: 800AF06B 0000 Bombs do no Damage P4
+: 800AEE13 00FF Maximum Blowup Area P1
+: 800AEEDB 00FF Maximum Blowup Area P2
+: 800AEFA3 00FF Maximum Blowup Area P3
+: 800AF06B 00FF Maximum Blowup Area P4
+: 800AEE0F 00FF Maximum Bomb to Layouts P1
+: 800AEED7 00FF Maximum Bomb to Layouts P2
+: 800AEF9F 00FF Maximum Bomb to Layouts P3
+: 800AF067 00FF Maximum Bomb to Layouts P4
+: 802AC620 00FF No Items
+: 802AC648 00AA Stop Main Timer
+: 8008E61F 0001 Level Complete Black Fortress 1
+: 8008E623 0001 Level Complete Black Fortress 2
+: 8008E627 0001 Level Complete Black Fortress 3
+: 8008E62B 0001 Level Complete Black Fortress 4
+: 8008E5EF 0001 Level Complete Blue Resort 1
+: 8008E5F3 0001 Level Complete Blue Resort 2
+: 8008E5F7 0001 Level Complete Blue Resort 3
+: 8008E5FB 0001 Level Complete Blue Resort 4
+: 8008E5DF 0001 Level Complete Green Garden 1
+: 8008E5E3 0001 Level Complete Green Garden 2
+: 8008E5E7 0001 Level Complete Green Garden 3
+: 8008E5EB 0001 Level Complete Green Garden 4
+: 8008E62F 0001 Level Complete Rainbow Palace 1
+: 8008E633 0001 Level Complete Rainbow Palace 2
+: 8008E637 0001 Level Complete Rainbow Palace 3
+: 8008E63B 0001 Level Complete Rainbow Palace 4
+: 8008E5FF 0001 Level Complete Red Mountain 1
+: 8008E603 0001 Level Complete Red Mountain 2
+: 8008E607 0001 Level Complete Red Mountain 3
+: 8006E60B 0001 Level Complete Red Mountain 4
+: 8008E60F 0001 Level Complete White Glacier 1
+: 8008E613 0001 Level Complete White Glacier 2
+: 8008E617 0001 Level Complete White Glacier 3
+: 8008E61B 0001 Level Complete White Glacier 4

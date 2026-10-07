@@ -1,0 +1,23 @@
+# Castlevania (USA) (Rev 2)
+
+: 80342BFE 000B Invincibility
+: 81389C3E 0064 Infinite Health
+: 80389C3F 0064 Infinite Energy
+: 80389C45 0001 Infinite Money
+: 81389C46 869F
+: 80389C49 0063 Infinite Red Jewels
+: 80389CED 0002 Max Power Up
+: 50000501 0000 Have All Items
+: 80389C4A 0001
+: 50000301 0000
+: 80389C51 0001
+: 80389C5A 0001
+: 80389C5B 0001
+: 80389C5D 0001
+: 50000E01 0000
+: 80389C60 0001
+: 81389C88 0000 Never Get Poisoned
+: 50002A02 0000 Open All Doors and Gates, No Bosses
+: 81389BD0 FFFF
+: D0387D7F 0020 Press L To Levitate
+: 81350810 3FCB

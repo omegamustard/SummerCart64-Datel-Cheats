@@ -1,0 +1,22 @@
+# Cruis'n Exotica (USA)
+
+: F1047A00 2400 Enable Code (Must Be On)
+: 81065174 0000 Always Place 1st P1
+: 810653D8 0000 Always Place 1st P2
+: 8106563C 0000 Always Place 1st P3
+: 810658A0 0000 Always Place 1st P4
+: 8100B954 4602 Double Speed Elapsed Timer (All Players)
+: 8100B956 1080
+: 810BE7F4 FFFF Have All Gold Medals 1st Tracks & 1st Car
+: 810BE7F6 FFFF Have All Gold Medals 2nd Tracks & 2nd Car
+: 810BE7F8 FFFF Have All Gold Medals 3rd Tracks & 3rd Car
+: 810BE7FA FFFF Have All Gold Medals 4th Tracks & 4th Car
+: 8107F850 00FF Infinite Continues
+: 800BE7FD 00FF Infinite Nitros P1
+: 810802D4 4296 Infinite Time
+: 810802D8 3C80 Stop Elapsed Time P1
+: 81081960 3C80 Stop Elapsed Time P2
+: 81009BDC 2400 Stop Timer
+: 810802D6 0000 Time Counts Down Faster
+: 810BE7F0 0100 Unlock Exotic Mode
+: 8104F10E 001C Unlock Hidden Cars

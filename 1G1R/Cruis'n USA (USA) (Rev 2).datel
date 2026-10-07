@@ -1,0 +1,29 @@
+# Cruis'n USA (USA) (Rev 2)
+
+: 80150592 001F All Tracks Open
+: 80150593 00FF
+: 8015025B 0001 Always First Place P1
+: 801505F7 0001 Always First Place P2
+: 8015024A 0001 Always Have Fastest Car P1
+: 801505E6 0001 Always Have Fastest Car P2
+: 81111B00 2400 Bootup Bypass For Nemu
+: 8015024B 0003 Cars Act Like They Are Upgraded [Faster, But No New Colors]
+: 8015097D 0095 Infinite Time
+: 8115056A 0001 Lights & Sirens For Police Car & School Bus P1
+: 8114E3BA 0001
+: 81150906 0001 Lights & Sirens For Police Car & School Bus P2
+: 8114E3D2 0001
+: 8114971C 0000 P1 4X Regular Maximum Speed - Choose Manual Transmission
+: 8104715A 0000
+: 811625D8 0000
+: 81046F16 0000 P2 4X Regular Maximum Speed - Choose Manual Transmission
+: 810473B6 0000
+: D102FE2C 4502 Race Continues After Timer Reaches Zero
+: 8102FE2C 1000
+: 80150264 0094 Record Time Is Always 00:00:00
+: 80150979 0000 Stop Elapsed Time And No Traffic
+: D102BCE4 E46A Stop Elapsed Timer
+: 8102BCE4 2400
+: D102BCDC E612 Stop Timer
+: 8102BCDC 2400
+: 8015056B 0001 "Head Code" Always On

@@ -1,0 +1,120 @@
+# Castlevania - Legacy of Darkness (USA)
+
+: 8102A9D0 1000 Invincibility
+: 811CAB3A 2AF8 Infinite Energy
+: 811CAB3A 2710 Infinite Energy (Alternate)
+: 811CAB42 FFFF Infinite Money
+: 801CAB45 0064 Infinite Red Jewels
+: 8108FCD0 2400 All Items Are Infinite (Once You Have Them)
+: 50002A01 0000 Have All & Infinite Items
+: 801CAB47 0001
+: D01CAE79 0024 Bypass The Pillar Maze In The Tower Of Ruins
+: 801CAE7B 0001
+: 803A6E8B 00FF Can Kill Frankenstein's Monster
+: 8108B81C 2400 Don't Take Any Damage
+: 8031B243 0005 Enable Characters
+: 803A6E94 0000 Frankenstein's Monster Dies With One Hit
+: 8032495F 0002 Hard Mode Selected In A New Game
+: 801CAAB4 00FF Have All 6 Children Saved For Adult Henry
+: 801CAB1F 0000 Infinite Days For Adult Henry
+: D11C87F6 0800 Press D-Pad Up To Refill Young Henry's Health
+: 803B37D8 0027
+: 801CAB5E 000A Infinite Archives Key
+: 801CAB6A 000A Infinite Art Tower Key 1
+: 801CAB6B 000A Infinite Art Tower Key 2
+: 801CAB63 000A Infinite Chamber Key
+: 801CAB6F 000A Infinite ClockTower Key A
+: 801CAB70 000A Infinite ClockTower Key B
+: 801CAB68 000A Infinite ClockTower Key C
+: 801CAB69 000A Infinite ClockTower Key D
+: 801CAB6E 000A Infinite ClockTower Key E
+: 801CAB6C 000A Infinite Control Roon Key
+: 801CAB62 000A Infinite Copper Key
+: 801CAB5B 000A Infinite Crest Half A
+: 801CAB5C 000A Infinite Crest Half B
+: 801CAB4E 000A Infinite Cure Ampoule
+: 801CAB65 000A Infinite Deck Key
+: 801CAB64 000A Infinite Execution Key
+: 801CAB61 000A Infinite Garden Key
+: 801CAB4C 000A Infinite Healing Kit
+: 801CAB5F 000A Infinite Left Tower Key
+: 801CAB55 000A Infinite Magical Nitro
+: 801CAB56 000A Infinite Mandragora
+: 801CAB58 000A Infinite Moon Card
+: 801CAB5A 000A Infinite Oldrey's Diary
+: 801CAB4F 000A Infinite Power up
+: 801CAB4D 000A Infinite Purifying
+: 801CAB4B 000A Infinite Roast Beef
+: 801CAB4A 000A Infinite Roast Chicken
+: 801CAB5D 000A Infinite Rose Brooch
+: 801CAB66 000A Infinite Rose Garden Key
+: 801CAB47 000A Infinite Special 1
+: 801CAB48 000A Infinite Special 2
+: 801CAB49 000A Infinite Special 3
+: 801CAB60 000A Infinite Store Room Key
+: 801CAB57 000A Infinite Sun Card
+: 801CAB54 000A Infinite The Contract
+: 801CAB67 000A Infinite Thorn Key
+: 801CAB6D 000A Infinite Wall Key
+: 801CAB59 000A Infinite Winch Lever
+: 801CAA72 00FF All Barred Doors Are Unlocked In The Forest Maze
+: 801CAAA8 00FF All Bosses Defeated In The Duel Tower
+: 801CAA67 001A All Gates Open In The Castle Wall
+: 801CAA68 0010
+: 801CAA6A 007F
+: 801CAAB6 0008 All Gates Open In The Forest Of Silence
+: 801CAA60 00FF
+: 801CAA9F 0007 All Gates Open In The Tower Of Ruins
+: 812E7B80 2400 Infinite Time To Pick A Pillar In The Tower Of Ruins Maze
+: D11C87F6 0100 Day & Night Control (Alternate) - D-Pad Left For Night & D-Pad Right For Day.
+: 801CAB21 0006
+: D11C87F6 0200
+: 801CAB21 0012
+: D01C87F7 0010 Day/Night Mode - Push L to make it Night, and R to make it Day.
+: 801CAB21 0006
+: D01C87F7 0020
+: 801CAB21 0012
+: D013ED74 0008 Rain Control - D-Pad Up For Rain & D-Pad Down For No Rain.
+: 801CADF7 0002
+: D013ED74 0004
+: 801CADF7 0000
+: D31C87F6 8020 Moon Jump (press L + Jump) (works on all characters and all levels)(ASM). 
+: 81024A38 E46A
+: D11C87F6 8020
+: 81024A38 3000
+: D21C87F6 0080 Moon Jump (works on all characters and all levels)(ASM). 
+: 81024A38 E46A
+: D01C87F6 0080
+: 81024A38 3000
+: D31C87F6 8020 Moon Jump Alternative(Press Jump + L button. Lets you jump again while falling. Except when falling of ledges.)
+: 8102BE00 9048
+: D31C87F6 8020
+: 8102BE02 0009
+: D31C87F6 8020
+: 8102BE10 A04E
+: D31C87F6 8020
+: 8102BE12 0008
+: D11C87F6 8020
+: 8102BE00 2408
+: D11C87F6 8020
+: 8102BE02 0001
+: D11C87F6 8020
+: 8102BE10 A048
+: D11C87F6 8020
+: 8102BE12 0009
+: D31C87F6 8000 Moon Jump Alternative(Press Jump button. Lets you jump again while falling. Except when falling of ledges.)
+: 8102BE00 9048
+: D31C87F6 8000
+: 8102BE02 0009
+: D31C87F6 8000
+: 8102BE10 A04E
+: D31C87F6 8000
+: 8102BE12 0008
+: D11C87F6 8000
+: 8102BE00 2408
+: D11C87F6 8000
+: 8102BE02 0001
+: D11C87F6 8000
+: 8102BE10 A048
+: D11C87F6 8000
+: 8102BE12 0009

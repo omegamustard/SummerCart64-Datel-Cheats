@@ -1,0 +1,12 @@
+# Bottom of the 9th (USA)
+
+: 80316D02 00FF Scenario Mode Away Team Score 255
+: 80316D0D 00FF Scenario Mode Home Team Score 255
+: D006837E 0004 Exhibition Mode Press Down (Directional Pad) For Away Team Score 255
+: 80316CC2 00FF
+: D006837E 0008 Exhibition Mode Press Up (Directional Pad) For Home Team Score 255
+: 80316CCD 00FF
+: D006837E 0004 Season Mode Press Down (Directional Pad) For Away Team Score 255
+: 80320832 00FF
+: D006837E 0008 Season Mode Press Up (Directional Pad) For Home Team Score 255
+: 8032083D 00FF

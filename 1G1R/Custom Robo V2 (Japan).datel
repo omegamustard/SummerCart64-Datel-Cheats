@@ -1,0 +1,25 @@
+# Custom Robo V2 (Japan)
+
+: F105ED10 2400 Master Code
+: 50001402 0000 All Equipment Registered
+: 810F40D8 FFFF
+: 50001402 0000 All Equipment Unhighlighted
+: 810F4100 FFFF
+: 50001402 0000 All Equipment Unlocked
+: 810F40B0 FFFF
+: 810F429A 03FF All Multiplayer Stages (Except Final 3 - You Get Those Through Solo)
+: 810F429C FFFF
+: 810F429E FFFF
+: 810F42A0 FFFF
+: 810F429A 03FF Have All Three Final Arenas
+: 810F429C FFFF
+: 810F429E FFFF
+: 810F42A0 FFFF
+: 800F426F 00FF
+: 800F42AF 00FF
+: 811FC00C 447A Player 1's Side Invincible
+: 50000602 0000 Player 1: All Help/Notes Available
+: 810F409C FFFF
+: 50003802 0000 Player 1: All Stuff Available
+: 810F4230 FFFF
+: 811FC034 447A Player 2's Side Invincible

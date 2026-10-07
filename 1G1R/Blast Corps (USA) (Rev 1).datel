@@ -1,0 +1,30 @@
+# Blast Corps (USA) (Rev 1)
+
+: 811EED88 240A Always Receive A Platinum Medal On Every Level
+: 811EED8A 0004
+: 8036EA7C 0050 Found All RDUS
+: 80364B80 003F Found All Scientists
+: 8036EA70 00FF Found All Survivors
+: 81271394 2400 Stop Timer
+: 803F7BE6 0001 Bouncing J-Bomb
+: 812B0916 0001 Gain Sideswipes Instead Of Losing Them
+: 812C1EA4 2400 Have All Buildings Destroyed (Stat, Not Physically)
+: 8036EA78 00FF
+: 803EE3B0 0064 Infinite Boosts Buggy Vehicle
+: 803EDC00 0063 Infinite Hydraulics Sidesweeper
+: 803F8B72 0063 Infinite Missiles Motor Bike
+: D33156C0 0000 Infinite Time (Cheat Device 3.0 Or Higher Needed!)
+: 813156C0 0000
+: D03156C2 0001
+: 813156C2 0000
+: 803F7C43 0000 J-Bomb Always Flying
+: 803F7B7A 0001 J-Bomb Floats Through Anything
+: 812B091C 2400 Never Lose Sideswipes
+: 812B0914 2400 Never Lose Sideswipes (Alternate)
+: 803F8B7D 0000 Rapid Fire Ballista
+: 803EDC06 0000 Rapid Fire Sideswipe
+: 812BA428 A5C0 Missile Truck Never Moves
+: 893643DA 0000 Stop The Missile Truck
+: 81277848 A320 Stop The Missile Truck (Alternate)
+: 8127784C 1000
+: 81277850 2419

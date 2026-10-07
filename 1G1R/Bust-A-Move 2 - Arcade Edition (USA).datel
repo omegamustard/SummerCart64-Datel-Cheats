@@ -1,0 +1,26 @@
+# Bust-A-Move 2 - Arcade Edition (USA)
+
+: 80020951 0001 Access Secret Set of Puzzles - Look for Another World on Game Select
+: 8101EE9C 1000 Beat Level Automatically (Puzzle Game)
+: 8102B528 1000 Beat Level Automatically (Time Trial)
+: 800F7382 0001 Green Blobs In 2nd Puzzle Select Screen
+: 8116D100 0001 Have Another World (Puzzle Game)
+: 80120171 0005 Infinite Credits
+: D00F13ED 0020 Press L For Infinite Time To Choose At Game Select
+: 8116D19C 02EB
+: 80120171 0000 1-Player Mode 0 Credits
+: 80173601 0006 1-Player Mode Computer Always Gets Bubbles
+: 80173601 0000 1-Player Mode Computer Never Gets Bubbles
+: 8117AAFC 0000 1-Player Mode Infinite Time To Set Pieces P1
+: 80171131 0006 1-Player Mode P1 Always Gets Bubbles
+: 80171131 0000 1-Player Mode P1 Never Gets Bubbles
+: 80171125 000A 1-Player Mode Screen Never Fills Over Time P1
+: 80120171 00FF 1-Player Mode Way Too Many Credits
+: 8117B8F4 0000 2-Player Mode Infinite Time To Set Pieces P1
+: 81178168 0000 2-Player Mode Infinite Time To Set Pieces P2
+: 801710BD 0006 2-Player Mode P1 Always Gets Bubbles
+: 801710BD 0000 2-Player Mode P1 Never Gets Bubbles
+: 8017358D 0006 2-Player Mode P2 Always Gets Bubbles
+: 8017358D 0000 2-Player Mode P2 Never Gets Bubbles
+: 801710B1 000A 2-Player Mode Screen Never Fills Over Time P1
+: 80173581 000A 2-Player Mode Screen Never Fills Over Time P2
