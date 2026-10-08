@@ -1,0 +1,1 @@
+I used the 1G1R list first. I then replaced Japanese games with English translated version where possible. Japanese games that fall into that category are listed under other regions. I have not tested every game.
