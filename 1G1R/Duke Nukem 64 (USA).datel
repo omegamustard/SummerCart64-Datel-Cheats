@@ -1,0 +1,118 @@
+# Duke Nukem 64 (USA)
+
+: 801012D8 0001 Open Cheat Menu
+: 801012DC 0001 Open Invincibility Cheat
+: 801012E0 0001 Open Monsters Cheat
+: 801012E4 0001 Open All Items Cheat
+: 801012E8 0001 Open Level Cheat
+: 802A5AB8 0000 Take No Damage From Falling - Player 1
+: 802A5A47 000F P1 Have All Keys
+: 802A5DD3 000F P2 Have All Keys
+: 812A5A5C 04B9 Night Vision Always 100%
+: 812A5A2C 095A Holoduke Always 100%
+: 812A5A4A 0064 Portable Medikit Always 100%
+: 812A5AA2 00C9 Protective Boots Always 100%
+: 812A5A92 0064 Infinite Armor
+: 812A5A90 0190 Infinite Vitamin K
+: 812A5A8E 0640 Infinite Jet Pack
+: 812A5A8C 1900 Infinite Scuba Gear
+: 802A5A01 00FF Pistol Infinite Ammo
+: 802A5ABB 0001 Have Shotgun
+: 802A5A03 00FF Shotgun Infinite Ammo
+: 802A5ABC 0001 Have Sub Machine Guns
+: 802A5A05 00FF Sub Machine Guns Infinite Ammo
+: 802A5ABD 0001 Have Grenade Launcher
+: 802A5A07 00FF Grenade Launcher Infinite Ammo
+: 802A5ABE 0001 Have Pipe Bombs
+: 802A5A09 00FF Pipe Bombs Infinite Ammo
+: 802A5ABF 0001 Have Shrinker
+: 802A5A0B 00FF Shrinker Infinite Ammo
+: 802A5AC0 0001 Have Expander
+: 802A5A0D 00FF Expander Infinite Ammo
+: 802A5AC1 0001 Have Missile Launcher
+: 802A5A0F 00FF Missile Launcher Infinite Ammo
+: 802A5AC2 0001 Have Plasma Cannon
+: 802A5A11 00FF Plasma Cannon Infinite Ammo
+: 802A5AC3 0001 Have Laser Trip Bomb
+: 802A5A13 00FF Laser Trip Bomb Infinite Ammo
+: 50000504 0000 Unlock All Secret Levels In Multiplayer Setup Menu
+: 800D3760 0001
+: 812A59EE 2400 Duke Doesn't Complain About Idling (All Players)
+: 812A5D7A 2400
+: 812A6106 2400
+: 812A6492 2400
+: 812A59EE 2400 Duke Doesn't Complain About Idling (Player 1)
+: 810A4B98 2400 All Players Immune To Damage [ASM]
+: 810B9032 03E8 Allow Kill Count Setting Past 99 Kills Up To 1000 Kills [ASM]
+: 810A1798 0000 Don't Die From Going Out Of Bounds [ASM]
+: 810A179A 0000
+: 8108D2F0 0000 Don't Take Damage From Dust [ASM]
+: 8108D2F2 0000
+: 81077458 0000 Don't Take Damage From Explosions [ASM]
+: 8107745A 0000
+: 810A15B8 0000 Don't Take Damage From Fire [ASM]
+: 810A15BA 0000
+: 810A2EDC 2400 Duke Idling Complain Timer Turned Off [ASM]
+: 8008DCA8 0000 Enemies Don't Attack [ASM]
+: 8008DCAA 0000
+: 8008EBA0 0000 Screen Does Not Turn Red When Taking Damage [ASM]
+: 8008EBA2 0000
+: 800895C0 0000 Screen Doesn't Flash When Charged Plasma Shot Explodes [ASM]
+: 800895C2 0000
+: 80247463 0064 P1 Have Infinite Health (All Levels) (All Modes)
+: 8026EC5B 0064
+: 802A59FD 0064
+: 50000E01 0000 P1 Have All Weapons & Infinite Ammo (All Levels) (All Modes) Press D-Pad Left
+: 802A5ABA 0001
+: 50000E02 0000
+: 812A5A00 03E7
+: 812A5A4A 0064 P1 Have All Items & Infinite Use on all levels (All Levels) (All Modes) Press D-Pad Up
+: 812A5A92 0064
+: 812A5AA2 00C8
+: 812A5A8C 1900
+: 812A5A8E 0640
+: 812A5A5C 04B0
+: 812A5A5C 0960
+: 812A5A2C 0960
+: 8024CCE7 0064 P2 Have Infinite Health (All Levels) (All Modes)
+: 802A5D89 0064
+: 50000E01 0000 P2 Have All Weapons & Infinite Ammo (All Levels) (All Modes) Press D-Pad Left
+: 802A5E46 0001
+: 50000E02 0000
+: 812A5D8C 03E7
+: 812A5DD6 0064 P2 Have All Items & Infinite Use on all levels (All Levels) (All Modes) Press D-Pad Up
+: 812A5E1E 0064
+: 812A5E2E 00C8
+: 812A5E18 1900
+: 812A5E1A 0640
+: 812A5DE8 04B0
+: 812A5DE8 0960
+: 812A5DB8 0960
+: 8024D073 0064 P3 Have Infinite Health (All Levels) (All Modes)
+: 802A6115 0064
+: 50000E01 0000 P3 Have All Weapons & Infinite Ammo (All Levels) (All Modes) Press D-Pad Left
+: 802A61D2 0001
+: 50000E02 0000
+: 812A6118 03E7
+: 812A6162 0064 P3 Have All Items & Infinite Use on all levels (All Levels) (All Modes) Press D-Pad Up
+: 812A61AA 0064
+: 812A61BA 00C8
+: 812A61A4 1900
+: 812A61A6 0640
+: 812A6174 04B0
+: 812A6174 0960
+: 812A6144 0960
+: 8024D3FF 0064 P4 Have Infinite Health (All Levels) (All Modes)
+: 802A64A1 0064
+: 50000E01 0000 P4 Have All Weapons & Infinite Ammo (All Levels) (All Modes) Press D-Pad Left
+: 802A655E 0001
+: 50000E02 0000
+: 812A64A4 03E7
+: 812A64EE 0064 P4 Have All Items & Infinite Use on all levels (All Levels) (All Modes) Press D-Pad Up
+: 812A6536 0064
+: 812A6546 00C8
+: 812A6530 1900
+: 812A6532 0640
+: 812A6500 04B0
+: 812A6500 0960
+: 812A64D0 0960

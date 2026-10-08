@@ -1,0 +1,26 @@
+# Indy Racing 2000 (USA)
+
+: D1136F78 1040 Drive through opponents
+: 81136F78 1000
+: 81033918 7FFF Max Exp (Gold Cup - All Classes Unlocked)
+: 8103391A FFFF
+: D11189CC A482 No laps to race
+: 811189CC A480
+: D11189B4 8C42 One lap to race
+: 811189B4 2402
+: D11189B6 953C
+: 811189B6 0001
+: D11192D0 0320 Opponents don't move
+: 811192D0 2400
+: 80033607 0000 Race alone
+: 8012955F 0001 Always Place 1st Gold Cup
+: 81023100 0000 Unlock 1st Upgrade
+: 81023102 0000
+: 81023104 0000 Unlock 2nd Upgrade
+: 81023106 0000
+: 810230F0 0000 Unlock Formula Cars Part 1
+: 810230F2 0000
+: 810230F4 0000 Unlock Formula Cars Part 2
+: 810230F6 0000
+: 810230EE 0000 Unlock Sprint Car Class
+: 810230EC 0000

@@ -1,0 +1,44 @@
+# Mario Party 2 (USA)
+
+: F10ADD80 2400 Enable Code (Must Be On)
+: 810F8CD2 FFFF Infinite Coins P1 (Coin Bank)
+: 810F8CD0 0098 Maximum Coins In Mini-Game Land
+: 810F8CD2 967F
+: 800FD2CD 000A Mini-Game Coaster Always Clear Mini-Game
+: 800FD8AB 0063 Mini-Game Coaster Infinite Lives
+: 800FD8B5 0063 Mini-Game Coaster Max Coins
+: 800DF4C5 000A Upper Left Character Rolls 10
+: 800DF511 000A Upper Right Character Rolls 10
+: 800DF55D 000A Lower Left Character Rolls 10
+: 800DF5A9 000A Lower Right Character Rolls 10
+: 810F8C7C FFFF Enable Mini Games
+: 810F8C7E FFFF
+: 810F8C80 FFFF
+: 810F8C82 FFFF
+: 810F8C84 FFFF
+: 810F8C86 FFFF
+: 810F8C88 FFFF
+: 810F8C8A FFFF
+: 810F8C8C FFFF
+: D00F8F94 0008 Go To Rules Explanation Stage (Press D-Pad Up)
+: 800F93AB 0008
+: 81054748 080C Hidden Block Spaces Are Half as Big
+: 8105474A 0088
+: 8105474C 4407
+: 8105474E 1000
+: 81300220 3C04
+: 81300222 8010
+: 81300224 8484
+: 81300226 D418
+: 81300228 1644
+: 8130022A 0002
+: 8130022C 2400
+: 81300230 3C05
+: 81300232 3DAA
+: 81300234 0801
+: 81300236 51D4
+: 81300238 2400
+: 8010DA8D 0002 Infinite Health In Shell Shocked
+: 800FD8AB 00FF Infinite Lives (Mini-Game Coaster)
+: 8010C147 0050 Instant Win On Hot Rope Jump On Mini-Game Coaster
+: 81110438 4140 Top Left Player Turbo/Never Wipes Out (Slot Car Derby)

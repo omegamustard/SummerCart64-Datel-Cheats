@@ -1,0 +1,105 @@
+# Indiana Jones and the Infernal Machine (USA)
+
+: F0000319 0078 High Resolution Enable Code (Must Be On)
+: F000093A 0000
+: F1000318 0078 High Resolution Enable Code (Alternate)
+: F100093A 0120
+: 80000319 0040 Low Resolution Enable Code (Must be On)
+: 8000093A 0000
+: 50006D02 0000 All Weapons Activated + Infinite Ammo (High Res Mode)
+: 810C2D7A 0199
+: 810C2E07 270F Always Have $9,999 (High Res Mode)
+: 810C2E30 0119 Infinite Anti-Venom Kits (High Res Mode)
+: 810C2E38 0119 Infinite First Aid Kits (High Res Mode)
+: 810C2E14 0119 Infinite Medicinal Herbs (High Res Mode)
+: 810C2E3C 0119 Infinite Medicines  (High Res Mode)
+: 810C2E58 0119 Infinite Raft Patch Kits (High Res Mode)
+: 8125BE50 4C35 Max Health King Solomon's Mines (High Res Mode)
+: 50006D02 0000 All Weapons Activated + Infinite Ammo (Low Res Mode)
+: 810C890B 0199
+: 810C8998 270F Always Have $9,999 (Low Res Mode)
+: 810C89C1 0119 Infinite Anti-Venom Kits (Low Res Mode)
+: 810C89C9 0119 Infinite First Aid Kits (Low Res Mode)
+: 810C89A5 0119 Infinite Medicinal Herbs (Low Res Mode)
+: 810C89CD 0119 Infinite Medicines  (Low Res Mode)
+: 810C89E9 0119 Infinite Raft Patch Kits  (Low Res Mode)
+: 8116EB58 4C35 Max Health Atherium (Low Res Mode)
+: 81166FE4 4C35 Max Health Babylon (Low Res Mode)
+: 8116FFE8 4C35 Max Health Canyonlands (Low Res Mode)
+: 81168548 4C35 Max Health Jeep (In and Out) (Low Res Mode)
+: 81169130 4C35
+: 81169758 4C35 Max Health Meroe (Low Res Mode)
+: 81192CF8 4C35 Max Health Nub's Tomb Level (Low Res Mode)
+: 81177F3C 4C35 Max Health Olmec Valley (Low Res Mode)
+: 81172508 4C35 Max Health Palawan Lagoon (Low Res Mode)
+: 8117FC60 4C35 Max Health Palawan Temple (Low Res Mode)
+: 81187540 4C35 Max Health Palawan Volcano (Low Res Mode)
+: 8117A118 4C35 Max Health Return to Peru (Low Res Mode)
+: 81166F08 4C35 Max Health Shambla Sanctuary (Low Res Mode)
+: 8117C5F0 4C35 Max Health Teotihuacan (Low Res Mode)
+: 81172B5C 4C35 Max Health The Machine (Low Res Mode)
+: 81193E98 4C35 Max Health Tian Shian River (Low Res Mode)
+: D104D0A8 0020 Atherium Walk Through Walls (Low Res Mode) - Press L to Activate. Press R to Deactivate.
+: 8016EB08 0000
+: D104D0A8 0010
+: 8016EB08 0001
+: D104D0A8 0020 Babylon Walk Through Walls (Low Res Mode) - Press L to Activate. Press R to Deactivate.
+: 80166F94 0000
+: D104D0A8 0010
+: 80166F94 0001
+: D104D0A8 0020 Canyonlands Walk Through Walls (Low Res Mode) - Press L to Activate. Press R to Deactivate.
+: 8016FF98 0000
+: D104D0A8 0010
+: 8016FF98 0001
+: D104D0A8 0020 In Jeep Walk Through Walls (Low Res Mode) - Press L to Activate. Press R to Deactivate.
+: 801690F8 0000
+: D104D0A8 0010
+: 801690F8 0001
+: D104D0A8 0020 Meroe Walk Through Walls (Low Res Mode) - Press L to Activate. Press R to Deactivate.
+: 80169708 0000
+: D104D0A8 0010
+: 80169708 0001
+: D104D0A8 0020 Nub's Tomb Level Walk Through Walls (Low Res Mode) - Press L to Activate. Press R to Deactivate.
+: 80192CA8 0000
+: D104D0A8 0010
+: 80192CA8 0001
+: D104D0A8 0020 Olmec Valley Walk Through Walls (Low Res Mode) - Press L to Activate. Press R to Deactivate.
+: 80177EEC 0000
+: D104D0A8 0010
+: 80177EEC 0001
+: D104D0A8 0020 Out of Jeep Walk Through Walls (Low Res Mode) - Press L to Activate. Press R to Deactivate.
+: 801684F8 0000
+: D104D0A8 0010
+: 801684F8 0001
+: D104D0A8 0020 Palawan Lagoon Walk Through Walls (Low Res Mode) - Press L to Activate. Press R to Deactivate.
+: 801724B8 0000
+: D104D0A8 0010
+: 801724B8 0001
+: D104D0A8 0020 Palawan Temple Walk Through Walls (Low Res Mode) - Press L to Activate. Press R to Deactivate.
+: 8017FC10 0000
+: D104D0A8 0010
+: 8017FC10 0001
+: D104D0A8 0020 Palawan Volcano Walk Through Walls (Low Res Mode) - Press L to Activate. Press R to Deactivate.
+: 801874F0 0000
+: D104D0A8 0010
+: 801874F0 0001
+: D104D0A8 0020 Return to Peru Walk Through Walls (Low Res Mode) - Press L to Activate. Press R to Deactivate.
+: 8017A0C8 0000
+: D104D0A8 0010
+: 8017A0C8 0001
+: D104D0A8 0020 Shambla Sanctuary Walk Through Walls (Low Res Mode) - Press L to Activate. Press R to Deactivate.
+: 80166EB8 0000
+: D104D0A8 0010
+: 80166EB8 0001
+: D104D0A8 0020 Teotihuacan Walk Through Walls (Low Res Mode) - Press L to Activate. Press R to Deactivate.
+: 8017C5A0 0000
+: D104D0A8 0010
+: 8017C5A0 0001
+: D104D0A8 0020 The Machine Walk Through Walls (Low Res Mode) - Press L to Activate. Press R to Deactivate.
+: 80172B10 0000
+: D104D0A8 0010
+: 80172B10 0001
+: D104D0A8 0020 Tian Shian River Walk Through Walls (Low Res Mode) - Press L to Activate. Press R to Deactivate.
+: 80193E48 0000
+: D104D0A8 0010
+: 80193E48 0001

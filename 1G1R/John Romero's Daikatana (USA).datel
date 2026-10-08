@@ -1,0 +1,131 @@
+# John Romero's Daikatana (USA)
+
+: F1192B80 2400 Enable Code (Must Be On)
+: 8020A965 0064 Infinite Health
+: 8020A987 0064 Infinite Armor
+: 8020A967 00FF Infinite Experience
+: 8120A966 FFFF 65535 Experience Points
+: 8120A8F6 FFFF Have All Weapons
+: 81261A40 A05B Infinite Ammo (All Weapons)
+: 8020A9BB 00FF Infinite Ballista Ammo
+: 8020A9BA 00FF Infinite Bolter Ammo
+: 8020A9B2 00FF Infinite Chvizatergo Ammo
+: 8020A9B5 0063 Infinite Disc Of Dredalus Ammo
+: 8020A9B8 0000 Infinite Hammer Ammo
+: 8020A9B4 00FF Infinite Ion Cannon Ammo
+: 8020A9B7 00FF Infinite Poseidon Trident Ammo
+: 8020A9B1 00FF Infinite Shock Wave Ammo
+: 8020A9B3 00FF Infinite Shot Cycler Ammo
+: 8020A9B0 00FF Infinite Sidewinder Ammo
+: 8020A9BC 00FF Infinite Stavros Stave Ammo
+: 8020A9B9 00FF Infinite Sunflares Ammo
+: 8020A9BD 00FF Infinite Wyndraxs Wisp Ammo
+: 8020A9B6 00FF Infintie Venomous Ammo
+: 8020A96F 0007 Max Acro
+: 8020A96B 0007 Max Attack
+: 8020A971 0007 Max Power
+: 8020A96D 0007 Max Speed
+: 8020A969 0007 Max Vitality
+: 81238004 2400 Can't Jump
+: D020CBC5 0020 L Button For Moon Jump
+: 8120A91C 3F80
+: 8117E006 FFFF P1 Have All Weapons
+: 8017E075 0064 P1 Infinite Health
+: 8017E097 0064 P1 Infinite Armor
+: 8017E077 00FF P1 Infinite Experience
+: 8017E0CB 00FF P1 Infinite Ballista Ammo
+: 8017E0CA 00FF P1 Infinite Bolter Ammo
+: 8017E0C2 00FF P1 Infinite Chvizatergo Ammo
+: 8017E0C5 0063 P1 Infinite Disc Of Dredalus Ammo
+: 8017E0C8 0000 P1 Infinite Hammer Ammo
+: 8017E0C4 00FF P1 Infinite Ion Cannon Ammo
+: 8017E0C7 00FF P1 Infinite Poseidon Trident Ammo
+: 8017E0C1 00FF P1 Infinite Shock Wave Ammo
+: 8017E0C3 00FF P1 Infinite Shot Cycler Ammo
+: 8017E0C0 00FF P1 Infinite Sidewinder Ammo
+: 8017E0CC 00FF P1 Infinite Stavros Stave Ammo
+: 8017E0C9 00FF P1 Infinite Sunflares Ammo
+: 8017E0CD 00FF P1 Infinite Wyndraxs Wisp Ammo
+: 8017E0C6 00FF P1 Infintie Venomous Ammo
+: 8017E07F 0007 P1 Max Acro
+: 8017E07B 0007 P1 Max Attack
+: 8017E081 0007 P1 Max Power
+: 8017E07D 0007 P1 Max Speed
+: 8017E079 0007 P1 Max Vitality
+: D0209D85 0020 P1 Hold L Button For Moon Jump
+: 8117E02C 4000
+: 8117E106 FFFF P2 Have All Weapons
+: 8017E175 0064 P2 Infinite Health
+: 8017E197 0064 P2 Infinite Armor
+: 8017E177 00FF P2 Infinite Experience
+: 8017E1CB 00FF P2 Infinite Ballista Ammo
+: 8017E1CA 00FF P2 Infinite Bolter Ammo
+: 8017E1C2 00FF P2 Infinite Chvizatergo Ammo
+: 8017E1C5 0063 P2 Infinite Disc Of Dredalus Ammo
+: 8017E1C8 0000 P2 Infinite Hammer Ammo
+: 8017E1C4 00FF P2 Infinite Ion Cannon Ammo
+: 8017E1C7 00FF P2 Infinite Poseidon Trident Ammo
+: 8017E1C1 00FF P2 Infinite Shock Wave Ammo
+: 8017E1C3 00FF P2 Infinite Shot Cycler Ammo
+: 8017E1C0 00FF P2 Infinite Sidewinder Ammo
+: 8017E1CC 00FF P2 Infinite Stavros Stave Ammo
+: 8017E1C9 00FF P2 Infinite Sunflares Ammo
+: 8017E1CD 00FF P2 Infinite Wyndraxs Wisp Ammo
+: 8017E1C6 00FF P2 Infintie Venomous Ammo
+: 8017E17F 0007 P2 Max Acro
+: 8017E17B 0007 P2 Max Attack
+: 8017E181 0007 P2 Max Power
+: 8017E17D 0007 P2 Max Speed
+: 8017E179 0007 P2 Max Vitality
+: D0209D8D 0020 P2 Hold L Button For Moon Jump
+: 8117E12C 4000
+: 8117E206 0001 P3 Have All Weapons
+: 8017E275 0064 P3 Infinite Health
+: 8017E297 0064 P3 Infinite Armor
+: 8017E277 00FF P3 Infinite Experience
+: 8017E2CB 00FF P3 Infinite Ballista Ammo
+: 8017E2CA 00FF P3 Infinite Bolter Ammo
+: 8017E2C2 00FF P3 Infinite Chvizatergo Ammo
+: 8017E2C5 0063 P3 Infinite Disc Of Dredalus Ammo
+: 8017E2C8 0000 P3 Infinite Hammer Ammo
+: 8017E2C4 00FF P3 Infinite Ion Cannon Ammo
+: 8017E2C7 00FF P3 Infinite Poseidon Trident Ammo
+: 8017E2C1 00FF P3 Infinite Shock Wave Ammo
+: 8017E2C3 00FF P3 Infinite Shot Cycler Ammo
+: 8017E2C0 00FF P3 Infinite Sidewinder Ammo
+: 8017E2CC 00FF P3 Infinite Stavros Stave Ammo
+: 8017E2C9 00FF P3 Infinite Sunflares Ammo
+: 8017E2CD 00FF P3 Infinite Wyndraxs Wisp Ammo
+: 8017E2C6 00FF P3 Infinite Venomous Ammo
+: 8017E27F 0007 P3 Max Acro
+: 8017E27B 0007 P3 Max Attack
+: 8017E281 0007 P3 Max Power
+: 8017E27D 0007 P3 Max Speed
+: 8017E279 0007 P3 Max Vitality
+: D0209D95 0020 P3 Hold L Button For Moon Jump
+: 8117E22C 4000
+: 8117E306 0001 P4 Have All Weapons
+: 8017E375 0064 P4 Infinite Health
+: 8017E397 0064 P4 Infinite Armor
+: 8017E377 00FF P4 Infinite Experience
+: 8017E3CB 00FF P4 Infinite Ballista Ammo
+: 8017E3CA 00FF P4 Infinite Bolter Ammo
+: 8017E3C2 00FF P4 Infinite Chvizatergo Ammo
+: 8017E3C5 0063 P4 Infinite Disc Of Dredalus Ammo
+: 8017E3C8 0000 P4 Infinite Hammer Ammo
+: 8017E3C4 00FF P4 Infinite Ion Cannon Ammo
+: 8017E3C7 00FF P4 Infinite Poseidon Trident Ammo
+: 8017E3C1 00FF P4 Infinite Shock Wave Ammo
+: 8017E3C3 00FF P4 Infinite Shot Cycler Ammo
+: 8017E3C0 00FF P4 Infinite Sidewinder Ammo
+: 8017E3CC 00FF P4 Infinite Stavros Stave Ammo
+: 8017E3C9 00FF P4 Infinite Sunflares Ammo
+: 8017E3CD 00FF P4 Infinite Wyndraxs Wisp Ammo
+: 8017E3C6 00FF P4 Infintie Venomous Ammo
+: 8017E37F 0007 P4 Max Acro
+: 8017E37B 0007 P4 Max Attack
+: 8017E381 0007 P4 Max Power
+: 8017E37D 0007 P4 Max Speed
+: 8017E379 0007 P4 Max Vitality
+: D0209D9D 0020 P4 Hold L Button For Moon Jump
+: 8117E32C 4000

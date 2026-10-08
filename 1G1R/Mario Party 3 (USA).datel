@@ -1,0 +1,28 @@
+# Mario Party 3 (USA)
+
+: F10824D0 2400 Enable Code (Must Be On)
+: 810CC0DE FFFF Enable Mini Games
+: 810CC0E0 FFFF
+: 810CC0E2 FFFF
+: 810CC0E4 FFFF
+: 810D1FE0 03E8 Have 1000 Coins In Game Guy's Room
+: 800CDBD5 000A Upper Left Character Rolls 10
+: 800CDC21 000A Upper Right Character Rolls 10
+: 800CDC6D 000A Lower Left Character Rolls 10
+: 800CDCB9 000A Lower Right Character Rolls 10
+: 810D1112 0000 Upper Left Character No Coins
+: 810D1112 00FF Upper Left Character 255 Coins
+: 800D1116 0000 Upper Left Character No Stars
+: 800D1116 0063 Upper Left Character 99 Stars
+: 810D114A 0000 Upper Right Character No Coins
+: 810D114A 00FF Upper Right Character 255 Coins
+: 800D114E 0000 Upper Right Character No Stars
+: 800D114E 0063 Upper Right Character 99 Stars
+: 810D1182 0000 Lower Left Character No Coins
+: 810D1182 00FF Lower Left Character 255 Coins
+: 800D1186 0000 Lower Left Character No Stars
+: 800D1186 0063 Lower Left Character 99 Stars
+: 810D11BA 0000 Lower Right Character No Coins
+: 810D11BA 00FF Lower Right Character 255 Coins
+: 800D11BE 0000 Lower Right Character No Stars
+: 800D11BE 0063 Lower Right Character 99 Stars

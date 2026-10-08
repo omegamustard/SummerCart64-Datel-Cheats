@@ -1,0 +1,8 @@
+# International Superstar Soccer 2000 (USA) (En,Es)
+
+: F1066FD0 2400 Enable Code (Must Be On)
+: F1061A44 1000 Enable Code Generator Code
+: 801A92C1 0032 Away Team 50 Score
+: 801A80D9 0032 Home Team 50 Score
+: 801A92C1 0000 Away Team 0 Score
+: 801A80D9 0000 Home Team 0 Score

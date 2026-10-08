@@ -1,0 +1,35 @@
+# Doom 64 (USA) (Rev 1)
+
+: 80063333 00FF Always Have Bio Suite
+: 8006332B 00FF Always in Berserk Mode
+: 80063327 00FF Always in Invincibility Mode
+: 8005A883 0001 Enable Cheat Menu
+: 800633A2 0001 Have Backpack
+: 8006331F 00FF Infinite Armor
+: 800633BB 0002 Invincible
+: 800633BB 0006 Invincible And Map Markers
+: 810A81BE FFFF Kill The Red Tint/Brighten Up Levels
+: 810633EA 0B94 Rapid Fire
+: 810633EE 0001 Alternate Rapid Fire
+: 800633BB 0004 Turn Map Markers On
+: 8006328F 0001 Have Blue Key
+: 80063293 0001 Have Yellow Key
+: 80063297 0001 Have Red Key
+: 8006329B 0001 Have Blue Skull Key
+: 8006329F 0001 Have Yellow Skull Key
+: 800632A3 0001 Have Red Skull Key
+: 8006338B 0001 Always Have BFG 9000
+: 8006337F 0001 Always Have Chain Gun
+: 8006336B 0001 Always Have Chainsaw
+: 8006337B 0001 Always Have Double Shotgun
+: 80063373 0001 Always Have Gun
+: 80063383 0001 Always Have Missile Launcher
+: 80063387 0001 Always Have Plasma Rifle
+: 80063377 0001 Always Have Shotgun
+: 8006338F 00FF Have Laser Weapon
+: 80063381 0001 Have Rocket Launcher
+: 80063393 00FF Infinite Gun/Chain Gun Ammo
+: 80063398 0064 Infinite Laser Gun Ammo
+: 8006339F 0064 Infinite Missile Ammo
+: 8006339B 0064 Infinite Plasma/BFG/Weapons Ammo
+: 80063397 0064 Infinite Shotgun Ammo

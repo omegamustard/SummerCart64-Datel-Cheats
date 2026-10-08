@@ -1,0 +1,85 @@
+# Duke Nukem - Zero Hour (USA)
+
+: 800DF990 0001 Enable Debug Menu
+: 810A1E74 A65B Infinite Ammo (All Guns)
+: 800DEEC3 0001 Invincibility
+: 801A19C6 0000 Time Always 00:00
+: D0117DF4 0008 Press L Button To Moon Jump
+: 81117EEC FFFF
+: D0117DF4 0008
+: 81117EEE FC00
+: 8110A956 0708 Infinite Gas Mask
+: 8010A953 0064 Infinite Medi-kit
+: 8110A954 0A8C Infinite Night Vision
+: 8110A94E 0384 Infinite Vitamin X
+: 80117F1F 0980 Infinite Health - Mean Streets
+: 8019F061 0980
+: 80117F1F 0980 Infinite Health Liberty or Death
+: 8019E955 0980
+: 80117F1F 0980 Infinite Health - Nuclear Winter
+: 8019E4D9 0980
+: 80117F1F 0980 Infinite Health - Secret Level Wetworld
+: 8019DA99 0980
+: 80117F1F 0980 Infinite Health - Fallout
+: 8019D61D 0980
+: 80117F1F 0980 Infinite Health - Under Siege
+: 8019E4D9 0980
+: 80117F1F 0980 Infinite Health - Boss Hog
+: 8019BF0D 0980
+: 80117F1F 0980 Infinite Health - Dry Town
+: 8019FB45 0980
+: 80117F1F 0980 Infinite Health - Jailbreak
+: 8019E1A5 0980
+: 80117F1F 0980 Infinite Health - Up Ship Creek
+: 8019E391 0980
+: 80117F1F 0980 Infinite Health - Fort Roswell
+: 8019F395 0980
+: 80117F1F 0980 Infinite Health - Probing The Depths
+: 8019E05D 0980
+: 80117F1F 0980 Infinite Health - Cyborg Scorpion
+: 8019C055 0980
+: 80117F1F 0980 Infinite Health - The Whitechapel Killings
+: 8019F1A9 0980
+: 8019F625 0096 Infinite Health - Dawn of the Duke
+: 8019E2ED 0096 Infinite Health - Hydrogen Bomb
+: 8019DB3D 0096 Infinite Health - Dunroamin Castle
+: 8019C0F9 0096 Infinite Health - Going Down
+: 8019C94D 0096 Infinite Health - Brainstorm
+: 8019D579 0096 Infinite Health - The Brothers Nukem
+: 8019BC7D 0096 Infinite Health - Alien Mother
+: 811AE4B2 03E7 Maximum Visibility (No Fog)
+: 811AE4B4 1000
+: 811AE4B6 03E7
+: 811AE4B8 1000
+: 8010A954 000A Unlimited Night Vision
+: 8010A955 008C
+: 8010A94C 0007 Unlimited Scuba Gear - Dive Helmet
+: 8010A94D 0008
+: 8011A84D 0005 Have Sniper Rifle - Infinite Ammo
+: 8011A85B 0004
+: 801CE4E8 0001 Cheat Menu Enabled
+: 810E16BE FFFF Cheat Menu Have All Game Type & Other
+: 811CE470 FFFF Cheat Menu Have All Weapons
+: 801CC8B9 0001 Cheat Menu All Weapons Enabled
+: 801CC925 0001
+: 801CD985 0001
+: 801CDA81 0001
+: 801CDB15 0001
+: 801CDB17 0001
+: 801CDB49 0001
+: 801CE479 0001
+: 801CE481 0001
+: 801CE4ED 0001
+: 801CF635 0001
+: 8019B949 0064 P1 Infinite Health Dukematch
+: 8019B9ED 0064 P2 Infinite Health Dukematch
+: 8019BA91 0064 P3 Infinite Health Dukematch
+: 8019BB35 0064 P4 Infinite Health Dukematch
+: 80117F38 0001 Third Person Mode In Multiplayer - All Players
+: 81117F42 01FF
+: 80117FD4 0001
+: 81117FDE 01FF
+: 80118070 0001
+: 8111807A 01FF
+: 8011810C 0001
+: 81118116 01FF

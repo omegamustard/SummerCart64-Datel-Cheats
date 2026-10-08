@@ -1,0 +1,37 @@
+# Mario Party (USA)
+
+: 800D62D3 000A Upper Left Char. Rolls 10
+: 800D6317 000A Upper Right Char. Rolls 10 
+: 800D635B 000A Lower Left Char. Rolls 10
+: 800D639F 000A Lower Right Char. Rolls 10 
+: 810F32B8 00FF Upper Left Char. 255 Coins 
+: 810F32BC 0032 Upper Left Char. 50 Stars 
+: 810F32E8 00FF Upper Right Char. 255 Coins 
+: 810F32EC 0032 Upper Right Char. 50 Stars 
+: 810F3318 00FF Lower Left Char. 255 Coins
+: 810F331C 0032 Lower Left Char. 50 Stars 
+: 810F3348 00FF Lower Right Char. 255 Coins
+: 810F334C 0032 Lower Right Char. 50 Stars
+: 810ED142 FFFF Lots of Coins (Use On Main Menu)
+: 8022623A 0054 Mecha Fly Guy Flies For 12 Minutes With A Little Control Stick Push
+: 8022623B FFFF Mecha Fly Guy Flies For 21 Seconds (191 Spins)
+: 811024F6 0700 Infinite Time (Coin Block Bash)
+: 810FA7EE 0710 Infinite Time (Coin Block Blitz)
+: 810FAD3A 0710 Infinite Time (Coin Shower Flower)
+: 800ED744 000D Infinite Time (Face Lift)
+: D00ECE09 0010 Press R Button To Reset Timer To 0 In Bobsled Run
+: 810FF34C 0000
+: D00ECE09 0010 Press R Button To Reset Timer To 60 Seconds In Bumper Balls
+: 810FCD16 003C
+: 811B571A 03E7 999 Coins in Minigame Stadium, 1st slot
+: 801008B3 0063 Have 99 Lives On Mini-Game Island
+: 801F37BB 0063 Infinite Lives On Minigame Island
+: 801F7979 0004 Infinite Lives on Minigame Island (Alternate)
+: 800F37BC 00FF Have 50 Mini Island Games Beaten
+: 800F37BD 00FF
+: 800F37BE 00FF
+: 800F37BF 00FF
+: 800F37C0 00FF
+: 800F37C1 00FF
+: 800F37C2 00FF
+: 800F37C3 00FF

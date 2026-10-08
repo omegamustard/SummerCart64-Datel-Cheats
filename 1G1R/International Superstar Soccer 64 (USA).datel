@@ -1,0 +1,9 @@
+# International Superstar Soccer 64 (USA)
+
+: 8009DC75 0001 Big Head Mode
+: 8011DDAF 0000 CPU Can Never Score
+: 88084EE3 0032 Away Team 50 Score
+: 88082D97 0032 Home Team 50 Score
+: D01AF971 0002 Infinite Character Creation Points
+: 801AF971 0063
+: 8009DC71 0001 Unlock All Star Teams

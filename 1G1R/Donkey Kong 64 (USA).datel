@@ -1,0 +1,116 @@
+# Donkey Kong 64 (USA)
+
+: F1000204 27BD Enable Code (Must Be On) (Cheat Device 3.0 Or Higher Needed!)
+: F1000206 FFE4
+: F1000208 AFA8
+: F100020A 0014
+: F100020C AFA9
+: F100020E 0018
+: F1000210 3C1A
+: F1000212 A05F
+: F1000214 375A
+: F1000216 AE00
+: F1000218 3C08
+: F100021A A07C
+: F100021C 3508
+: F100021E 5C00
+: F1000220 241B
+: F1000222 0040
+: F1000224 8D09
+: F1000226 0000
+: F1000228 237B
+: F100022A FFFF
+: F100022C AF49
+: F100022E 0000
+: F1000230 2108
+: F1000232 0004
+: F1000234 1F60
+: F1000236 FFFB
+: F1000238 235A
+: F100023A 0004
+: F100023C 8FA9
+: F100023E 0018
+: F1000240 8FA8
+: F1000242 0014
+: F1000244 27BD
+: F1000246 001C
+: F1000248 3C1A
+: F100024A A05F
+: F100024C 375A
+: F100024E AE00
+: F1000250 0340
+: F1000252 0008
+: F1000254 2400
+: 81000204 3C1A
+: 81000206 A05F
+: 81000208 375A
+: 8100020A AE00
+: 8100020C 0340
+: 8100020E 0008
+: 81000210 2400
+: FF5FAE00 0000 Enable Code (Must Be On) (Cheat Device 3.3 Or Higher Needed!)
+: 817FCC4C 041F Infinite Health
+: 807FCC45 0096 Infinite Ammo (Donkey Kong)
+: 807FCC41 0096 Infinite Oranges (Donkey Kong)
+: 807FCC49 0096 Infinite Banana Camera Film
+: 807FCC47 0096 Infinite Crystal Coconuts
+: 817FCC42 00C8 Infinite Homing Ammo
+: 813D95A4 0070 Moon Jump - DK Isles
+: 8066D226 0001 No Collisions (Walk Through Walls)
+: 8066D321 0001
+: 8074E77C 0005 Play as Krusha in Versus Mode
+: 8074E77C 0008 Play As Parrot - Do Not Pause Game
+: 8074E77C 0006 Play As Rhino - Do Not Pause Game
+: 807ED3AC 0040 Unlock all Characters (Save 1 Only)
+: 807ED3B4 0044
+: 807ED3BA 0020
+: 817FC956 00FF Donkey Kong Max Coins
+: 817FC958 00FF Donkey Kong Max Magical Instruments
+: 817FC9B4 00FF Diddy Kong Max Coins
+: 817FC9B6 00FF Diddy Kong Max Magical Instruments
+: 817FCA12 00FF Lanky Kong Max Coins
+: 817FCA14 00FF Lanky Kong Max Magical Instruments
+: 817FCA70 00FF Tiny Kong Max Coins
+: 817FCA72 00FF Tiny Kong Max Magical Instruments
+: 817FCACE 00FF Chunky Kong Max Coins
+: 817FCAD0 00FF Chunky Kong Max Magical Instruments
+: 817FC992 0005 Donkey Kong All Gold Bananas-Jungle Japes 
+: 817FC994 0005 Donkey Kong All Gold Bananas-Angry Aztec 
+: 817FC996 0005 Donkey Kong All Gold Bananas-Frantic Factory 
+: 817FC998 0005 Donkey Kong All Gold Bananas-Gloomy Galleon 
+: 817FC99A 0005 Donkey Kong All Gold Bananas-Fungi Forest 
+: 817FC99C 0005 Donkey Kong All Gold Bananas-Crystal Caves 
+: 817FC99E 0005 Donkey Kong All Gold Bananas-Creepy Castle 
+: 817FC9A0 0005 Donkey Kong All Gold Bananas-DK Isles
+: 817FC9F0 0005 Diddy Kong All Gold Bananas-Jungle Japes 
+: 817FC9F2 0005 Diddy Kong All Gold Bananas-Angry Aztec 
+: 817FC9F4 0005 Diddy Kong All Gold Bananas-Frantic Factory 
+: 817FC9F6 0005 Diddy Kong All Gold Bananas-Gloomy Galleon 
+: 817FC9F8 0005 Diddy Kong All Gold Bananas-Fungi Forest 
+: 817FC9FA 0005 Diddy Kong All Gold Bananas-Crystal Caves 
+: 817FC9FC 0005 Diddy Kong All Gold Bananas-Creepy Castle 
+: 817FC9FE 0005 Diddy Kong All Gold Bananas-DK Isles
+: 817FCA4E 0005 Lanky Kong All Gold Bananas-Jungle Japes 
+: 817FCA50 0005 Lanky Kong All Gold Bananas-Angry Aztec 
+: 817FCA52 0005 Lanky Kong All Gold Bananas-Frantic Factory 
+: 817FCA54 0005 Lanky Kong All Gold Bananas-Gloomy Galleon 
+: 817FCA56 0005 Lanky Kong All Gold Bananas-Fungi Forest 
+: 817FCA58 0005 Lanky Kong All Gold Bananas-Crystal Caves 
+: 817FCA5A 0005 Lanky Kong All Gold Bananas-Creepy Castle 
+: 817FCA5C 0005 Lanky Kong All Gold Bananas-DK Isles
+: 817FCAAC 0005 Tiny Kong All Gold Bananas-Jungle Japes 
+: 817FCAAE 0005 Tiny Kong All Gold Bananas-Angry Aztec 
+: 817FCAB0 0005 Tiny Kong All Gold Bananas-Frantic Factory 
+: 817FCAB2 0005 Tiny Kong All Gold Bananas-Gloomy Galleon 
+: 817FCAB4 0005 Tiny Kong All Gold Bananas-Fungi Forest 
+: 817FCAB6 0005 Tiny Kong All Gold Bananas-Crystal Caves 
+: 817FCAB8 0005 Tiny Kong All Gold Bananas-Creepy Castle 
+: 817FCABA 0005 Tiny Kong All Gold Bananas-DK Isles
+: 817FCB0A 0005 Chunky Kong All Gold Bananas-Jungle Japes 
+: 817FCB0C 0005 Chunky Kong All Gold Bananas-Angry Aztec 
+: 817FCB0E 0005 Chunky Kong All Gold Bananas-Frantic Factory 
+: 817FCB10 0005 Chunky Kong All Gold Bananas-Gloomy Galleon 
+: 817FCB12 0005 Chunky Kong All Gold Bananas-Fungi Forest 
+: 817FCB14 0005 Chunky Kong All Gold Bananas-Crystal Caves 
+: 817FCB16 0005 Chunky Kong All Gold Bananas-Creepy Castle 
+: 817FCB18 0005 Chunky Kong All Gold Bananas-DK Isles

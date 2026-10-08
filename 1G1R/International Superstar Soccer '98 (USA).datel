@@ -1,0 +1,11 @@
+# International Superstar Soccer '98 (USA)
+
+: 8109DC74 0001 Big Head Mode
+: 8108E220 0001 Have All Star Teams Unlocked
+: 801A9979 0032 Away Team 50 Score
+: 801A8AFD 0032 Home Team 50 Score
+: 801A9979 0000 Away Team Scores 0
+: 801A8AFD 0000 Home Team Scores 0
+: D03E0CB2 0001 Infinite Character Creation Points
+: 803E0CB2 0063
+: 801F283D 0003 Infinite Substitutions

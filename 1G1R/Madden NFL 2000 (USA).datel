@@ -1,0 +1,36 @@
+# Madden NFL 2000 (USA)
+
+: 80059198 00FF Enable Dodge City Stadium
+: 81070788 FFFF Have All Secret Codes In Menu
+: 8107078A FFFF
+: 8107078C FFFF
+: 8107078E FFFF
+: 810590A8 0001 Away Team Always Has The Ball
+: 810590AA 0000
+: 810590A8 0000 Home Team Always Has The Ball
+: 810590AA 0001
+: 810B955A 0001 Gain Time Outs Instead Of Losing Them - Both Teams
+: 810B9560 2400 Infinite Time Outs - Both Teams
+: 810B9558 2400 Infinite Time Outs - Both Teams (Alternate)
+: 8006FE6F 0003 Infinite Time-Outs Away Team
+: 8006CE7F 0003 Infinite Time-Outs Home Team
+: 8006EF6F 0000 No Time-Outs Away Team
+: 8006EC7F 0000 No Time-Outs Home Team
+: D00753DD 0020 P1 Press L For First Down
+: 81071B18 0001
+: D00753DD 0010 P1 Press R For Fourth Down
+: 81071B18 0004
+: D00753E5 0020 P2 Press L For First Down
+: 81071B18 0001
+: D00753E5 0010 P2 Press R For Fourth Down
+: 81071B18 0004
+: D00753ED 0020 P3 Press L For First Down
+: 81071B18 0001
+: D00753ED 0010 P3 Press R For Fourth Down
+: 81071B18 0004
+: D00753F5 0020 P4 Press L For First Down
+: 81071B18 0001
+: D00753F5 0010 P4 Press R For Fourth Down
+: 81071B18 0004
+: 810B65BC 2400 Stop Timer
+: 810B65B8 2400 Stop Timer (Alternate)
