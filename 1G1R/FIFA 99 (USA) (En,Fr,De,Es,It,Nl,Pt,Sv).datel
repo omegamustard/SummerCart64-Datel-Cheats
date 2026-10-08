@@ -1,3 +1,7 @@
 # FIFA 99 (USA) (En,Fr,De,Es,It,Nl,Pt,Sv)
 
 : 8039D437 0063 Infinite Creation Points
+: 800375B3 0000 Away Team Score 0
+: 800375B3 0032 Away Team Score 50
+: 800375B7 0000 Home Team Score 0
+: 800375B7 0032 Home Team Score 50
