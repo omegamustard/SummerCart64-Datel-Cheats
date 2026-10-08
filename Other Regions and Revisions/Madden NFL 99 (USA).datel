@@ -1,0 +1,97 @@
+# Madden NFL 99 (USA)
+
+: 8005FA47 0000 Away Team Scores 0
+: 8005FA47 0032 Away Team Scores 50
+: 8005CF87 0000 Home Team Scores 0
+: 8005CF87 0032 Home Team Scores 50
+: 81075D00 2400 Infinite Time Outs - Both Teams
+: 81075CF8 2400 Infinite Time Outs - Both Teams (Alternate)
+: 8005FA49 0003 Infinite Time Outs Away Team
+: 8005CF89 0003 Infinite Time Outs Home Team
+: 8005FA49 0000 No Time-Outs Away Team
+: 8005CF89 0000 No Time-Outs Home Team
+: D0066F2D 0020 P1 Press L For First Down
+: 810612E0 0001
+: D0066F2D 0020 P1 Press L For More Time To Choose Play
+: 80061245 0028
+: D0066F2D 0010 P1 Press R For Fourth Down
+: 810612E0 0004
+: D0066F35 0020 P2 Press L For First Down
+: 810612E0 0001
+: D0066F35 0020 P2 Press L For More Time To Choose Play
+: 80061245 0028
+: D0066F35 0010 P2 Press R For Fourth Down
+: 810612E0 0004
+: D0066F3D 0020 P3 Press L For First Down
+: 810612E0 0001
+: D0066F3D 0020 P3 Press L For More Time To Choose Play
+: 80061245 0028
+: D0066F3D 0010 P3 Press R For Fourth Down
+: 810612E0 0004
+: D0066F45 0020 P4 Press L For First Down
+: 810612E0 0001
+: D0066F45 0020 P4 Press L For More Time To Choose Play
+: 80061245 0028
+: D0066F45 0010 P4 Press R For Fourth Down
+: 810612E0 0004
+: 8107343C 2400 Stop Timer
+: 81075CFA 0001 Gain Time Outs Instead Of Losing Them - Both Teams
+: 50000801 0000 Enable All Stadiums (Cheat Device 3.0 or Higher Needed!)
+: 8004A7F0 00FF
+: 50000E01 0000 Enable All Teams (Cheat Device 3.0 or Higher Needed!)
+: 8004ADD0 00FF
+: 8104A7F0 FFFF Extra Stadiums
+: 8104A7F2 FFFF
+: 8104A7F4 FFFF
+: 8104A7F6 FFFF
+: 8104ADD0 FFFF Extra Teams
+: 8104ADD2 FFFF
+: 8104ADD4 FFFF
+: 8104ADD6 FFFF
+: 8104ADD8 FFFF
+: 8104ADDA FFFF
+: 8104ADDC FFFF
+: 8004A7F3 00FF Have '64 Browns Stadium
+: 8004A7F1 00FF Have '72 Dolphins Stadium
+: 8004A7F0 00FF Have '76 Radiers Stadium
+: 8004A7F7 00FF Have '79 Bucs Stadium
+: 8004A7F4 00FF Have '80 Oilers Stadium
+: 8004A7F6 00FF Have '91 Redskins Stadium
+: 8004A7F2 00FF Have EA Sports Stadium
+: 8004A7F5 00FF Have Tiburon Stadium
+: 8004ADDD 00FF Have '99 Browns Team
+: 8004ADD5 00FF Have 75th Anniversary Team
+: 8004ADD0 00FF Have AFC Team
+: 8004ADD7 00FF Have All 60's Team
+: 8004ADD8 00FF Have All 70's Team
+: 8004ADD9 00FF Have All 80's Team
+: 8004ADDA 00FF Have All 90's Team
+: 8004ADD4 00FF Have All-Time Stats Leaders Team
+: 8004ADDC 00FF Have EA Sports Team
+: 8004ADD6 00FF Have Equipment Managers Team
+: 8004ADD2 00FF Have Madden 1998 Team
+: 8004ADD3 00FF Have Madden All-Time Team
+: 8004ADD1 00FF Have NFC Team
+: 8004ADDB 00FF Have Tiburon Team
+: 8106B5F0 0C0F Cannot Be Tackled - Hold R
+: 8106B5F2 FFF4
+: 813FFFD0 8602
+: 813FFFD2 6F2C
+: 813FFFD4 3042
+: 813FFFD6 0010
+: 813FFFD8 1040
+: 813FFFDA 0002
+: 813FFFDC 3402
+: 813FFFDE 0003
+: 813FFFE0 3402
+: 813FFFE2 0001
+: 813FFFE4 8E23
+: 813FFFE6 0034
+: 813FFFE8 A062
+: 813FFFEA 0016
+: 813FFFEC 8C62
+: 813FFFEE 0014
+: 813FFFF0 03E0
+: 813FFFF2 0008
+: 813FFFF4 3C03
+: 813FFFF6 0040
