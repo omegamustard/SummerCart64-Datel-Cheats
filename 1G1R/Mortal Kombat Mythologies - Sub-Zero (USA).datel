@@ -1,0 +1,75 @@
+# Mortal Kombat Mythologies - Sub-Zero (USA)
+
+: 8009F742 0001 Always Invincible From Enemies
+: 810750EC 2402 Have All Moves
+: 810750EE 00FF
+: 8105C3C4 2402 Infinite Health & Ice
+: 8105C3C8 A462
+: 8105C3CA 0654
+: 8105C3D8 0810 Infinite Health
+: 8105C3DA 002B
+: 814000AC 0801
+: 814000AE 70F8
+: 814000B0 A07B
+: 814000B2 0655
+: 8104AC78 2400 Infinite Ice
+: 8104A2EC 2400
+: 8105A7F8 2400
+: 8104A6D4 2400
+: 8105A610 2400
+: 8010BCFF 0005 Infinite Lives
+: 8111200E FC9A Max Experience
+: 81074FF4 1000 Break Max Experience
+: 81032810 03E0 Disable Blocking
+: 81032812 0008
+: 81032814 2400
+: D009A913 0003 Can't Be Crushed - Earth Realm
+: 812F2D8C 1000
+: D009A913 0000 Can't Be Crushed By Pillars - Shaolin Temple
+: 812F03D0 1000
+: D009A913 0003 Can't Be Killed By Ceiling Spikes - Earth Realm
+: 812F33E4 1000
+: D009A913 0003
+: 812F3404 1000
+: D009A913 0000 Can't Die From Falling - Shaolin Temple
+: 812F1668 1000
+: 810529DC 1000 Enemies Can Be Shattered By A Roundhouse After 1 Ice Blast Instead Of 2
+: 8105296C 2400 Enemies Can Be Shattered By A Roundhouse Without Being Frozen
+: 810529DC 1000
+: 810509B8 1000 Enemies Can Be Shattered By An Uppercut After 1 Ice Blast Instead Of 2
+: 81050948 2400 Enemies Can Be Shattered By An Uppercut Without Being Frozen
+: 810509B8 1000
+: 8102DF20 2484 Enemies Can Be Shattered By Any Hit While Frozen
+: 8102DF22 0020
+: 810509A4 2400
+: 810509B8 1000
+: 8102DF20 2484 Enemies Can Be Shattered By Any Hit Without Being Frozen
+: 8102DF22 0020
+: 81050948 2400
+: 810509A4 2400
+: 810509B8 1000
+: D009A913 0005 Immune To Fire On The Floor - Fire Temple
+: 812EE6F0 1000
+: D009A913 0004 Immune To Hammers - Prison
+: 812EF2F0 1000
+: 8103B8E8 1000 Immune To Pendulums - Earth Realm
+: D009A913 0000 Immune To Pillars - Shaolin Temple
+: 812F029C 1000
+: D009A913 0005 Immune To Spinning Spikes - Fire Temple
+: 812EF1E0 1000
+: D009A913 0000 Start On Level 1 - Shaolin Temple
+: 8009A913 0000
+: D009A913 0000 Start On Level 2 - Wind Temple
+: 8009A913 0001
+: D009A913 0000 Start On Level 3 - Earth Temple
+: 8009A913 0002
+: D009A913 0000 Start On Level 4 - Water Temple
+: 8009A913 0003
+: D009A913 0000 Start On Level 5 - Fire Temple
+: 8009A913 0004
+: D009A913 0000 Start On Level 6 - Prison
+: 8009A913 0005
+: D009A913 0000 Start On Level 7 - Bridge
+: 8009A913 0006
+: D009A913 0000 Start On Level 8 - Fortress
+: 8009A913 0007

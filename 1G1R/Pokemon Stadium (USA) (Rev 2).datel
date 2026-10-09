@@ -1,0 +1,6 @@
+# Pokemon Stadium (USA) (Rev 2)
+
+: F100B7F0 2400 Master Code
+: F100B7F4 2400
+: 81285A18 03E7 P1 Infinite HP In Battle All Pokemon
+: 81286438 03E7 P2 Infinite HP In Battle All Pokemon

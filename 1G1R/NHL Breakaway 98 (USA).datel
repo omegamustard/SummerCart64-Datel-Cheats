@@ -1,0 +1,11 @@
+# NHL Breakaway 98 (USA)
+
+: F103D6DA 0120 Enable Code
+: F103D6EA 0120
+: 80053F38 0001 Activate Cheat Menu
+: 8113E5B6 270F Infinite Bonus Points
+: 81012750 2400 Stop Timer
+: 8012BBBD 0000 Away Team Score 0
+: 8012BBBD 0032 Away Team Score 50
+: 8012BBBC 0000 Home Team Score 0
+: 8012BBBC 0032 Home Team Score 50

@@ -1,0 +1,68 @@
+# Mission - Impossible (USA)
+
+: 810862B2 FFFF Infinite Health
+: 810862B4 0101 Invincibility
+: 800862B5 0001 Invincibility (Alternate)
+: 800A8EA7 0063 Infinite Ammo
+: 800A8EB7 0063
+: 800A8EC7 0063
+: 800A8ED7 0063
+: 800A8EE7 0063
+: 800A8EF7 0063
+: 80089373 0001 Infinite Ammo (Alternate)
+: 50000610 0000 Infinite Ammo All Guns
+: 800A8EA7 00FF
+: 800A8EB7 0063 Have Pistol With Infinite Ammo
+: 800A8EA7 0063 Infinite Ammo 9mm Hi-Power Pistol
+: 800A8EA7 0002
+: 8008AC34 0002 Can See All Level Pictures (But Can't Play Them)
+: 800898F0 0001 Debug Mode
+: 80089350 0001 Display Timer
+: 80093EF6 0017 Enable Run and Jump In Every Level
+: 81093D40 0063 Freeze All Timers
+: 81093D42 0063
+: 81093D44 0063
+: D10A2B68 0008 Walk Through Walls C-Up to Activate, C-Right to De-activate
+: 80093EF6 0007
+: D10A2B68 0001
+: 80093EF6 0017
+: D00A91C5 0020 L Button For Moon Jump
+: 81093D74 41C0
+: D00A91C5 0020
+: D0093EF5 0000
+: 81093F0A 3FFF
+: 800892A1 0004 Activate In-Game Cheat Big Feet Mode
+: 800892A1 0003 Activate In-Game Cheat Big Hands Mode
+: 800892A1 0005 Activate In-Game Cheat Big Hands, Head, & Feet
+: 800892A1 0001 Activate In-Game Cheat Big Head Mode
+: 800892A1 0002 Activate In-Game Cheat Huge Head Mode
+: 800892A1 0007 Activate In-Game Cheat Kid Mode
+: 800892A1 0006 Activate In-Game Cheat Tiny Mode
+: 800899C8 0001 Activate In-Game Cheat Turbo Mode
+: 8008A5C6 0001 Access All Levels
+: 8008A5DA 0001
+: 8008A602 0001
+: 8008A652 0001
+: 8008A666 0001
+: 8008A67A 0001
+: 8008A68E 0001
+: 8008A6A2 0001
+: 8008A6B6 0011
+: 8008A6CA 0021
+: 8008A6DE 0001
+: 8008A706 0011
+: 8008A71A 0041
+: 8008A72E 0021
+: 8008A742 0081
+: 8008A756 0001
+: 8008A76A 0081
+: 8008A77E 0001
+: 8008A7A6 0001
+: 8008A7CE 0001
+: 8008A7E2 0011
+: 8008A7F6 0021
+: 8008A846 0001
+: 8008AB2A 0001
+: 8008AB3E 0001
+: 8008AB52 0001
+: 8008AB66 0001

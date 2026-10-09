@@ -1,0 +1,42 @@
+# NHL Breakaway 99 (USA)
+
+: 81052B38 0100 Open Cheat Menu
+: 801297BD 0000 Away Team Score 0
+: 801297BD 0032 Away Team Score 50
+: 801297BC 0000 Home Team Score 0
+: 801297BC 0032 Home Team Score 50
+: 8112B278 0078 Infinite Penalty Time Away Team 1st Offender
+: 8112B254 0078 Infinite Penalty Time Home Team 1st Offender
+: 8112B278 0000 No Penalty Time Away Team 1st Offender
+: 8112B254 0000 No Penalty Time Home Team 1st Offender
+: D012B277 0078 2 Minute Minors Become 5 Minute Penalties Away
+: 8112B278 012C
+: D012B277 0079
+: 8112B278 0077
+: D012B255 0078 2 Minute Minors Become 5 Minute Penalties Home
+: 8112B254 012C
+: D012B255 0079
+: 8112B254 0077
+: D012B277 0078 2 Minute Penalties Are 10 Seconds Long Away
+: 8112B278 000A
+: D012B255 0078 2 Minute Penalties Are 10 Seconds Long Home
+: 8112B254 000A
+: 8822EA4F 0064 Max Acceleration Creation Points
+: 8822EA4A 0064 Max Aggression Creation Points
+: 8822EA49 0064 Max Checking Creation Points
+: 8822EA48 0064 Max Def. Awareness Creation Points
+: 8822EA42 0064 Max Endurance Creation Points
+: 8822EA51 0064 Max Left Glove Creation Points
+: 8822EA53 0064 Max Left Stick Creation Points
+: 8822EA47 0064 Max Off. Awareness Creation Points
+: 8822EA45 0064 Max Passing Creation Points
+: 8822EA55 0064 Max Puck Handle Creation Points
+: 8822EA56 0064 Max Reaction Creation Points
+: 8822EA52 0064 Max Right Glove Creation Points
+: 8822EA54 0064 Max Right Stick Creation Points
+: 8822EA4D 0064 Max Shooting Creation Points
+: 8822EA46 0064 Max Shot Power Creation Points
+: 8822EA44 0064 Max Skating Creation Points
+: 8822EA43 0064 Max Speed Creation Points
+: 8822EA4C 0064 Max Stick Handling Creation Points
+: 8822EA50 0064 Max Toughness Creation Points

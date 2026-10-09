@@ -1,0 +1,21 @@
+# Midway's Greatest Arcade Hits - Volume 1 (USA)
+
+: F105A8B0 2400 Enable Code (Must Be On)
+: F105032A 0120
+: 801694E9 0003 Defender Infinite Lives P1
+: 80169526 0003 Defender Infinite Lives P2
+: 801694EB 0003 Defender Infinite Smart Bombs P1
+: 80169528 0003 Defender Infinite Smart Bombs P2
+: 80169371 0005 Joust Infinite Lives P1
+: 80169372 0005
+: 8016937B 0003 Joust Infinite Lives P2
+: 8016937C 0003
+: 8016B10C 0003 Robotron-204 Infinite Lives P1
+: 8016B148 0003 Robotron-204 Infinite Lives P2
+: 8016D7C7 0003 RootBeer Tapper Infinite Lives (Both Players & P1 In 1-Player Game)
+: 8016D7CA 0003 RootBeer Tapper Infinite Lives P1 (2-Player Game)
+: 8016D7CE 0003 RootBeer Tapper Infinite Lives P2
+: 80169333 0003 Sinistar Infinite Bombs (Both Players)
+: 8016931C 0003 Sinistar Infinite Lives (Both Players)
+: 8016E69F 0009 Spy Hunter Infinite Time
+: 8116E6A0 0909

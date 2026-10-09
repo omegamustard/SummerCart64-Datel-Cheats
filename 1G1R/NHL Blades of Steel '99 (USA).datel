@@ -1,0 +1,19 @@
+# NHL Blades of Steel '99 (USA)
+
+: 80047CCE 0000 Away Team Scores 0
+: 80117C3C 0000
+: 80047CCE 0032 Away Team Scores 50
+: 80117C3C 0032
+: 80047C72 0000 Home Team Scores 0
+: 80117BA0 0000
+: 80047C72 0032 Home Team Scores 50
+: 80117BA0 0032
+: 80095582 0000 Infinite Creation Points
+: 81133288 2400 Stop Timer
+: 81133284 2400 Stop Timer (Alternate)
+: 81133280 1000 Stop Timer (Alternate 2)
+: 81133290 A602 Stop Timer (Alternate 3)
+: 81133292 0364
+: 81133278 2402 Stop Timer (Alternate 4)
+: 8113327A 2000
+: 81133286 0001 Timer Counts Up Instead Of Down

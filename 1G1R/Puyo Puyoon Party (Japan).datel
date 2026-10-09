@@ -1,0 +1,23 @@
+# Puyo Puyoon Party (Japan)
+
+: F10D2930 2400 Enable Code (Must Be On)
+: 800EBA09 001E All Modes - 30 Ojama Puyos P1
+: 800EC5F1 001E All Modes - 30 Ojama Puyos P2
+: D00EBA33 0015 All Modes - Enable Special Attacks P1
+: 800EBA33 0000
+: D00EC61B 0015 All Modes - Enable Special Attacks P2
+: 800EC61B 0000
+: 800EBA2F 0003 All Modes - Infinite Special Attacks P1
+: 800EC617 0003 All Modes - Infinite Special Attacks P2
+: 811A52DC 05F5 All Modes - Max Score P1
+: 811A52DE E0FF
+: 811A52EC 05F5 All Modes - Max Score P2
+: 811A52EE E0FF
+: 800EBA09 0000 All Modes - No Ojama Puyos P1
+: 800EC5F1 0000 All Modes - No Ojama Puyos P2
+: 800EBA2F 0000 All Modes - No Special Attacks P1
+: 800EC617 0000 All Modes - No Special Attacks P2
+: 800EBA3D 0000 All Modes - No Warning Icons P1
+: 800EC625 0000 All Modes - No Warning Icons P2
+: 801500A0 0012 Options - Complete Demo Viewer
+: 810131C2 C2E0 Replace Omake Menu With Unused Sound Test

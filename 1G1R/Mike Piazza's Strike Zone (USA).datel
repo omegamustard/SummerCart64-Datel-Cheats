@@ -1,0 +1,29 @@
+# Mike Piazza's Strike Zone (USA)
+
+: 801606B5 0000 Away Team Score 0
+: 801606B5 001E Away Team Score 30
+: 801606B7 0000 Home Team Score 0
+: 801606B7 001E Home Team Score 30
+: D01606D0 0000 1 Ball And You Walk
+: 801606D0 0003
+: D01606D2 0000 1 Out And You Are Out
+: 801606D2 0002
+: D01606D1 0000 1 Strike And You Are Out
+: 801606D1 0002
+: D01606D0 0000 2 Balls And You Walk
+: 801606D0 0002
+: D01606D2 0000 2 Outs And You Are Out
+: 801606D2 0001
+: D01606D1 0000 2 Strikes And You Are Out
+: 801606D1 0001
+: D01606D0 0000 3 Balls And You Walk
+: 801606D0 0001
+: 80195714 0001 Almost Always Hit A Home Run
+: 801606D0 0000 Infinite Balls
+: 801606D2 0000 Infinite Outs
+: 801606D1 0000 Infinite Strikes
+: 80195729 0001 Fast Game
+: 8019572A 0001 Slow Game
+: 80195727 0001 Increased Gravity
+: 80195726 0001 Low Gravity
+: 891606D2 0003 Press Cheat Device Button For Three Outs

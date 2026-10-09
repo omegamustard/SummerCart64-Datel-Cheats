@@ -1,0 +1,22 @@
+# NHL 99 (USA)
+
+: 801052B3 8010 Open Cheat Menu
+: 801297BC 0000 Home Team Score 0
+: 801297BC 0032 Home Team Score 50
+: 801297BD 0000 Away Team Score 0
+: 801297BD 0032 Away Team Score 50
+: 8112B254 0078 Infinite Penalty Time Home Team 1st Offender 
+: 8112B254 0000 No Penalty Time Home Team 1st Offender 
+: 8112B278 0078 Infinite Penalty Time Away Team 1st Offender 
+: 8112B278 0000 No Penalty Time Away Team 1st Offender
+: 800E73D9 00B0 Infinite Creation Points
+: 800E7374 00FF Character Creation Max Acceleration & Shot Quickness
+: 800E736D 00FF Character Creation Max Agility & Aggressiveness
+: 800E736C 00FF Character Creation Max Balance & Passing
+: 800E7370 00FF Character Creation Max Intensity
+: 800E7376 00FF Character Creation Max Off. Awareness & Defense Awareness
+: 800E7377 00FF Character Creation Max Shot Accuracy & Stick Handling
+: 800E7375 00FF Character Creation Max Shot Bias & Faceoffs
+: 800E7371 00FF Character Creation Max Shot Power & Checking
+: 800E736F 00FF Character Creation Max Size
+: 800E736E 00FF Character Creation Max Speed & Endurance

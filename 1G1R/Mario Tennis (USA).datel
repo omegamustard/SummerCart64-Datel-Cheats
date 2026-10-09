@@ -1,0 +1,43 @@
+# Mario Tennis (USA)
+
+: F1300290 3C01 Enable Code (Must Be On)
+: F1300292 A005
+: F1300298 03E0
+: F130029A 0008
+: F130029C AC20
+: F130029E 86A0
+: 810653C8 FFFF All Characters Available
+: 800653C8 0001 Have D.K. Jr.
+: 800653C8 0003 Have D.K. Jr. & Shy Guy
+: 800653C8 0002 Have Shy Guy
+: 810653CA FFFF All Characters Have 'Star' Option
+: 810653CC FFFF All Courts Available
+: 50000801 0000 All Tournaments Cleared (Cheat Device 3.0 Or Higher Needed!)
+: 81065278 EEEE
+: 8015344A 0000 P1 Score 0
+: 8015344A 0003 P1 Score 40
+: 8015344B 0000 P2 Score 0
+: 8015344B 0003 P2 Score 40
+: 80153533 0001 Hold R for Nice Serve 
+: D0066985 0010
+: 80153533 0000
+: 8015B16C 0055 Inept Opponent In Piranha Challenge/Everybody Misses
+: 8015B16B 0000 Infinite Bounces
+: 8106525C FFFF Max Rings In Ring Challenges
+: 810FF924 A267 When you play in Tournament mode, you will always play on the composition court
+: 8006527E 00EE All Tournaments Cleared Baby Mario
+: 80065284 00EE All Tournaments Cleared Birdo
+: 8006527C 00EE All Tournaments Cleared Boo
+: 8006527B 00EE All Tournaments Cleared Bowser
+: 80065283 00EE All Tournaments Cleared Daisy
+: 80065286 00EE All Tournaments Cleared DK Jr.
+: 8006527D 00EE All Tournaments Cleared Donkey Kong
+: 80065282 00EE All Tournaments Cleared Luigi
+: 8006527A 00EE All Tournaments Cleared Mario
+: 80065287 00EE All Tournaments Cleared Paratroopa
+: 80065279 00EE All Tournaments Cleared Peach
+: 80065285 00EE All Tournaments Cleared Shy Guy
+: 8006527F 00EE All Tournaments Cleared Toad
+: 80065280 00EE All Tournaments Cleared Waluigi
+: 80065281 00EE All Tournaments Cleared Wario
+: 80065278 00EE All Tournaments Cleared Yoshi

@@ -1,0 +1,12 @@
+# Mickey's Speedway USA (USA)
+
+: DE000400 0000 Enable Code (Must Be On)
+: 8101CFEC 2400 Auto drive - Use either this or Opponents don't drive
+: 8101CFEC 1000 Opponents don't drive
+: 50000301 0000 Always 1st & final time 00:00.00 All Levels
+: 801CE609 0000
+: 800273A4 0014 Debug Info Showing
+: 8100A264 0000 Show Debug Map Objects
+: 8100A266 102D
+: 81009E8C 0000
+: 81009E8E 702D

@@ -1,0 +1,85 @@
+# Quake II (USA)
+
+: F0000319 0078 Hi-Resolution Enable Code (Works With Or Without Code Gen)
+: 81085950 3F3B Stop Time
+: 8104AD2C 0800 Infinite Health And Armor
+: 8104AD2E 0018
+: 81000060 8E30
+: 81000062 0068
+: 81000064 241B
+: 81000066 03E7
+: 81000068 AE1B
+: 8100006A 0030
+: 8100006C 0801
+: 8100006E 2B4D
+: 81000070 AC9B
+: 81000072 0204
+: 800760FE 0002 Infinite Ammo
+: 81049F80 2400 Always Have Environmental Suit
+: 81047750 2402 Always Have Quad Damage
+: 81047752 0001
+: 8102E5E8 2400 Always Invincible
+: 81026BCC 2100 Always Silenced Shots
+: 810471B8 2100
+: 8102E124 0000 Armor Never Decreases [ASM]
+: 8102E126 0000
+: 81048EB4 0000 Infinite Ammo (BFG10K) [ASM]
+: 81048EB6 0000
+: 8104852C 0000 Infinite Ammo (Chaingun) [ASM]
+: 8104852E 0000
+: 810486E8 0000 Infinite Ammo (Grenade Launcher) [ASM]
+: 810486EA 0000
+: 81048AD8 0000 Infinite Ammo (Hyperblaster) [ASM]
+: 81048ADA 0000
+: 810481CC 0000 Infinite Ammo (Machine Gun) [ASM]
+: 810481CE 0000
+: 81048C64 0000 Infinite Ammo (Railgun) [ASM]
+: 81048C66 0000
+: 810488C4 0000 Infinite Ammo (Rocket Launcher) [ASM]
+: 810488C6 0000
+: 81047CFC 0000 Infinite Ammo (Shotgun) [ASM]
+: 81047CFE 0000
+: 81047F78 0000 Infinite Ammo (Super Shotgun) [ASM]
+: 81047F7A 0000
+: 8104A718 0000 Screen Doesn't Flash When Taking Damage [ASM]
+: 8104A71A 0000
+: 8104A73C 0000
+: 8104A73E 0000
+: 8104A930 0000 View Doesn't Tilt When Taking Damage [ASM]
+: 8104A932 0000
+: 8104A97C 0000
+: 8104A97E 0000
+: 8104A98C 0000
+: 8104A98E 0000
+: 811624DA 0190 P1 Multiplayer Infinite Health
+: 801832A3 0064 P1 Multiplayer Infinite Armor
+: 8018452F 0064 P1 Multiplayer Infinite Ammo For Shotgun & Super Shotgun
+: 8018453B 0064 P1 Multiplayer Infinite Ammo For Rocket Launcher
+: 80184543 0064 P1 Multiplayer Infinite Ammo For Grenade Launcher
+: 80184537 0064 P1 Multiplayer Infinite Ammo For Hyper Blaster & BFG
+: 8018453F 0064 P1 Multiplayer Infinite Ammo For Railgun
+: 80184533 0064 P1 Multiplayer Infinite Ammo For Machine Gun & Chain Gun
+: 811626FE 0190 P2 Multiplayer Infinite Health
+: 80183607 0064 P2 Multiplayer Infinite Armor
+: 8018360F 0064 P2 Multiplayer Infinite Ammo For Railgun
+: 80183653 0064 P2 Multiplayer Infinite Ammo For Rocket Launcher
+: 80183657 0064 P2 Multiplayer Infinite Ammo For Grenade Launcher
+: 80183643 0064 P2 Multiplayer Infinite Ammo For Shotgun & Super Shotgun
+: 8018364B 0064 P2 Multiplayer Infinite Ammo For Hyper Blaster & BFG
+: 80183647 0064 P2 Multiplayer Infinite Ammo For Machine Gun & Chain Gun
+: 81162922 0190 P3 Multiplayer Infinite Health
+: 80185E07 0064 P3 Multiplayer Infinite Armor
+: 80185E47 0064 P3 Multiplayer Infinite Ammo For Shotgun & Super Shotgun
+: 80185E4F 0064 P3 Multiplayer Infinite Ammo For Hyper Blaster & BFG
+: 80185E57 0064 P3 Multiplayer Infinite Ammo For Railgun
+: 80185E53 0064 P3 Multiplayer Infinite Ammo For Rocket Launcher
+: 80185E5B 0064 P3 Multiplayer Infinite Ammo For Grenade Launcher
+: 80185E4B 0064 P3 Multiplayer Infinite Ammo For Machine Gun & Chain Gun
+: 81163D96 0190 P4 Multiplayer Infinite Health
+: 8018616B 0064 P4 Multiplayer Infinite Armor
+: 801861AB 0064 P4 Multiplayer Infinite Ammo For Shotgun & Super Shotgun
+: 801861B3 0064 P4 Multiplayer Infinite Ammo For Hyperblaster & BFG
+: 801861AF 0064 P4 Multiplayer Infinite Ammo For Machine Gun & Chain Gun
+: 801861BB 0064 P4 Multiplayer Infinite Ammo For Railgun
+: 801861B7 0064 P4 Multiplayer Infinite Ammo For Rocket Launcher
+: 801861BF 0064 P4 Multiplayer Infinite Ammo For Grenade Launcher
