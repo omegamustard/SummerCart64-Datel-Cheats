@@ -1,0 +1,34 @@
+# Goemon - Mononoke Sugoroku (Japan)
+
+: 800B9338 0008 All Stages Open
+: 8011E6FB 0007 Debug Menu After Logos
+: 800C0FD9 000F Have All Flags P1
+: 800C14E9 000F Have All Flags P2
+: 800C19F9 000F Have All Flags P3
+: 800C0FD9 0000 Have No Flags P1
+: 800C14E9 0000 Have No Flags P2
+: 800C19F9 0000 Have No Flags P3
+: 810C0BF6 270F Infinite HP P1
+: 810C1106 270F Infinite HP P2
+: 810C1616 270F Infinite HP P3
+: 810C0BFE 270F Max Money P1
+: 810C110E 270F Max Money P2
+: 810C161E 270F Max Money P3
+: 810C0BFE 0000 No Money P1
+: 810C110E 0000 No Money P2
+: 810C161E 0000 No Money P3
+: 810C0BF6 0000 No HP P1
+: 810C1106 0000 No HP P2
+: 810C1616 0000 No HP P3
+: 50000308 0000 In Battle Left Mononoke Stats High - Requires Expansion Pak
+: 8115191A 03E7
+: 50000308 0000 In Battle Right Mononoke Stats Low - Requires Expansion Pak
+: 8115191E 0000
+: 5000EF02 0000 Save File 1: All Cards - Requires Expansion Pak
+: 810B97C0 0909
+: 5000EF02 0000 Save File 2: All Cards - Requires Expansion Pak
+: 810B9DC0 0909
+: 5000EF02 0000 Save File 3: All Cards - Requires Expansion Pak
+: 810BA3C0 0909
+: 5000EF02 0000 Save File 4: All Cards - Requires Expansion Pak
+: 810BA9C0 0909

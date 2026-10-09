@@ -1,0 +1,132 @@
+# Hybrid Heaven (USA)
+
+: F102C164 2400 Enable Code (Must Be On)
+: 50005306 0000 Have All Moves (Cheat Device 3.0 Or Higher Needed!)
+: 81183CE0 0100
+: 8117DC42 270F Infinite Health
+: 8117DC40 270F Max Health
+: 801BC043 00FF Max Power
+: 8137A2C0 2400 Don't Take Most Damage
+: 811C2672 03FC Full Power and Max Combos In Fights
+: D005CE51 0020 L Button For Moon Jump
+: 8124A0B0 3FCB
+: 801CC8C4 0005 Editor's Cheat Level-Battle Select - Press A on Main Menu
+: 8017E138 0063 Infinite Code Key
+: 8017E158 0063 Infinite Cold Unit
+: 8017E148 0063 Infinite Defuser
+: 8017E150 0063 Infinite Flame Unit
+: 8017E168 0063 Infinite Impulse Unit
+: 8017E160 0063 Infinite Invisible Unit
+: 8017E140 0063 Infinite Map Viewer
+: 8017E130 0063 Infinite Memory Card
+: 8017E058 0063 Infinite Battle Charger L
+: 8017E050 0063 Infinite Battle Charger M
+: 8017E048 0063 Infinite Battle Charger S
+: 8017E060 0063 Infinite Battle Charger X
+: 8017E088 0063 Infinite Defence Raiser
+: 8017E018 0063 Infinite Life Chargers L
+: 8017E010 0063 Infinite Life Chargers M
+: 8017E008 0063 Infinite Life Chargers S
+: 8017E020 0063 Infinite Life Chargers X
+: 8017E080 0063 Infinite Offence Raiser
+: 8017E070 0063 Infinite Poison Restorer
+: 8017E098 0063 Infinite Ring Eraser
+: 8017E090 0063 Infinite Speed Raiser
+: 8017E068 0063 Infinite Speed Restorer
+: 8017E038 0063 Infinite Stamina Charger L
+: 8017E030 0063 Infinite Stamina Charger M
+: 8017E040 0063 Infinite Stamina Charger X
+: 8017E028 0063 Infinite Stamina Chargers S
+: 8017E078 0063 Infinite Super Restorer
+: 8017E120 0063 Infinite Defence Drainer
+: 8017E0F8 0063 Infinite Defence Enhancer
+: 8017E0A0 0063 Infinite Flame Shot
+: 8017E0A8 0063 Infinite Flame Shot SP
+: 8017E0D0 0063 Infinite Hurricane Shot
+: 8017E0D8 0063 Infinite Hurricane Shot SP
+: 8017E0B0 0063 Infinite Ice Shot
+: 8017E0B8 0063 Infinite Ice Shot SP
+: 8017E0E0 0063 Infinite Ion Shot
+: 8017E0E8 0063 Infinite Ion Shot SP
+: 8017E118 0063 Infinite Offence Drainer
+: 8017E0F0 0063 Infinite Offence Enhancer
+: 8017E0C0 0063 Infinite Poison Shot
+: 8017E0C8 0063 Infinite Poison Shot SP
+: 8017E110 0063 Infinite Power Booster
+: 8017E128 0063 Infinite Speed Drainer
+: 8017E100 0063 Infinite Speed Enhancer
+: 8017E108 0063 Infinite Stamina Booster
+: 8117DC88 0063 Level 99
+: 8117DCB8 270F Max Body-Damage Count
+: 8117DC5E 270F Max Body-Defense
+: 8117DCAA 270F Max Body-Hit Count
+: 8117DC52 270F Max Body-Offense
+: 8117DC82 270F Max Defense
+: 8117DCB6 270F Max Head-Damage Count
+: 8117DC5C 270F Max Head-Defense
+: 8117DCA8 270F Max Head-Hit Count
+: 8117DC50 270F Max Head-Offense
+: 8117DCBC 270F Max Left Arm-Damage Count
+: 8117DC62 270F Max Left Arm-Defense
+: 8117DCAE 270F Max Left Arm-Hit Count
+: 8117DC56 270F Max Left Arm-Offense
+: 8117DCC0 270F Max Left Leg-Damage Count
+: 8117DC66 270F Max Left Leg-Defense
+: 8117DAB2 270F Max Left Leg-Hit Count
+: 8117DC5A 270F Max Left Leg-Offense
+: 8117DC80 270F Max Offense
+: 8117DC84 270F Max Reflex
+: 8117DCBA 270F Max Right Arm-Damage Count
+: 8117DC60 270F Max Right Arm-Defense
+: 8117DCAC 270F Max Right Arm-Hit Count
+: 8117DC54 270F Max Right Arm-Offense
+: 8117DCBE 270F Max Right Leg-Damage Count
+: 8117DC64 270F Max Right Leg-Defense
+: 8117DAB0 270F Max Right Leg-Hit Count
+: 8117DC58 270F Max Right Leg-Offense
+: 8117DC86 270F Max Speed
+: 8117DC48 270F Max Stamina
+: 50000E06 0000 Have All Moves At Skill Level 250
+: 80188F63 00FA
+: 50001306 0000
+: 80188FBD 00FA
+: 50003006 0000
+: 80189047 00FA
+: 8117DC48 270F Infinite Max Body Stats
+: 8117DC88 0063
+: 50000C02 0000
+: 8117DC50 270F
+: 50000502 0000
+: 8117DC80 270F
+: 50000602 0000
+: 8117DCA8 270F
+: 50000602 0000
+: 8117DCB6 270F
+: 50000D10 0000 Infinite Refresh Items
+: 8017E008 0063
+: 50000C10 0000
+: 8017E010 0063
+: 50000610 0000 Infinite Weapons & Items
+: 8017E0D0 0063
+: 50000610 0000
+: 8017E0D8 0063
+: 80063A5C 0000 Resident Evil Mode - Use on New Game
+: 8009CF99 0000
+: 8009D075 0000
+: 801BBEA4 0000
+: D105CE50 2020 L + Z For Debug Info, R + Z to Disable
+: 8101DFFC 0800
+: D105CE50 2020
+: 8101DFFE 6C81
+: D105CE50 2020
+: 8101E000 0000
+: D105CE50 2020
+: 8101E002 0000
+: D105CE50 2010
+: 8101DFFC 27BD
+: D105CE50 2010
+: 8101DFFE FED0
+: D105CE50 2010
+: 8101E000 AFB1
+: D105CE50 2010
+: 8101E002 001C

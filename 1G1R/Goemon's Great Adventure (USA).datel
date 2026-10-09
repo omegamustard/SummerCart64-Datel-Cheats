@@ -1,0 +1,35 @@
+# Goemon's Great Adventure (USA)
+
+: EE000000 0000 Enable Code [Must Be On] (Cheat Device 3.20 Or Higher Needed!)
+: 8119ADF2 0320 Both RoBots Infinite Power
+: 8119ADF6 0320
+: 81088210 0103 Have Sasuke
+: 81088210 0104 Have Sasuke & Yae
+: 8019ADDF 0064 Impacts' Energy Gauge Always Full
+: 80088285 0003 Infinite Blue Stuff P1 ?
+: 8008828F 0003 Infinite Blue Stuff P2 ?
+: 8019ADEF 0096 Infinite Bullets (Both Impacts)
+: 8119ADEE 03E7 Infinite Coins P1 (After First Boss)
+: 81088286 03E7 Infinite Gold P1
+: 81088290 03E7 Infinite Gold P2
+: 8019ADF3 00AB Infinite Health For Impact - Sometimes Freezes
+: 8119ADF6 01F4 Infinite Health For Miss Impact
+: 80088284 0003 Infinite Health P1
+: 8008828E 0003 Infinite Health P2
+: 80170B39 0001 Infinite Jumps P1
+: 80088283 0003 Infinite Lives P1
+: 8008828D 0003 Infinite Lives P2
+: D00C48A5 0012 Invincible P1 (R+C-Left) - Use in Levels only
+: 80170AEB 0080
+: D00C48A5 0008 Moon Jump - Press C-Up
+: 80170A70 0040
+: 50002D02 0000 Open All Levels (Cheat Device 3.0 Or Higher Needed!)
+: 810882AA 0303
+: D00C48A5 0002 Walk Through Walls (C-Left=On C-Right=Off) - Use in Levels only
+: 80170AB8 0001
+: D00C48A5 0002
+: 80170ABC 0042
+: D00C48A5 0001
+: 80170AB8 0041
+: D00C48A5 0001
+: 80170ABC 0041

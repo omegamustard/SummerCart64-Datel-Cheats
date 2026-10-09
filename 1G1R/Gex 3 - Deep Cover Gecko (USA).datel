@@ -1,0 +1,80 @@
+# Gex 3 - Deep Cover Gecko (USA)
+
+: 810A54D8 0005 Infinite Health
+: 800A54D9 0004 Infinite Health (Alternate)
+: 810A54D6 0064 Infinite Lives
+: 800A682F 0004 Always DracuGEX/Little Red Riding Gex
+: 800A682F 0002 Always ElectroGEX/HercuGEX
+: 8110896E 0001 Crazy Tail
+: 810A55C6 A400 Extra Options/Invulnerability Cheats Enabled
+: 810A54E6 0063 Have 99 Coins
+: 810A54DE 0063 Have 99 Flies
+: 810A54E2 0063 Have 99 Paws
+: 810A54EA 0063 Have 99 Remotes
+: D00A54EB 0000 Start With 50 Remotes
+: 800A54EB 0032
+: D00A54DF 0000 Extra Flies
+: 800A54DF 0032
+: 810A54F4 FFFF Have All Special Remotes
+: 810A54F6 FFFF
+: 810493FE 007F Jump in Midair
+: 8104940A 010C
+: 810493F6 0000
+: D00A6489 0020 L Button For Moon Jump (In Air)
+: 810A6806 0018
+: 81125A86 0320 Infinite Air Clueless in Seattle
+: 8111A856 0320 Infinite Air The Abyssmal
+: 8112F296 0320 Infinite Air Totally Scrooged
+: 810F6D22 1C20 Infinite Time Cheesy Rider
+: 810F40EA 0078 Infinite Time Gextreme Sports/Peg Leg Polka
+: 810F58FA 0078 Infinite Time Marsupial Madness
+: 810F539A 1C20 Infinite Time Temple of Gloom
+: 810F54F2 2328 Infinite Time The Abyssmal
+: 810F4B8A 0078 Infinite Time True Grits
+: 810F4A32 0078 Infinite Time War And Pieces
+: 810F4CE2 0078 Infinite Time What A Crock!
+: 810A5542 0007 All Bonus Coins Beanstalker
+: 810A5536 0007 All Bonus Coins Clueless in Seattle
+: 810A553E 0007 All Bonus Coins Cutcheese Island
+: 810A5540 0007 All Bonus Coins Et Tu Gecko?
+: 810A5568 0007 All Bonus Coins Funky Town
+: 810A5538 0007 All Bonus Coins Holy Moses!
+: 810A5564 0007 All Bonus Coins Lake Flaccid
+: 810A5562 0007 All Bonus Coins Mission Control
+: 810A5546 0007 All Bonus Coins My Three Goons
+: 810A5566 0007 All Bonus Coins Slappy Valley
+: 810A5548 0007 All Bonus Coins Superzeroes
+: 810A553C 0007 All Bonus Coins The Organ Trail
+: 810A5534 0007 All Bonus Coins Totally Scrooged
+: 810A553A 0007 All Bonus Coins War is Heck
+: 810A5544 0007 All Bonus Coins When Sushi Goes Bad
+: 810A5506 03FF All Paw Coins Beanstalker
+: 810A54FA 03FF All Paw Coins Clueless in Seattle
+: 810A5502 03FF All Paw Coins Cutcheese Island
+: 810A5504 03FF All Paw Coins Et Tu Gecko?
+: 810A552C 03FF All Paw Coins Funky Town
+: 810A54FC 03FF All Paw Coins Holy Moses!
+: 810A5528 03FF All Paw Coins Lake Flaccid
+: 810A5526 03FF All Paw Coins Mission Control
+: 810A550A 03FF All Paw Coins My Three Goons
+: 810A552A 03FF All Paw Coins Slappy Valley
+: 810A550C 03FF All Paw Coins Superzeroes
+: 810A5500 03FF All Paw Coins The Organ Trail
+: 810A54F8 03FF All Paw Coins Totally Scrooged
+: 810A54FE 03FF All Paw Coins War is Heck
+: 810A5508 03FF All Paw Coins When Sushi Goes Bad
+: 800A54B7 000F All Remotes Beanstalker
+: 800A54B1 000F All Remotes Clueless in Seattle
+: 800A54B5 000F All Remotes Cutcheese Island
+: 800A54B6 000F All Remotes Et Tu Gecko?
+: 800A54CA 0001 All Remotes Funky Town
+: 800A54B2 000F All Remotes Holy Moses!
+: 800A54C8 0001 All Remotes Lake Flaccid
+: 800A54C7 0003 All Remotes Mission Control
+: 800A54B9 000F All Remotes My Three Goons
+: 800A54C9 0001 All Remotes Slappy Valley
+: 800A54BA 000F All Remotes Superzeroes
+: 800A54B4 000F All Remotes The Organ Trail
+: 800A54B0 000F All Remotes Totally Scrooged
+: 800A54B3 000F All Remotes War is Heck
+: 800A54B8 000F All Remotes When Sushi Goes Bad

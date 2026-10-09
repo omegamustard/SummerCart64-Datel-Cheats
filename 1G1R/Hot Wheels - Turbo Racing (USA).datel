@@ -1,0 +1,24 @@
+# Hot Wheels - Turbo Racing (USA)
+
+: F10E4D20 2400 Enable Code (Must Be On)
+: 81124A0A FFFF Have All Cars & Cups P1
+: 81124B4A FFFF Have All Cars & Cups P2
+: 81124A04 FFFF Have All Special Cars P1
+: 81124A06 FFFF
+: 81124B44 FFFF Have All Special Cars P2
+: 81124B46 FFFF
+: 81124A0E FFFF Have All Tracks
+: 81093290 2400 Infinite Turbos (Both Players)
+: 80118CFC 000A Infinite Turbos P1
+: 80119478 000A Infinite Turbos P2
+: 81124A16 00FF Max Tournament Points
+: 81118A1C 4889 P1 Headlights Always On
+: D0137FE5 0020 P1 Press L For Time Is Always 0:00:00
+: 810F3900 0000
+: D0137FE5 0020
+: 810F3902 0000
+: D0137FED 0020 P2 Press L For Time Is Always 0:00:00
+: 810F3900 0000
+: D0137FED 0020
+: 810F3902 0000
+: 810A76D4 2400 Stop Timer

@@ -1,0 +1,106 @@
+# Hexen (USA)
+
+: 8113DB5A 03FF P1 ???? Always on
+: 8013DB77 00FF P1 Always Have Axe-Staff-Frost Shards
+: 8013DB75 00FF P1 Always Have Fist-Mace-Staff
+: 8013DB79 00FF P1 Always Have Hammer-Firestorm-Arc of Death
+: 8013DB7B 00FF P1 Always Have Quietus-Wraithverge-Bloodscourge
+: 8113DB58 03FF P1 Boots of Speed Always On
+: 8113DB5C 07FF P1 Have All Keys
+: 8113DB4C 03FF P1 Icon of The Defender Always On
+: 50002004 0000 P1 Infinite Ammo-Items (Cheat Device 3.0 or Higher Needed!)
+: 8013DAC3 0064
+: 8013DB7D 00CF P1 Infinite Blue Mana
+: 8013DB7F 00CF P1 Infinite Green Mana
+: 8113DB4C FFFF P1 Invincibility
+: 81136696 FFFF P1 Open All Options in Cheat Menu
+: 80136773 0005 P1 Open Main Cheat Menu
+: 8013DB53 00FF P1 Wings of Wrath Always On
+: 8013DB75 00FF P1 Have All Weapons
+: 8013DB79 00FF
+: 8013DB7B 00FF
+: 8013DB77 00FF
+: 8013DAB1 0019 P1 Have All Armor
+: 8013DAB5 0014
+: 8013DAB9 0014
+: 8013DABD 0014
+: 8113DCF6 03FF P2 ???? Always On
+: 8013DD13 00FF P2 Always Have Axe-Staff-Frost Shards
+: 8013DD11 00FF P2 Always Have Fist-Mace-Staff
+: 8013DD15 00FF P2 Always Have Hammer-Firestorm-Arc of Death
+: 8013DD17 00FF P2 Always Have Quietus-Wraithverge-Bloodscourge
+: 8113DCF4 03FF P2 Boots Of Speed Always On
+: 8113DCF8 07FF P2 Have All Keys
+: 8113DCE8 03FF P2 Icon Of The Defender Always On
+: 8013DD19 00CF P2 Infinite Blue Mana
+: 8013DD1B 00CF P2 Infinite Green Mana
+: 8113DCE8 FFFF P2 Invincibility
+: 8113DCEE 03FF P2 Wings Of Wraith Always On
+: 8013DD11 00FF P2 Have All Weapons
+: 8013DD13 00FF
+: 8013DD15 00FF
+: 8013DD17 00FF
+: 8113DE92 03FF P3 ???? Always On
+: 8013DEAF 00FF P3 Always Have Axe-Staff-Frost Shards
+: 8013DEAD 00FF P3 Always Have Fist-Mace-Staff
+: 8013DEB1 00FF P3 Always Have Hammer-Firestorm-Arc of Death
+: 8013DEB3 00FF P3 Always Have Quietus-Wraithverge-Bloodscourge
+: 8113DE90 03FF P3 Boots Of Speed Always On
+: 8113DE94 07FF P3 Have All Keys
+: 8113DE84 03FF P3 Icon Of The Defender Always On
+: 8013DEB5 00CF P3 Infinite Blue Mana
+: 8013DEB7 00CF P3 Infinite Green Mana
+: 8113DE84 FFFF P3 Invincibility
+: 8113DE8A 03FF P3 Wings Of Wraith Always On
+: 8013DEAD 00FF P3 Have All Weapons
+: 8013DEAF 00FF
+: 8013DEB1 00FF
+: 8013DEB3 00FF
+: 8113E02E 03FF P4 ???? Always On
+: 8013E04B 00FF P4 Always Have Axe-Staff-Frost Shards
+: 8013E049 00FF P4 Always Have Fist-Mace-Staff
+: 8013E04D 00FF P4 Always Have Hammer-Firestorm-Arc of Death
+: 8013E04F 00FF P4 Always Have Quietus-Wraithverge-Bloodscourge
+: 8113E02C 03FF P4 Boots Of Speed Always On
+: 8113E030 07FF P4 Have All Keys
+: 8113E020 03FF P4 Icon Of The Defender Always On
+: 8013E051 00CF P4 Infinite Blue Mana
+: 8013E053 00CF P4 Infinite Green Mana
+: 8113E020 FFFF P4 Invincibility
+: 8113E026 03FF P4 Wings Of Wraith Always On
+: 8013E049 00FF P4 Have All Weapons
+: 8013E04B 00FF
+: 8013E04D 00FF
+: 8013E04F 00FF
+: 8013DAC3 00FF Infinite Items 1st Position
+: 8013DAC7 00FF Infinite Items 2nd Position
+: 8013DACB 00FF Infinite Items 3rd Position
+: 8013DACF 00FF Infinite Items 4th Position
+: 8013DAD3 00FF Infinite Items 5th Position
+: 8013DAD7 00FF Infinite Items 6th Position
+: 8013DADB 00FF Infinite Items 7th Position
+: 8013DADF 00FF Infinite Items 8th Position
+: 8013DAE3 00FF Infinite Items 9th Position
+: 8013DAE7 00FF Infinite Items 10th Position
+: 8013DAEB 00FF Infinite Items 11th Position
+: 8013DAEF 00FF Infinite Items 12th Position
+: 8013DAF3 00FF Infinite Items 13th Position
+: 8013DAF7 00FF Infinite Items 14th Position
+: 8013DAFB 00FF Infinite Items 15th Position
+: 8013DAFF 00FF Infinite Items 16th Position
+: 8013DB03 00FF Infinite Items 17th Position
+: 8013DB07 00FF Infinite Items 18th Position
+: 8013DB0B 00FF Infinite Items 19th Position
+: 8013DB0F 00FF Infinite Items 20th Position
+: 8013DB13 00FF Infinite Items 21st Position
+: 8013DB17 00FF Infinite Items 22nd Position
+: 8013DB1B 00FF Infinite Items 23rd Position
+: 8013DB1F 00FF Infinite Items 24th Position
+: 8013DB23 00FF Infinite Items 25th Position
+: 8013DB27 00FF Infinite Items 26th Position
+: 8013DB2B 00FF Infinite Items 27th Position
+: 8013DB2F 00FF Infinite Items 28th Position
+: 8013DB33 00FF Infinite Items 29th Position
+: 8013DB37 00FF Infinite Items 30th Position
+: 8013DB3B 00FF Infinite Items 31st Position
+: 8013DB3F 00FF Infinite Items 32nd Position

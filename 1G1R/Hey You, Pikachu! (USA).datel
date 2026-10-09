@@ -1,0 +1,14 @@
+# Hey You, Pikachu! (USA)
+
+: F1057550 2400 Enable Code Generator
+: F10560EC 1000
+: F10560E0 2400
+: F104DC40 1000
+: F1057550 2400 Master Code
+: F1052328 2400 Double Speed Game
+: 810EF792 FFFF Max Pikachu Points
+: 800EF79F 00FF Max Voice
+: 800F256B 0000 Press Start Screen's Background House
+: 800F256B 0001 Press Start Screen's Background Green Forest
+: 800F256B 0002 Press Start Screen's Background Beach
+: 800F256B 0003 Press Start Screen's Background Ochre Forest
