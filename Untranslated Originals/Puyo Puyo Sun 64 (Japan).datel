@@ -1,0 +1,29 @@
+# Puyo Puyo Sun 64 (Japan)
+
+: D0162FEB 0001 1P Mode - Stage Select Satan, Arle Game
+: 80162FEB 000D
+: D0162FEB 0001 1P Mode - Stage Select Satan, Schezo Game
+: 80162FEB 0008
+: D0162FEB 0001 1P Mode - Stage Select Car-kun, Arle Game
+: 80162FEB 000E
+: D0162FEB 0001 1P Mode - Stage Select Car-kun, Schezo Game
+: 80162FEB 0009
+: 801632AF 0000 1P Mode - Total Continues = 0
+: 801632C7 0000
+: 801632E7 0063 Endless Mode - Player Level 99 P1
+: 801632EB 0063 Endless Mode - Player Level 99 P2
+: D0163A2B 0001 Instant 7th Step of Chain P1
+: 80163A2B 0007
+: D0163E5B 0001 Instant 7th Step of Chain P2
+: 80163E5B 0007
+: 811632CC 05F5 Maximum Score P1
+: 811632CE E0FF
+: 811632D0 05F5 Maximum Score P2
+: 811632D2 E0FF
+: 80164EA3 0000 No Warning Icons P1
+: 80164EA7 0000 No Warning Icons P2
+: 50000402 0000 Nazo Puyo Mode - All Practice Stages Cleared
+: 811631E8 FFFF
+: 8016320B 0007 Options - Complete Demo Viewer
+: 8116320C FFFF
+: 8116320E FFFF

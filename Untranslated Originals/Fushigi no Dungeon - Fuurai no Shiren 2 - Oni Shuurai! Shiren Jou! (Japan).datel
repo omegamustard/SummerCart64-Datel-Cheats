@@ -1,0 +1,34 @@
+# Fushigi no Dungeon - Fuurai no Shiren 2 - Oni Shuurai! Shiren Jou! (Japan)
+
+: F1032240 2400 Enable Code (Must Be On)
+: F102AEE0 1000 Regional lock bypass
+: F106BFF8 1000
+: F1033C14 1000
+: F1129C78 1000
+: F106E614 1000
+: 810F0074 3402 1 Hit Kill - Use this or Play without Enemies
+: 810F0076 0001
+: 810F0078 A620 Play without Enemies
+: 811C3668 0003 Full Stomach
+: 811C366A 0D40
+: 811C366C 0003
+: 811C366E 0D40
+: 50000502 0000 Have All Equipment
+: 81142920 FFFF
+: 50000A02 0000 Infinite Items
+: 811C9BD8 6464
+: 811C3664 0098 Infinite Gold
+: 811C3666 967F
+: 811C3608 03E7 Infinite HP / Max HP
+: 811C360A 03E7
+: 811C3612 6300 Max Experience Level
+: 811C3658 0098 Max Experience Points
+: 811C365A 967F
+: 811C360C 0063 Max Strength
+: 811C360E 0063
+: 810EA9D4 1000 No Damage - God Mode
+: 810E9D74 8602 Retain quantity of life, level, experience and money after death
+: 810E9D76 002A
+: 810E9D38 2400
+: 810E9D44 2400
+: 810ED3F8 2400
