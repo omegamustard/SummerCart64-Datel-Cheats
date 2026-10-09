@@ -1,0 +1,37 @@
+# F-1 World Grand Prix (USA)
+
+: 811A0328 42CF Freeze Timer
+: D119FD9C E446 Stop Timer
+: 8119FD9C 2400
+: D0043C74 0020 Press Z To End Race In Current Position
+: 80307821 0063
+: 8103EBB0 5059 Have Gold Driver In Change Driver Option
+: 8103EBB2 5249
+: 8103EBB4 5445
+: 8103EBB0 4348 Have Silver Driver In Change Driver Screen
+: 8103EBB2 524F
+: 8103EBB4 4D45
+: 80163CF7 0064 File 1 100 Points
+: 80163B97 0012 File 1 Grand Prix Complete
+: 80163CAF 0004 File 1 Have All Defense Races
+: 80163CAB 0004 File 1 Have All Offense Races
+: 80163CB3 0004 File 1 Have All Trouble Races
+: 80163BB7 0001 File 1 In 1st Place
+: 81163BBE 03E7 File 1 Max Constructor Points
+: 81163BBA 03E7 File 1 Max Driver Points
+: 80163CCB 0005 File 1 Max Points Defense A
+: 80163CCF 0005 File 1 Max Points Defense B
+: 80163CD3 0005 File 1 Max Points Defense C
+: 80163CD7 0005 File 1 Max Points Defense D
+: 80163CDB 0005 File 1 Max Points Defense E
+: 80163CF3 0019 File 1 Max Points Final Challenge
+: 80163CB7 0005 File 1 Max Points Offense A
+: 80163CBB 0005 File 1 Max Points Offense B
+: 80163CBF 0005 File 1 Max Points Offense C
+: 80163CC3 0005 File 1 Max Points Offense D
+: 80163CC7 0005 File 1 Max Points Offense E
+: 80163CDF 0005 File 1 Max Points Trouble A
+: 80163CE3 0005 File 1 Max Points Trouble B
+: 80163CE7 0005 File 1 Max Points Trouble C
+: 80163CEB 0005 File 1 Max Points Trouble D
+: 80163CEF 0005 File 1 Max Points Trouble E

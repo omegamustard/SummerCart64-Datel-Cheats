@@ -1,0 +1,27 @@
+# Forsaken 64 (USA)
+
+: EE000000 0000 Master Code
+: 810F43F0 2400 Infinite Ammo
+: 810F9470 2400 Infinite Energy
+: 8004013C 0005 Infinite Lives
+: 810F3E18 2400 Infinite Primary Weapon
+: D014E5E2 0011 Infinite Shields
+: 8114E5E0 1000
+: 8008ED6E 0012 Enable Battle Mode And Levels
+: 8008ED67 0012 Gore Mode
+: 50001001 0000 Activate All Cheats (Cheat Device 3.0 Or Higher Needed!)
+: 8008ED60 0012
+: 8008ED6E 0012 Activate Everything Is Opened Up [Battle Mode, etc.] Cheat
+: 8008ED6B 0012 Activate Freeze Enemies Cheat
+: 8008ED67 0012 Activate Gore Cheat
+: 8008ED80 0012 Activate Have All Primary Weapons Cheat
+: 8008ED62 0012 Activate Infinite Main Weapon Cheat
+: 8008ED61 0012 Activate Infinite Secondary Weapon/Have All Secondary Weapons Cheat
+: 8008ED6D 0012 Activate Infinite Solaris Cheat
+: 8008ED63 0012 Activate Infinite Titans Cheat
+: 8008ED65 0012 Activate Invincibility Cheat
+: 8008ED6A 0012 Activate One Hit Kills Cheat
+: 8008ED69 0012 Activate Psychedelic Colors Cheat
+: 8008ED6C 0012 Activate Stealth Mode Cheat
+: 8008ED68 0012 Activate Turbo Crazy Mode Cheat
+: 8008ED66 0012 Activate Wire-Frame Cheat

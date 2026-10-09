@@ -1,0 +1,48 @@
+# Earthworm Jim 3D (USA)
+
+: 810C690E 0064 Infinite Health
+: 810C6912 0003 Infinite Lives
+: 8104DD50 2400 Don't Take Damage From Some Things
+: 81045AD0 2400 Don't Take Damage From Some Things (Alternate)
+: 81045680 2400 Invincible From Some Things
+: 50002802 0000 Have All Gold Udders (Cheat Device 3.0 Or Higher Needed!)
+: 810C625A 0101
+: D00E9FF3 0000 Have 231 Marbles
+: 800E9FF3 03E7
+: 8104DB08 0000 Infinite Ammo
+: 810C6976 03E7 Infinite Ammo Banana Peel Bomb
+: 810C6916 03E7 Infinite Ammo Blaster
+: 810C6A1E 03E7 Infinite Ammo Boomerang Knives
+: 810C69BE 03E7 Infinite Ammo Chickens
+: 810C69A6 03E7 Infinite Ammo Green Slimer
+: 810C698E 03E7 Infinite Ammo Laser
+: 810C6A36 03E7 Infinite Ammo Mushrooms
+: 810C6A06 03E7 Infinite Ammo Music Gun
+: 810C6946 03E7 Infinite Ammo Rocket Launcher
+: 810C69EE 03E7 Infinite Ammo Shotgun
+: 810E9FF2 0064 Max Green Marbles
+: 80218AF8 0000 Psycrow Can't Pick Up Blue Marbles
+: 80218AAE 0001 Infinite Bullets Psycrow
+: 80219066 0001 Infinite Bullets Fatty Roswell
+: 80216D8E 0001 Infinite Bullets Bob And No. 4
+: 800C61F6 0001 All Gold Udders The Brain
+: 800C61F7 0007 All Gold Udders Boogie Nights
+: 800C61F8 0003 All Gold Udders Coop D-Etat
+: 800C61F9 0007 All Gold Udders Barn To Be Wild
+: 800C61FA 0005 All Gold Udders Psycrow
+: 800C61FB 0007 All Gold Udders Happiness Hub
+: 800C61FC 0007 All Gold Udders Lord Of The Fries
+: 800C61FD 0007 All Gold Udders Hungry Tonite
+: 800C61FE 0007 All Gold Udders Fatty Roswell
+: 800C61FF 0007 All Gold Udders Fear Hub
+: 800C6200 0007 All Gold Udders Mansion Lobby
+: 800C6201 0007 All Gold Udders Poultrygeist
+: 800C6202 0007 All Gold Udders Poultrygeist Too
+: 800C6203 0007 All Gold Udders Poultrygeist Too (Alternate)
+: 800C620C 0007 All Gold Udders Boogie Nights
+: 800C6205 0007 All Gold Udders Monkey For A Head
+: 800C61FB 0007 All Gold Udders Fantasy Hub
+: 800C6206 0007 All Gold Udders Violent Death Valley
+: 800C6208 0007 All Gold Udders Good, Bad, Eldery
+: 800C6209 0007 All Gold Udders Bob And No. 4
+: 800C620A 0007 All Gold Udders Final Boss

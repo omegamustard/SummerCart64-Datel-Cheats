@@ -1,0 +1,28 @@
+# F-Zero X (USA)
+
+: DE067000 0000 Enable Code (Must Be On)
+: 800CD3C8 0001 Unlock Everything
+: 812C492A 03E7 999 Points In Grand Prix Mode
+: 800E5ED9 0005 Infinite Lives
+: 8108E06C 2400 Infinite Shields
+: 812C4B48 4326 Infinite Shield 1P
+: 812C4EF0 4326 Infinite Shield 2P
+: 812C5298 4326 Infinite Shield 3P
+: 812C5640 4326 Infinite Shield 4P
+: 802C4CCB 0000 Invisible Car P1 (VS Mode Only)
+: 812C4B4C 4326 Max Shield
+: D02C4BC9 0000 One Lap To Race
+: 812C4BC8 0002
+: D02C4BCB 0001
+: 812C4BCA 0002
+: 81093248 2400 Quick Win - Use with One Lap To Race
+: 810930D0 2400 Stop Timer
+: 812C4BC0 0000 Time Always 00'00"00, Place 1st
+: 812C4BC2 0001
+: 812C4984 2222 Super Ultimate Mega Fast Mode
+: D02C4DAC 003F Have Boost From Start
+: 802C4925 0050
+: D02C4BC9 0000 Endless Race
+: 812C4BC8 0002
+: 812C4BCB 0001
+: 812C4BCA 0002

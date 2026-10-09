@@ -1,0 +1,29 @@
+# Excitebike 64 (USA) (Rev 1)
+
+: F10B76C0 2400 Master Code
+: 810F2D50 FFFF Unlock Difficulties & All Special Tracks
+: 810F2D4E 0003 Unlock Silver & Gold Cup
+: 810E4D18 0098 Max Stunt Points
+: 810E4D1A 967F
+: 810E3142 19AA Auto-Pilot Always On Turbo (Original Excitebike Mode)
+: 810E4F98 0000 Always Low Temp P1
+: 810E4F9A 0000
+: 810E5778 0000 Always Low Temp P2
+: 810E577A 0000
+: 810E5F58 0000 Always Low Temp P3
+: 810E5F5A 0000
+: 810E6738 0000 Always Low Temp P4
+: 810E673A 0000
+: 810D7010 3AD0 Earthquake Mode
+: 800D9D55 00A0 Fast Movement (Drones)
+: 800D9D65 00AF Fast Movement (Player)
+: 800D9D55 0060 Slow Movement (Drones)
+: 800D9D65 0060 Slow Movement (Player)
+: 800D9D34 0040 No Collision Drivers
+: 800CA984 00C3 No Overheating
+: 800E4FB5 0000 P1 Quick Finish
+: 800E4FB9 0000
+: 810F17CC 00FF
+: 800C9E50 0040 Steering Control
+: 800CA9A0 0040 Super Speed For All
+: 800CA9A1 0070

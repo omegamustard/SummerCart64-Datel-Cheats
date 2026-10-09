@@ -1,0 +1,34 @@
+# F-1 World Grand Prix II (Europe) (En,Fr,De,Es)
+
+: 8100FCBC 1000 Regional lock bypass
+: 8100FCBE 0006
+: 8103A8F8 03E7 Max Driver & Constructor Points Williams from Williams Mecachrome
+: 8103A8F6 03E7 Max Driver Points Williams from Williams Mecachrome
+: D1141DA8 4501 Drive anywhere (Exhibition and Grand Prix)
+: 81141DA8 2400
+: D1141DC0 4502
+: 81141DC0 1000
+: D11489D8 0C05
+: 811489D8 2400
+: D11424BC 3C01
+: 811424BC 1000
+: D11424BE 8015
+: 811424BE 0019
+: D1141C84 11E0
+: 81141C84 1000
+: D1141734 0C04
+: 81141734 2400
+: D1142A70 4502
+: 81142A70 1000
+: D113F0CC 15E0 Opponents don't move (Exhibition and Grand Prix)
+: 8113F0CC 2400
+: D113F0E0 0C04
+: 8113F0E0 2400
+: D1110968 0C04
+: 81110968 2400
+: D110FF6C 0C04
+: 8110FF6C 2400
+: D1141DA8 4501 Scratching against walls doesn't drastically decrease speed (Exhibition and Grand Prix)
+: 81141DA8 2400
+: D1141DC0 4502
+: 81141DC0 1000
