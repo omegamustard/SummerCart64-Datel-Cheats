@@ -2,4 +2,6 @@
 
 : 80260BDE 0000 Infinite Time
 : 802016A7 0000 P1 Infinite Hp
+: 80206AF7 0000 P2 Infinite Hp
 : 802016AB 005A P1 Infinite Sp
+: 80206AF7 00C8 P2 No Health
