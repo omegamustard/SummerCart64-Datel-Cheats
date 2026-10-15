@@ -1,0 +1,21 @@
+# Virtual Pro Wrestling 2 - Oudou Keishou (Japan)
+
+: F10384C0 2400 Enable Code (Must Be On)
+: 80119115 0000 Infinite Blood Points
+: 80119114 0000 Infinite KO Points
+: 8016C47B 00FF Max Spirit P1
+: 8016C47B 0032 Medium Spirit P1
+: 8016C47B 0000 No Spirit P1
+: 8016C4BF 000C P1 Always In Ultimate Special
+: 8016C13F 0000 Stop Royal Rumble Time
+: 8016C4BF 0004 Unlimited Special P1
+: 8016C7D3 0004 Unlimited Special P2
+: 810A440E FFFF Unlock All Extras
+: 810A4410 FFFF
+: 810A4412 FFFF
+: 810A4414 FFFF
+: 801181C9 0005 Attribute 1 Is 5
+: 801181CB 0005 Attribute 2 Is 5
+: 801181CD 0005 Attribute 3 Is 5
+: 801181CF 0005 Attribute 4 Is 5
+: 801181D1 0005 Attribute 5 Is 5
