@@ -1,0 +1,21 @@
+# Rugrats in Paris - The Movie (USA)
+
+: F10525F0 2400 Enable Code (Must Be On)
+: 8111F7F8 0015 21 Gold Tickets (All Players)
+: D00BE8C1 0000 21 Gold Tickets P1
+: 8111F7F8 0015
+: D00BE8C1 0001 21 Gold Tickets P2
+: 8111F7F8 0015
+: D00BE8C1 0002 21 Gold Tickets P3
+: 8111F7F8 0015
+: D00BE8C1 0003 21 Gold Tickets P4
+: 8111F7F8 0015
+: 8111F7F6 03E7 Max Red Tickets (All Players)
+: D00BE8C1 0000 Max Red Tickets P1
+: 8111F7F6 03E7
+: D00BE8C1 0001 Max Red Tickets P2
+: 8111F7F6 03E7
+: D00BE8C1 0002 Max Red Tickets P3
+: 8111F7F6 03E7
+: D00BE8C1 0003 Max Red Tickets P4
+: 8111F7F6 03E7

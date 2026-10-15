@@ -1,0 +1,87 @@
+# Rally Challenge 2000 (USA)
+
+: 81104998 49F2 Infinite Time
+: 80101D1A 00FF Championship Mode Have 255 Race Points
+: 81178F90 0000 Australia Always Low Lap Timer
+: 81178F92 0000
+: 80178F87 0000 Australia Have 1st (Arcade Mode)
+: 80178FA0 003E Australia Infinite Damage (Front End)
+: 80178FA4 0040 Australia Infinite Damage (Left Side)
+: 80178FA8 0040 Australia Infinite Damage (Right Side)
+: 80178FAC 0040 Australia Infinite Damage (Tires)
+: D0178F6F 0001 Australia Start On 3rd Lap
+: 80178F6F 0003
+: 811748D0 0000 Brazil Always Low Lap Timer
+: 811748D2 0000
+: 801748C7 0000 Brazil Have 1st (Arcade Mode)
+: 801748E0 0040 Brazil Infinite Damage (Front End)
+: 801748E4 0040 Brazil Infinite Damage (Left Side)
+: 801748E8 0040 Brazil Infinite Damage (Right Side)
+: 801748EC 0040 Brazil Infinite Damage (Tires)
+: D01748AF 0001 Brazil Start On 3rd Lap
+: 801748AF 0003
+: 8117CF90 0000 Canada Always Low Lap Timer
+: 8117CF92 0000
+: 8017CF87 0000 Canada Have 1st (Arcade Mode)
+: 8017CFA0 0040 Canada Infinite Damage (Front End)
+: 8017CFA4 0040 Canada Infinite Damage (Left Side)
+: 8017CFA8 0040 Canada Infinite Damage (Right Side)
+: 8017CFAC 0040 Canada Infinite Damage (Tires)
+: D017CF6F 0001 Canada Start On 3rd Lap
+: 8017CF6F 0003
+: 8117247C 0000 France Always 1st (Championship Mode)
+: 8117247E 0000
+: 81172480 0000 France Always Low Lap Timer
+: 81172482 0000
+: 80172477 0000 France Have 1st (Arcade Mode)
+: 80172490 0040 France Infinite Damage (Front End)
+: 80172494 0040 France Infinite Damage (Left Side)
+: 80172498 0040 France Infinite Damage (Right Side)
+: 8017249C 0040 France Infinite Damage (Tires)
+: D017245F 0001 France Start On 3rd Lap
+: 8017245F 0003
+: 8117DF90 0000 Germany Always Low Lap Timer
+: 8117DF92 0000
+: 8017DF87 0000 Germany Have 1st (Arcade Mode)
+: 8017DFA0 0040 Germany Infinite Damage (Front End)
+: 8017DFA4 0040 Germany Infinite Damage (Left Side)
+: 8017DFA8 0040 Germany Infinite Damage (Right Side)
+: 8017DFAC 0040 Germany Infinite Damage (Tires)
+: D017DF6F 0001 Germany Start On 3rd Lap
+: 8017DF6F 0003
+: 811766B0 0000 Great Britain Always Low Lap Timer
+: 811766B2 0000
+: 801766A7 0000 Great Britain Have 1st (Arcade Mode)
+: 801766C0 0040 Great Britain Infinite Damage (Front End)
+: 801766C4 0040 Great Britain Infinite Damage (Left Side)
+: 801766C8 0040 Great Britain Infinite Damage (Right Side)
+: 801766CC 0040 Great Britain Infinite Damage (Tires)
+: D017668F 0001 Great Britain Start On 3rd Lap
+: 8017668F 0003
+: 8117E4D0 0000 Italy Always Low Lap Timer
+: 8117E4D2 0000
+: 8017E4E7 0000 Italy Have 1st (Arcade Mode)
+: 8017E500 0040 Italy Infinite Damage (Front End)
+: 8017E504 0040 Italy Infinite Damage (Left Side)
+: 8017E508 0040 Italy Infinite Damage (Right Side)
+: 8017E50C 0040 Italy Infinite Damage (Tires)
+: D017E4CF 0001 Italy Start On 3rd Lap
+: 8017E4CF 0003
+: 811870E0 0000 Spain Always Low Lap Timer
+: 811870E2 0000
+: 801870D7 0000 Spain Have 1st (Arcade Mode)
+: 801870F0 0040 Spain Infinite Damage (Front End)
+: 801870F4 0040 Spain Infinite Damage (Left Side)
+: 801870F8 0040 Spain Infinite Damage (Right Side)
+: 801870FC 0040 Spain Infinite Damage (Tires)
+: D01870BF 0001 Spain Start On 3rd Lap
+: 801870BF 0003
+: 8117EF90 0000 USA Always Low Lap Timer
+: 8117EF92 0000
+: 8017EF87 0000 USA Have 1st (Arcade Mode)
+: 8017EFA0 0040 USA Infinite Damage (Front End)
+: 8017EFA4 0040 USA Infinite Damage (Left Side)
+: 8017EFA8 0040 USA Infinite Damage (Right Side)
+: 8017EFAC 0040 USA Infinite Damage (Tires)
+: D017EF6F 0001 USA Start On 3rd Lap
+: 8017EF6F 0003
