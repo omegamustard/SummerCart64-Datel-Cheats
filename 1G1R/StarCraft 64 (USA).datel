@@ -1,0 +1,99 @@
+# StarCraft 64 (USA)
+
+: F109BA54 1000 Enable Code (This Must Be On)
+: F109BA90 2400 Hi-Res Enable Code
+: 800D13C4 000C Terran Episode I All Levels Complete
+: 800D13C5 000A Zerg Episode II All Levels Complete
+: 800D13C6 000A Protoss Episode III All Levels Complete
+: 800D13C8 000A Terran Episode V All Levels Complete
+: 800D13C9 000A Zerg Episode VI All Levels Complete
+: 800D13C7 000A Protoss Episode IV All Levels Complete
+: 800B5202 000A Have All Ten Marines (1st Terran Mission)
+: 810B1D52 FFFF Infinite Minerals (Episode II)
+: 810B1D82 FFFF Infinite Vespene Gas (Episode II)
+: 800FD1CB 0052 Infinite Shield For Artanis In Battle Of Braxis Level
+: 80365AE2 0052
+: 810B1D46 FFFF Infinite Minerals Team 1
+: 810B1D4A FFFF Infinite Minerals Team 2
+: 810B1D4E FFFF Infinite Minerals Team 3
+: 810B1D52 FFFF Infinite Minerals Team 4
+: 810B1D56 FFFF Infinite Minerals Team 5
+: 810B1D5A FFFF Infinite Minerals Team 6
+: 810B1D5E FFFF Infinite Minerals Team 7
+: 810B1D62 FFFF Infinite Minerals Team 8
+: 810B1D66 FFFF Infinite Minerals Team 9
+: 810B1D6A FFFF Infinite Minerals Team 10
+: 810B1D6E FFFF Infinite Minerals Team 11
+: 810B1D72 FFFF Infinite Minerals Team 12
+: 810B1D76 FFFF Infinite Vespene Gas Team 1
+: 810B1D7A FFFF Infinite Vespene Gas Team 2
+: 810B1D7E FFFF Infinite Vespene Gas Team 3
+: 810B1D82 FFFF Infinite Vespene Gas Team 4
+: 810B1D86 FFFF Infinite Vespene Gas Team 5
+: 810B1D8A FFFF Infinite Vespene Gas Team 6
+: 810B1D8E FFFF Infinite Vespene Gas Team 7
+: 810B1D92 FFFF Infinite Vespene Gas Team 8
+: 810B1D96 FFFF Infinite Vespene Gas Team 9
+: 810B1D9A FFFF Infinite Vespene Gas Team 10
+: 810B1D9E FFFF Infinite Vespene Gas Team 11
+: 810B1DA2 FFFF Infinite Vespene Gas Team 12
+: 50000C04 0000 Infinite & Max Minerals
+: 810B1D46 FFFF
+: 50000C04 0000
+: 810B1D44 3B9A
+: 50000C04 0000
+: 810B1D46 C9FF
+: D00A49E3 0000 Infinite Minerals (Both Players - Almost All Modes/Missions)
+: 810B1D46 FFFF
+: D00A49E3 0001
+: 810B1D4A FFFF
+: D00A49E3 0002
+: 810B1D4E FFFF
+: D00A49E3 0003
+: 810B1D52 FFFF
+: D00A49E3 0004
+: 810B1D56 FFFF
+: D00A49E3 0005
+: 810B1D5A FFFF
+: D00A49E3 0006
+: 810B1D5E FFFF
+: D00A49E3 0007
+: 810B1D62 FFFF
+: D00A49E3 0008
+: 810B1D66 FFFF
+: D00A49E3 0009
+: 810B1D6A FFFF
+: D00A49E3 000A
+: 810B1D6E FFFF
+: D00A49E3 000B
+: 810B1D72 FFFF
+: 50000C04 0000 Infinite & Max Vespene Gas
+: 810B1D76 FFFF
+: 50000D04 0000
+: 810B1D74 3B9A
+: 50000D04 0000
+: 810B1D76 C9FF
+: D00A49E3 0000 Infinite Vespene Gas (Both Players - Almost All Modes/Missions)
+: 810B1D76 FFFF
+: D00A49E3 0001
+: 810B1D7A FFFF
+: D00A49E3 0002
+: 810B1D7E FFFF
+: D00A49E3 0003
+: 810B1D82 FFFF
+: D00A49E3 0004
+: 810B1D86 FFFF
+: D00A49E3 0005
+: 810B1D8A FFFF
+: D00A49E3 0006
+: 810B1D8E FFFF
+: D00A49E3 0007
+: 810B1D92 FFFF
+: D00A49E3 0008
+: 810B1D96 FFFF
+: D00A49E3 0009
+: 810B1D9A FFFF
+: D00A49E3 000A
+: 810B1D9E FFFF
+: D00A49E3 000B
+: 810B1DA2 FFFF

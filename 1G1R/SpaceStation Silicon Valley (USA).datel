@@ -1,0 +1,84 @@
+# SpaceStation Silicon Valley (USA)
+
+: 803F6435 0001 Enable Level Arctic Kingdom
+: 803F643B 0001 Enable Level Big Celebration Parade
+: 803F6439 0001 Enable Level Desert Adventure
+: 803F6433 0001 Enable Level Euro Eden
+: 803F6437 0001 Enable Level Jungle Safari
+: 803F643D 0001 Enable Level Secret Mini Game
+: 803F642F 0001 Debug Mode
+: 803F2D3D 000F Have All Power Cells
+: 803E4D2B 0001 Have Gold Souvenir
+: 813E4CEA 7FFF High Score In Evo's Escape
+: 803E4CE6 0077 High Score In Evo's Escape (Altnerate)
+: 803E4CDB 0003 Infinite Health Ship In Asteroids Level
+: 801DE439 007F Infinite Health Level 10 - Give A Dog A Bonus
+: 801DEFB5 007F Infinite Health Level 30 - Punch Up Pyramid
+: 801DE065 0082 Infinite Energy EVO (Chip)
+: 801DE439 0082 Infinite Energy Evo In Bonus Level 1 & Final Level
+: 801DEFB5 0082 Infinite Energy Evo In Bonus Level 4
+: 811DF75C 0082 Infinite Energy Fox
+: 811DEFB4 0082 Infinite Energy Heli-Rabbit
+: 801DFB31 0082 Infinite Energy Mouse/Hyena
+: 811DE438 0082 Infinite Energy Normal Rabbit
+: 811DF7FC 0082 Infinite Energy Racing Fox
+: 811DEBE0 0082 Infinite Energy Sheep
+: 811DFF04 0082 Infinite Energy Snow Husky
+: 811DF8F4 0400 Infinite Ability Fox
+: 811DF14C 0400 Infinite Ability Heli-Rabbit
+: 811DED78 0400 Infinite Ability Husky
+: 811DFCC8 0400 Infinite Ability Mouse
+: 811E009C 0400 Infinite Ability Penguin
+: 811DE5D0 0400 Infinite Ability Rabbit
+: 811DF8F4 0082 Infinite Ability Racing Fox
+: 811DE9A0 0400 Infinite Ability Sheep
+: 811DE9A4 0400 Infinite Ability Sheep Alternate
+: 811DFCC4 0400 Infinite Boost Mouse
+: 811DF148 0400 Infinite Boost Racing Dog
+: 811DF8F0 0400 Infinite Boost Racing Fox
+: 811DED74 0400 Infinite Boost Walrus
+: 803E4CCB 0000 0 Enemies To Kill In Big Celebration Parade
+: 803F2D30 007F 2 Billion+ High Score
+: 803F2D31 00FF
+: 803F2D32 00FF
+: 803F2D33 00FF
+: D0292554 0002 All Objectives Complete - Left for 1 Objective, Up for 2 Objectives, Right for 3 Objectives
+: 803E4D2F 0001
+: D0292554 0008
+: 803E4D2F 0003
+: D0292554 0001
+: 803E4D2F 0007
+: 50002001 0000 All Levels Open (Cheat Device 3.0+ Required)
+: 803F7DE0 0001
+: 803F7DE0 0001 All Levels Open
+: 803F7DE1 0001
+: 803F7DE2 0001
+: 803F7DE3 0001
+: 803F7DE4 0001
+: 803F7DE5 0001
+: 803F7DE6 0001
+: 803F7DE7 0001
+: 803F7DE8 0001
+: 803F7DE9 0001
+: 803F7DEA 0001
+: 803F7DEB 0001
+: 803F7DEC 0001
+: 803F7DED 0001
+: 803F7DEE 0001
+: 803F7DEF 0001
+: 803F7DF0 0001
+: 803F7DF1 0001
+: 803F7DF2 0001
+: 803F7DF3 0001
+: 803F7DF4 0001
+: 803F7DF5 0001
+: 803F7DF6 0001
+: 803F7DF7 0001
+: 803F7DF8 0001
+: 803F7DF9 0001
+: 803F7DFA 0001
+: 803F7DFB 0001
+: 803F7DFC 0001
+: 803F7DFD 0001
+: 803F7DFE 0001
+: 803F7DFF 0001

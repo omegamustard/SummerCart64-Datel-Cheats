@@ -1,0 +1,147 @@
+# Star Fox 64 (USA) (Rev 1)
+
+: EE000000 0000 Additional Enable Code (Cheat Device 3.20 Or Higher Needed!)
+: CC000000 0000
+: D0178237 0006 Always Get The Good Ending & Always Fight Andross's Brain
+: 80178237 0013
+: 50000802 0000 Have All Medals & Unlock All Characters In Versus Mode & Have All Other Hidden Options Unlocked
+: 81178870 FFFF
+: D00DD881 0020 Hold L While Selecting A Planet On The Map Screen To Select An Alternate Course
+: 801CD93F 0001
+: 80038E43 00FF One Hit Kills Bosses (ASM) - Must First Deplete Shield
+: 8016F175 00FF One Hit Kills Bosses (RAM) - Must First Deplete Shield
+: 80161A40 0044 Always Have No Fog
+: 80161A40 003F Always Have Heavy Fog
+: 8113C86C 0202 Always Have Two Wings (1P Mode Only)
+: 8113F74C 0202
+: 80177E73 0001 Crew Never Gets Chased
+: D00D8E91 0010 Fast Pause
+: 80161813 0010
+: D00D8E91 0020
+: 80161813 0011
+: 8113C86A 0002 Fly Through Walls P1
+: 8113F74A 0002
+: 810B2A7C 2400 Infinite Boost (Acceleration)
+: 8108D600 AC40 Infinite Boost (Alternate Method)
+: 8108D614 C44A
+: 8108D616 02BC
+: 810B2EB8 2400 Infinite Boost (Braking)
+: 810AEE28 2400 Infinite Boost (Flips)
+: 811AD1A0 2400 Infinite Boost (Sub)
+: 811AD3F8 2400
+: 81047574 2400 Infinite Boost (Tank)
+: 81047588 2400
+: 8104CDB8 2400 Infinite Boost (U-Turns)
+: 801778B7 00FF Infinite Energy (Falco)
+: 801778BF 00FF Infinite Energy (Peppy)
+: 801778BB 00FF Infinite Energy (Slippy)
+: 8013C637 00FF Infinite Energy P1
+: 8013F517 00FF
+: 810B40DC 2400 Infinite Health (All Levels)
+: 810702D4 2400 Infinite Health (Peppy, Slippy, and Falco)
+: 80161AA1 0063 Infinite Lives
+: 80177DA3 0004 Infinite Nova Bombs For Everyone
+: 80177DA7 0004
+: 80177DAB 0004
+: 80177DAF 0004
+: 81161A9A 03E7 Maximum Kills
+: 810ACD00 2400 Never Lose Bombs
+: 810A6C5A 0303 Never Lose Wings
+: 810A6C5C A618
+: 810A6B86 0303
+: 810A6B88 A618
+: 80161A94 0001 Start With 1 Gold Ring
+: 80161A94 0002 Start With 2 Gold Rings
+: D00DD881 0030 Stop Real Fortuna/Katina Timer! Fixed
+: 81030164 2400
+: D10DD880 2020
+: 81030164 AC58
+: 810B3058 4480 Tank: Infinite Boost
+: 810B305A 2000
+: 8016F1D3 0000 1-Hit Kills (Regular Corneria Boss)
+: 801779CB 0020 Always Have Charged Laser P1
+: 801779CF 0020 Always Have Charged Laser P2
+: 8013C653 00FF Always Have Shield P1
+: 8013CB33 00FF Always Have Shield P2
+: 80177B13 00FF Always Locked P1
+: 80177B07 00FF Always Locked P2
+: D00DD880 0020 Bomb Detonator
+: 81174746 0000
+: 8013C653 00B4 Blue Shield Always Around Ship P1
+: 8013CB33 00B4 Blue Shield Always Around Ship P2
+: 8013D013 00B4 Blue Shield Always Around Ship P3
+: 8013D4F3 00B4 Blue Shield Always Around Ship P4
+: 8113C68C 0000 Infinite Boost P1
+: 8113C68E 0000
+: 8113F56C 0000
+: 8113F56E 0000
+: 8113CB6C 0000 Infinite Boost P2
+: 8113CB6E 0000
+: 8113FA4C 0000
+: 8113FA4E 0000
+: 8113D04C 0000 Infinite Boost P3
+: 8113D04E 0000
+: 8113FF2C 0000
+: 8113FF2E 0000
+: 8113D52C 0000 Infinite Boost P4
+: 8113D52E 0000
+: 8114040C 0000
+: 8114040E 0000
+: 80161AAB 0002 Infinite Dual Blue Lasers P1
+: 80161AAF 0002 Infinite Dual Blue Lasers P2
+: 80161AB3 0002 Infinite Dual Blue Lasers P3
+: 80161AB7 0002 Infinite Dual Blue Lasers P4
+: 8013CB17 00FF Infinite Health P2
+: 8013F9F7 00FF
+: 8013CFF7 00FF Infinite Health P3
+: 8013FED7 00FF
+: 8013D4D7 00FF Infinite Health P4
+: 801403B7 00FF
+: 80177DA3 0063 Infinite Smart Bombs P1
+: 80177DA7 0004 Infinite Smart Bombs P2
+: 80177DAB 0004 Infinite Smart Bombs P3
+: 80177DAF 0004 Infinite Smart Bombs P4
+: 81174746 0001 Instant Bomb Detonation (All Players)
+: 8113C68C 42C8 No Boost P1
+: 8113C68E 0000
+: 8113F56C 42C8
+: 8113F56E 0000
+: 8113CB6C 42C8 No Boost P2
+: 8113CB6E 0000
+: 8113FA4C 42C8
+: 8113FA4E 0000
+: 8113D04C 42C8 No Boost P3
+: 8113D04E 0000
+: 8113FF2C 42C8
+: 8113FF2E 0000
+: 8113D52C 42C8 No Boost P4
+: 8113D52E 0000
+: 8114040C 42C8
+: 8114040E 0000
+: 80161AAB 0040 Stops Players Laser Shots P1
+: 80161AAF 0040 Stops Players Laser Shots P2
+: 80161AB3 0040 Stops Players Laser Shots P3
+: 80161AB7 0040 Stops Players Laser Shots P4
+: 80177D13 003C Titanium Wings Fox (1P/Multi - Left & Right Wings)
+: 80177D2B 003C
+: 80177D17 003C Titanium Wings Peppy (2nd Player - Left & Right Wings)
+: 80177D2F 003C
+: 80177D1B 003C Titanium Wings Slippy (3rd Player - Left & Right Wings)
+: 80177D33 003C
+: 80177D1F 003C Titanium Wings Falco (4th Player - Left & Right Wings)
+: 80177D37 003C
+: 8017887B 0007 Aquas Have Gold Medals In Expert & Normal
+: 80178871 0007 Area 6 Have Gold Medals In Expert & Normal
+: 80178872 0007 Bolse Have Gold Medals In Expert & Normal
+: 80178879 0007 Coneria Have Gold Medals In Expert & Normal
+: 8017887C 0007 Fortuna Have Gold Medals In Expert & Normal
+: 80178876 0007 Katina Have Gold Medals In Expert & Normal
+: 80178877 0007 Macbeth Have Gold Medals In Expert & Normal
+: 80178870 0007 Meteo Have Gold Medals In Expert & Normal
+: 80178874 0007 Sector X Have Gold Medals In Expert & Normal
+: 80178875 0007 Sector Y Have Gold Medals In Expert & Normal
+: 80178873 0007 Sector Z Have Gold Medals In Expert & Normal
+: 8017887D 0007 Solar Have Gold Medals In Expert & Normal
+: 8017887A 0007 Titania Have Gold Medals In Expert & Normal
+: 8016E67F 0077 Venom Have Gold Medals In Expert & Normal
+: 80178878 0007 Zoness Have Gold Medals In Expert & Normal
