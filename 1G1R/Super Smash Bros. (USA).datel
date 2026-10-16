@@ -1,0 +1,113 @@
+# Super Smash Bros. (USA)
+
+: F10396B0 2400 Enable Code (Must Be On)
+: DE000400 0000
+: 800A4937 00FF Have Mushroom Kingdom
+: 810A4938 0FF0 Have All Characters
+: 800A4937 00FF Have All Prizes
+: 800A4AE7 000D Story Mode Skip to Master Hand
+: 810A4B2E 43CB Story Mode Infinite Time
+: 800A4B43 0004 Story Mode P1 Infinite Lives
+: 800A4BB7 0004 Story Mode P2 Infinite Lives
+: 800A4C2B 0004 Story Mode P3 Infinite Lives
+: 800A4C9F 0004 Story Mode P4 Infinite Lives
+: 810A4B86 0000 Story Mode P1 Low Health Percentage
+: 810A4BFA 0000 Story Mode P2 Low Health Percentage
+: 810A4C6E 0000 Story Mode P3 Low Health Percentage
+: 810A4CE2 0000 Story Mode P4 Low Health Percentage
+: 810A4B6E 0000 Story Mode Always Get Pacifist (60,000 points)
+: 810A4B6D 0000 Story Mode No Miss Bonus
+: 810A4B6E FFFF Story Mode Millions Of Points
+: 800A4B6D 00FF
+: 800A4B39 001E Story Mode Super Strong
+: 800A4B37 0000
+: 800A4BAD 000A Story Mode Weak Enemies
+: 800A4C21 000A
+: 800A4C95 000A
+: 800A4BAB 00AE
+: 800A4C1F 00AE
+: 800A4C93 00AE
+: 810A4D1E 43CB Vs Mode Infinite Time
+: 810A4D76 0000 Vs Mode P1 Low Health Percentage
+: 810A4DEA 0000 Vs Mode P2 Low Health Percentage
+: 810A4E5E 0000 Vs Mode P3 Low Health Percentage
+: 810A4ED2 0000 Vs Mode P4 Low Health Percentage
+: 800A4D33 0004 Vs Mode P1 Infinite Lives
+: 8025D437 0008 Vs Mode Infinite Bullets on Raygun
+: 81131422 0000 Platforms Don't Fall In Mushroom Kingdom
+: 8116F5E4 2400 Items Never Disappear (ASM)
+: D109EFA4 0400 P1 Press Down D-Pad To Make Items Appear In Random Spots
+: 8118D0A2 0001
+: 81131410 0000 Hyrule Castle Tornadoes, Dreamland Wind Always OFF
+: 81131410 0001 Hyrule Castle Tornadoes, Dreamland Wind Always ON
+: 81131404 0000 Planet Zebes Acid Always Down
+: 81131404 0002 Planet Zebes Acid Level HyperActive
+: 81131404 0001 Planet Zebes Acid Level Stays Low
+: 81131438 0000 Sector Z Arwings Always OFF
+: 81131438 0001 Sector Z Arwings Always ON
+: 810EA264 0810 Infinite Health P1 (All Levels, All Modes)
+: 810EA266 0000
+: 81400000 5320
+: 81400002 0001
+: 81400004 0000
+: 81400006 2821
+: 81400008 0803
+: 8140000A A89B
+: 8140000C 01C5
+: 8140000E 7821
+: 810EA264 0810 Infinite Health P1 + Multiply Everyone Elses Damage (All Levels, All Modes)
+: 810EA266 0004
+: 81400010 5320
+: 81400012 0001
+: 81400014 0000
+: 81400016 2821
+: 81400018 241B
+: 8140001A 0000
+: 8140001C 00BB
+: 8140001E 0019
+: 81400020 0000
+: 81400022 2812
+: 81400024 0803
+: 81400026 A89B
+: 81400028 01C5
+: 8140002A 7821
+: 8113FECC 240D Infinite Jumps (All Players, All Modes)
+: 810EA264 0810 Multiply Everyone's Damage (All Levels, All Modes)
+: 810EA266 0012
+: 81400048 241B
+: 8140004A 0000
+: 8140004C 00BB
+: 8140004E 0019
+: 81400050 0000
+: 81400052 2812
+: 81400054 0803
+: 81400056 A89B
+: 81400058 01C5
+: 8140005A 7821
+: 810E62A0 01EF No Shields (All Players, All Modes)
+: 810E6244 AE17 Shields Are Fully Recharged When Not In Use (All Players, All Modes)
+: 8114834C 2400 Shields Don't Drain Over Time (All Players, All Modes)
+: 8023B150 0001 Bonus 3 Race P1 Infinite Jumps
+: 8023BCA0 0001 Bonus 3 Race P2 Infinite Jumps
+: 8023C7F0 0001 Bonus 3 Race P3 Infinite Jumps
+: 8023D340 0001 Bonus 3 Race P4 Infinite Jumps
+: 800A4D09 0008 Vs Mode Level Play on Mushroom Kingdom
+: 800A4D09 0009 Vs Mode Level Play on Kirby Beta Level 1
+: 800A4D09 000A Vs Mode Level Play on Kirby Beta Level 2
+: 800A4D09 000B Vs Mode Level Play on How to Play SSB Demo
+: 800A4D09 000D Vs Mode Level Play on Metal Mario Level
+: 800A4D09 000E Vs Mode Level Play on Fighting Polygon Team Level
+: 800A4D09 000F Vs Mode Level Play on Bonus 3 Level
+: 800A4D09 0010 Vs Mode Level Play on Master Hand's Level
+: 800A4D2B 000C P1 Vs Mode Play as Master Hand
+: 800A4D2B 000D P1 Vs Mode Play as Metal Mario
+: 800A4D2B 001A P1 Vs Mode Play as Giant Donkey Kong
+: 800A4D9F 000C P2 Vs Mode Play as Master Hand
+: 800A4D9F 000D P2 Vs Mode Play as Metal Mario
+: 800A4D9F 001A P2 Vs Mode Play as Giant Donkey Kong
+: 800A4E13 000C P3 Vs Mode Play as Master Hand
+: 800A4E13 000D P3 Vs Mode Play as Metal Mario
+: 800A4E13 001A P3 Vs Mode Play as Giant Donkey Kong
+: 800A4E87 000C P4 Vs Mode Play as Master Hand
+: 800A4E87 000D P4 Vs Mode Play as Metal Mario
+: 800A4E87 001A P4 Vs Mode Play as Giant Donkey Kong
