@@ -1,0 +1,44 @@
+# Vigilante 8 - 2nd Offense (USA)
+
+: F117D514 1000 Enable Code (Must Be On)
+: F117D940 2400
+: F1170644 2400 Master Code
+: F117D940 2400
+: F11700D4 2400
+: F11700E0 2400
+: 5000120A 0000 P1 All Quests Complete
+: 81197FF0 01FF
+: 5000120A 0000 P2 All Quests Complete
+: 811980A4 01FF
+: 8114E324 2402 Infinite Health P1
+: 8114E326 0800
+: 8114E32C A462
+: 8114E32E 001C
+: 8114F38C A6E6 Infinite Ammo (Everything)
+: 8115EFC0 2400 Infinite Brimstone Burner (Firewall)
+: 8115F0F8 2400 Infinite Brimstone Burner (Hot Foot)
+: 8115EA04 2400 Infinite Brimstone Burner (Normal Shot)
+: 8115B548 2400 Infinite Bruiser Cannon Ammo (Bounceshot)
+: 8115B4E4 2400 Infinite Bruiser Cannon Ammo (Buckshot)
+: 8115B31C 2400 Infinite Bruiser Cannon Ammo (Cow Puncher)
+: 8115B03C 2400 Infinite Bruiser Cannon Ammo (Normal Shot)
+: 811595B0 2400 Infinite Bull's Eye Rockets (Normal Shot/Bastion Rockets)
+: 8115941C 2400 Infinite Bull's Eye Rockets (Road Runner)
+: 811595EC 2400 Infinite Bull's Eye Rockets (Stampede) - Never Stops
+: 81159620 2400
+: 81159638 2400
+: 8115A60C 2400 Infinite Interceptor Missiles (Afterburner)
+: 8115A648 2400 Infinite Interceptor Missiles (Halo Decoy)
+: 8115A484 2400 Infinite Interceptor Missiles (Normal Shot)
+: 8115D7D8 2400 Infinite Roadkill Mines (Bear Hug/Cactus Patch/Floating Mine)
+: 8115D67C 2400 Infinite Roadkill Mines (Normal Shot)
+: 8115C3D8 2400 Infinite Sky Hammer Mortars (Crater Maker)
+: 8115C444 2400 Infinite Sky Hammer Mortars (Normal Shot/Turtle Turnover/Flat Maker)
+: 5000120A 0000 P1 All Characters Have Max Attributes
+: 81197FF6 6464
+: 5000120A 0000
+: 81197FF8 6464
+: 5000120A 0000 P2 All Characters Have Max Attributes
+: 811980AA 6464
+: 5000120A 0000
+: 811980AC 6464

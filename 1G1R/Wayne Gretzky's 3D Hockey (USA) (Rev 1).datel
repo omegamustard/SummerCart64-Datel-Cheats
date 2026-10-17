@@ -1,0 +1,57 @@
+# Wayne Gretzky's 3D Hockey (USA) (Rev 1)
+
+: 810C7D22 0000 Infinite Fight Health P1
+: 810C7D52 0000 Infinite Fight Health P2
+: 8106D5BC 1000 Infinite Turbo (All Players)
+: 8106D5FC AE00
+: 8106D60C 2400
+: 81046064 2400
+: 810460F8 2400
+: 8105A664 2400 Every Shot Counts
+: 800C5652 0001 Extra Teams
+: 800C5674 0001 Trade Players
+: 81056FAC 1000 Turbo In Simulation Mode Has Slightly Longer Effect (Like Arcade Mode)
+: 81035A20 1000 Unlimited Fight Time
+: 81075114 2400 Players Never Get Out Of The Penalty Box
+: D20BA619 0010 Score From Anywhere - Hold R
+: 8105C520 1040
+: D00BA619 0010
+: 8105C520 2400
+: 8105549C 2400 Always Power Check
+: 810554AC 2400
+: 81038470 1000 Anger In Simulation Mode Builds At Arcade Mode Speed
+: 8104F584 1000 Can Do Power Shots In Simulation Mode
+: 81046164 2400
+: 8105E580 2400
+: 8103BA10 2400
+: 8104ED48 2400
+: 8107081C 2400
+: 8101B90C 1000 Can Edit Team Size And Penalty Options For Arcade Mode
+: 81054308 1000 Can Power Check In Simulation Mode
+: 81054558 2400
+: 8101CC24 1000 Can Set Team Size To Less Than 3
+: 8001CC93 0001
+: 8001CFE3 0001
+: 810384A8 3C0F Fight On Every Contact
+: 810384AA 42C8
+: 810384AC ACEF
+: 8105A640 0800 All Goals Count For The Away Team
+: 8105A642 001A
+: 81000068 3C06
+: 8100006A 800E
+: 8100006C 24C6
+: 8100006E 1AF0
+: 81000070 0801
+: 81000072 6992
+: 81000074 8CC8
+: 81000076 3460
+: 8105A640 0800 All Goals Count For The Home Team
+: 8105A642 0016
+: 81000058 3C06
+: 8100005A 800E
+: 8100005C 24C6
+: 8100005E 1AF0
+: 81000060 0801
+: 81000062 6992
+: 81000064 8CC8
+: 81000066 3460

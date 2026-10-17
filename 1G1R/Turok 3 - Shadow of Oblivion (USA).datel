@@ -1,0 +1,84 @@
+# Turok 3 - Shadow of Oblivion (USA)
+
+: F10DD2EC 2400 Master Code
+: 8168FB5C 270F Infinite 9999 Life Force Gems
+: 811659C4 FFFF Both-Res Have All Secrets
+: 811659C6 FFFF
+: 810C7490 2400 Both-Res Infinite Ammo (All Guns)
+: 810C8AF8 2400 Both-Res Infinite Health
+: 810C65C8 2400 Both-Res Invincible
+: 810C8AF8 0800 Both-Res Take Double Damage
+: 810C8AFA 0018
+: 81000060 0044
+: 81000062 1023
+: 81000064 080B
+: 81000066 22C0
+: 81000068 AE02
+: 8100006A 06E8
+: 810C7488 0800 Both-Res Use Twice As Much Ammo
+: 810C748A 001C
+: 810C748C 9482
+: 810C748E 0000
+: 81000070 0043
+: 81000072 1023
+: 81000074 080B
+: 81000076 1D24
+: 81000078 0043
+: 8100007A 1023
+: 813334FC 0063 Have 99 Life Force - No Expansion Pak
+: 8133394A 0100 Have Pistol + Infinite Ammo - No Expansion Pak
+: 8133392E 0064
+: 81333950 0100 Have Shotgun + Infinite Ammo - No Expansion Pak
+: 81333932 0064
+: 81332FDA 6400 Single Player Infinite Health
+: 813334FC 0063 Single Player Infinite Life Force
+: 80332FDB 0063 Single Player Have 99 Gems
+: 8033342D 0001 Single Player Have Assault Rifle
+: 80333427 0001 Single Player Have Bow
+: 80333437 0001 Single Player Have Cerebral Bore
+: 80333438 0001 Single Player Have Cerebral Burst
+: 8033343B 0001 Single Player Have Energy Grapple
+: 8033342E 0001 Single Player Have Firestorm Cannon
+: 80333431 0001 Single Player Have Fireswarm
+: 80333434 0001 Single Player Have Grenade Launcher
+: 8033342B 0001 Single Player Have Mag 60
+: 8033342A 0001 Single Player Have Pistol
+: 8033343A 0001 Single Player Have PSG
+: 80333423 0001 Single Player Have Razor Wind
+: 80333435 0001 Single Player Have RPG
+: 80333430 0001 Single Player Have Shotgun
+: 80333429 0001 Single Player Have Tek Bow
+: 80333433 0001 Single Player Have Vampire Gun
+: 81333410 0063 Single Player Infinite Ammo-Assault Rifle/Firestorm Cannon
+: 81333408 0063 Single Player Infinite Ammo-Bow/Tek Bow
+: 81333414 0063 Single Player Infinite Ammo-Cerebral Bore/Cerebral Burst
+: 8133340A 0063 Single Player Infinite Ammo-Grenade Launcher/RPG
+: 8133340E 0063 Single Player Infinite Ammo-Pistol/Mag 60
+: 81333412 0063 Single Player Infinite Ammo-Shotgun/Fireswarm
+: D0131EE7 0010 Single Player Press R for Moon Jump
+: 81332E30 43BC
+: D0131EE7 0018
+: 81332E30 43BC
+: 8033370D 0001 P1 Multi Have Assault Rifle
+: 80333077 0001 P1 Multi Have Bow
+: 80333717 0001 P1 Multi Have Cerebral Bore
+: 80333718 0001 P1 Multi Have Cerebral Burst
+: 8033371B 0001 P1 Multi Have Energy Grapple
+: 8033370E 0001 P1 Multi Have Firestorm Cannon
+: 80333711 0001 P1 Multi Have Fireswarm
+: 80333714 0001 P1 Multi Have Grenade Launcher
+: 8033370B 0001 P1 Multi Have Mag 60
+: 8033370A 0001 P1 Multi Have Pistol
+: 8033371A 0001 P1 Multi Have PSG
+: 80333715 0001 P1 Multi Have RPG
+: 80333710 0001 P1 Multi Have Shotgun
+: 80333076 0001 P1 Multi Have Spear
+: 80333079 0001 P1 Multi Have Tek Bow
+: 80333074 0001 P1 Multi Have Tomahawk
+: 80333713 0001 P1 Multi Have Vampire Gun
+: 813336F0 0063 P1 Multi Infinite Ammo-Assault Rifle/Firestorm Cannon
+: 813336E8 0063 P1 Multi Infinite Ammo-Bow/Tek Bow
+: 813336F4 0063 P1 Multi Infinite Ammo-Cerebral Bore/Cerebral Burst
+: 813336EA 0063 P1 Multi Infinite Ammo-Grenade Launcher/RPG
+: 813336EE 0063 P1 Multi Infinite Ammo-Pistol/Mag 60
+: 813336F2 0063 P1 Multi Infinite Ammo-Shotgun/Fireswarm

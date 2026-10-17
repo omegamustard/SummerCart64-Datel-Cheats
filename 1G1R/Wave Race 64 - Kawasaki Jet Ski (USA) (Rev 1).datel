@@ -1,0 +1,37 @@
+# Wave Race 64 - Kawasaki Jet Ski (USA) (Rev 1)
+
+: 811F13C4 2400 Don't Lose Power From Missing Buoys
+: 81076AA8 2400 Lap Timer Doesn't Run (Stays At 0'00'000)
+: 81078560 2400 Stunt Mode Timer Doesn't Count Down
+: 810770AC 2400 Misses Don't Count
+: 8107A520 2400 Disable Out Of Course Timer
+: 811F1FE0 2400 Out Of Course Timer Doesn't Count Down
+: 81076FC0 1000 Power Never Increases
+: 81076FC8 2400 Power Never Increases (Alternate 2)
+: 81076FB4 0801 Power Never Increases (Alternate 3)
+: 81076FB6 DBF4
+: 81076FC4 2400 Power Never Increases (Alternate 4)
+: 801CB343 0063 P1 99 Points
+: 801C293F 0000 P1 Always Place 1st
+: 801C2C24 00FF P1 Automatic Retire
+: 81228B46 FFFF P1 Get Lots of Points From Everything - Stunt Mode
+: 801C2A6F 0000 P1 Infinite Misses
+: 801C2A6F 00FF P1 Infinite Race
+: 801C2BFE 00FF P1 Infinite Time Stunt Mode
+: 801C2C43 00FF P1 Lap Counter Stays On-Screen
+: 801C293F 00FF P1 Always Be 4th Place/Glitchy Ranking
+: 800DAB65 0001 P1 Always Rides The Dolphin - Dolphin Park Only
+: 801C293B 0003 P1 Have No Laps To Race & Always Place First
+: 801C2C5B 0003
+: 801C2C23 00FF P1 Infinite Time Out Of Course
+: 811C2AD6 0000 P1 Lap Timer Below 0'00'10
+: 811C2AD6 00FF P1 Lap Timer Below 0'00'40
+: 801C2A67 0001 P1 Slow - Power Bar Doesn't Go Up
+: 801C293F 0001 P2 Always Place 2nd
+: 801C293F 0002 P2 Always Place 3rd
+: 801C293F 0003 P2 Always Place 4th
+: 811C2DE6 0000 P2 Infinite Misses
+: 801C2CB3 0003 P2 Have No Laps To Race & Always Place First
+: 801C2FD3 0003
+: 801C2F9B 00FF P2 Infinite Time Out Of Course
+: 811C2E4E 0000 P2 Lap Timer Below 0'00'10

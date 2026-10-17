@@ -1,0 +1,47 @@
+# Wipeout 64 (USA)
+
+: 8109BC68 0001 P1 Always Place First
+: 81091E06 0003
+: 8109BC6A 0001 P2 Always Place First
+: 8109BC6C 0001 P3 Always Place First
+: 8109BC6E 0001 P4 Always Place First
+: 81042C6C AC60 1-Hit Kills
+: 80091C24 0001 Activate Infinite Random Weapons After First Pick-Up Cheat
+: 80091C26 0001 Activate Infinite Shields Cheat
+: 80091C29 0001 Activate Piranha Cheat
+: 80091C28 0001 Activate Power-Up Weapons Cheat
+: 80091C2A 0001 Activate Velocitar Cheat
+: 80091C25 0001 Unlock All In-Game Cheat
+: 80091C2C 0020
+: 811BC6AE 001B All Weapons - Press C-Down at start of Race
+: 80091C24 0001
+: 80094F7E 0001 Enable Use Of Cyclone Option
+: 810CDE92 0960 Infinite Check Point Time P1
+: 810CE6BA 0960 Infinite Check Point Time P2
+: 810CE6BE 0960 Infinite Check Point Time P3
+: 810CE6C2 0960 Infinite Check Point Time P4
+: 81033C64 2400 Infinite Checkpoint Time (All)
+: 801BC52B 00FF Infinite Eliminations
+: 8109BCEE 0000 Infinite Shield P1
+: 8109BCF2 0000 Infinite Shield P2
+: 8109BCF6 0000 Infinite Shield P3
+: 8109BCFA 0000 Infinite Shield P4
+: D01BC502 0000 No Laps To Race
+: 811BC502 0300
+: 81042C68 2400 Nobody Takes Damage
+: 810CBB83 0003 Hold A+B for Infinite Boost
+: 810FCAC3 0003
+: 8122CE88 0001 Infinite Boost All The Time
+: D01BC502 0001 One Lap To Race
+: 811BC502 0300
+: 81052BA4 A074 Open All Challenge Levels
+: 81052BA8 1000
+: 800933C9 0001 Open Piranha II
+: 8009351D 0000 Open Super Combo Challenge
+: 80093249 0001 Open Velocitar
+: 810268EC 2400 Hitting Walls Doesn't Set the Speed to Zero
+: 810268F0 2400
+: 810268F4 2400
+: 810264AC 2400
+: 810264B0 2400
+: 810264B4 2400

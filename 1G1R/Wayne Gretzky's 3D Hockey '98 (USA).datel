@@ -1,0 +1,42 @@
+# Wayne Gretzky's 3D Hockey '98 (USA)
+
+: 8011C061 0000 Team 1 Scores 0 Points
+: 8011C061 0032 Team 1 Scores 50 Points
+: 8011F571 0000 Team 2 Scores 0 Points
+: 8011F571 0032 Team 2 Scores 50 Points
+: 80115A0C 0001 Extra Teams
+: 81115BDA 0000 Infinite Fight Health P1
+: 81115C0A 0000 Infinite Fight Health P2
+: 8101FE94 1000 Infinite Turbo (All Players)
+: 8101FECC AE20
+: 8101FED8 2400
+: 810AABF4 2400
+: 810AAC84 2400
+: 8103EC10 2400 Always Power Check
+: 8103EC24 2400
+: 810AACDC 2400 Can Do Power Shots In Simulation Mode
+: 8105FDCC 2400
+: 810801FC 2400
+: 81032594 1000
+: 810281D8 1000 Can Edit Team Size And Penalty Options For Arcade Mode
+: 81044B98 2400 Can Start Fights With Your Own Team - Fights End Instantly
+: 800CF766 0020 Get In Fights Constantly
+: 81062A70 2400 Goals Worth Nothing
+: 81099054 2400 Players Never Get Out Of The Penalty Box
+: D20D1FA5 0010 Score From Anywhere - Hold R
+: 810606D0 1040
+: D00D1FA5 0010
+: 810606D0 2400
+: 81062588 2400 Shots Worth Nothing
+: 81057040 2400 Stop Timer
+: 81057038 2400 Stop Timer (Alternate)
+: 81040AE8 1000 Turbo In Simulation Mode Has Slightly Longer Effect (Like Arcade Mode)
+: 81045720 1000 Unlimited Fight Time
+: 8103D404 1000 Can Power Check In Simulation Mode
+: 8103D548 2400
+: 8103D764 2400
+: 8108D09C 2400
+: 8103D704 2400
+: 810601B0 2400
+: 8103D6A0 2400
+: 8103D5F4 2400
