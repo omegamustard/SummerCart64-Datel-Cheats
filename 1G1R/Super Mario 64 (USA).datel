@@ -1,0 +1,184 @@
+# Super Mario 64 (USA)
+
+: 8133B226 FFFF Infinite Cap Usage
+: 8133B21E 08FF Infinite Energy & Breath
+: 81254208 2400 Infinite Health
+: 8033B21D 0064 Infinite Lives
+: D033AFA1 0020 Press L To Get 99 Coins
+: 8033B219 0063
+: 802F2F73 0002 Red Coins Are Worth 2 (Only Need 4 For a Star)
+: 812F2D70 AF08 Start Each Course With 8 Red Coins
+: 8034DF7F 0008 Have 8 Red Coins (Alternate)
+: 812F32E4 2400 Always Have 8 Red Coins On Bowser Levels
+: 802F2DDF 0000 No Red Coins Needed
+: 8105C31E 0000 0'00''0 Time In All Races
+: 8133B26C 0000
+: 8134E1EA 0000
+: 8134E1EE 0000
+: A032D58C 0001 Have Level Select
+: D033DF8F 0003 1-Hit Kill Dark Bowser
+: 8133DF8E 0000
+: 812C1368 1000 All 3 Switches Are Activated
+: 802C3AE3 00FF All Ghosts Always Look Solid
+: 8124E498 2400 All Star-Sealed Doors Unlock Without Any Stars
+: 81380D50 2400 Always Able To Walk Through Red Mesh
+: 8124EB14 1000 Always Fireproof
+: 812507A8 2400 Always Get The Second Star On Princess Secret Slide
+: 8126B828 2400 Always Have Special Triple Jump (Alternate)
+: 8125AAE8 1000 Always Invulnerable From To Being Crushed
+: 8124D94C 2400 Always Invulnerable To Most Things
+: 8124F374 2400 Always Kill Enemies On Contact
+: 8126A2C4 1000 Always Land Safely From Any Height
+: 812701D4 2400 Always Sink Toward The Bottom In Water
+: 81270258 2400 Always Stuck On The Bottom (Heavy) In Water
+: 812C236C 2400 Blue Coins Always Exist
+: 812C23E8 1000 Blue Coins From Timed Blocks Never Disappear
+: 812A36BC 1000
+: 812E757E 0000 Bombs Never Explode
+: 812B7F60 1000 Bowser In The Sky Doesn't Break The Platform After 2nd Hit
+: 81252FDC 2400 Can Always "Take Off" Triple Jump From A Standing Start
+: 81264358 2400 Can Always "Take Off" Triple Jump While Running
+: 8126EC90 1000 Can Always Fly On Triple Jump
+: 812541B8 2400 Can Breath Underwater Without Losing Energy
+: 812FD524 1000 Can Use Cannons in Koopa the Quick Race
+: 8033B223 0011 Can't Get Hurt By Anything
+: 8027A21C 0035 Cannon Outside Open, Moat Drained, Doors Unlocked, Switches Activated, Etc. (Game Complete)
+: 8125FE74 1000 Cannons Can Point As High As You Want
+: 8125FE90 1000 Cannons Can Point Lower
+: 8125FEAC 1000 Cannons Can Rotate 360 Degrees Around
+: 8125FECC 1000
+: 81254478 2400 Caps Never Run Out
+: 813050B6 01C2 Carpets In Rainbow Ride and some other platforms Stay Solid For 3 Times As Long
+: 8933B218 0063 Cheat Device Button For 99 Coins
+: 8124DC4C 3719 Collect Multiple Stars at a Time
+: 8124EC24 2400 Don't Take Damage, Run, or Burn From Fire
+: 812DCB74 2400 Exit Option Enabled On Pause Menu While Moving
+: 812DCB6E FFFF Exit Option Enabled On Pause Menu While Moving (Alternate)
+: 812DCB68 3C09 Exit Option Enabled On Pause Menu While Moving (Alternate 2)
+: 812DCB6A 0800
+: 8124E1D8 1000 Have Key To Basement
+: 8124E14C 1000 Have Key To Second Floor
+: 80275CBF 0000 Hold Any Direction To Get Bowser To Spin Faster
+: D033AFA1 0020 Press L Button To Levitate Code
+: 8133B1BC 4220
+: D033AFA1 0020
+: 8133B17C 0300
+: D033AFA1 0020
+: 8133B17E 0880
+: 81253BF0 2400 Walk Up Hills
+: 81264BBC 1000
+: 812A1C0E 0000 Infinite Whomp Coin Spawn
+: 8026FBDF 0081 Instant Double Jump
+: 8025251B 0081
+: 8126FBD4 0809 Instant Triple Jump
+: 8126FBD4 BF37
+: 8126FCE4 0000
+: 8126FCE4 C821
+: 812524E4 1000
+: 812525AC 1000
+: 8126A604 2400 Invincible When Falling From Very High
+: 81260EC8 0000 Mario Never Goes To Sleep
+: 81260ECA 0000
+: 81311F2C 1000 Never Cheated in Penguin Race
+: 81259CA8 2400 Never Lose Lives
+: 81259DC4 2400
+: 81254228 1000 No Max Health
+: 8124FBB8 35F9 Picking Up Any Cap Gives You All 3 Powers
+: 8124FBBA 000E
+: 81250900 1000 Walk On Lava
+: 81255490 1000 Walk On Quicksand
+: 8125572C 1000
+: 8125572E 0031
+: 812F8526 FFEF "Mips" The Rabbit Is Always There Even After Caught
+: 812F8534 2400
+: 812569AC 0809 Jump in Midair
+: 812569AE 0000
+: 81240000 3C1B
+: 81240002 8034
+: 81240004 877B
+: 81240006 AFA2
+: 81240008 337B
+: 8124000A 8000
+: 8124000C 101B
+: 8124000E 0003
+: 81240010 2400
+: 81240014 3C1B
+: 81240016 4256
+: 81240018 449B
+: 8124001A 4000
+: 8124001C 0809
+: 8124001E 5A6D
+: 81240020 E708
+: 81240022 004C
+: 81380EE0 1000 Walk Through Walls
+: 81255C3C 1000
+: 813813FC 2400
+: 81381B98 0809
+: 81381B9A 000C
+: 81240030 8FBB
+: 81240032 000C
+: 81240034 8F7B
+: 81240036 0000
+: 81240038 141B
+: 8124003A 0008
+: 8124003C 2400
+: 81240040 8FBB
+: 81240042 000C
+: 81240044 3C05
+: 81240046 8023
+: 81240048 2404
+: 8124004A 000A
+: 8124004C A4A4
+: 8124004E 0000
+: 81240050 AF65
+: 81240052 0000
+: 81240054 3C1B
+: 81240056 C5FF
+: 81240058 449B
+: 8124005A 0000
+: 8124005C 03E0
+: 8124005E 0008
+: 81240060 2400
+: 8020770C 00FF Have 7 Starts Bomb-Omb Battlefield
+: 8020770D 00FF Have 7 Starts Whomp's Fortress 
+: 8020770E 00FF Have 7 Starts Jolly Roger Bay 
+: 8020770F 00FF Have 7 Starts Cool, Cool Mountain
+: 80207710 00FF Have 7 Starts Big Boo's Haunt 
+: 80207711 00FF Have 7 Starts Hazy Maze Cave
+: 80207712 00FF Have 7 Starts Lethal Lava Land 
+: 80207713 00FF Have 7 Starts Shifting Sand Land 
+: 80207714 00FF Have 7 Starts Dire, Dire Docks 
+: 80207715 00FF Have 7 Starts Snowman's Land 
+: 80207716 00FF Have 7 Starts Wet-Dry World 
+: 80207717 00FF Have 7 Starts Tall, Tall Mountain  
+: 80207718 00FF Have 7 Starts Tiny-Huge Island 
+: 80207719 00FF Have 7 Starts Tick Tock Clock 
+: 8020771A 00FF Have 7 Starts Rainbow Ride 
+: 80207723 0001 Slot A Have All 120 Stars
+: 8020770B 00C7
+: 50001101 0000
+: 8020770C 00FF
+: 8020770A 007E Slot A Have All, Key doors unlocked and mote empty
+: 50000F01 0000 Slot A Codes Have All Max 100 Coin Records For All Levels
+: 80207725 0064
+: 80207793 0001 Slot B Have All 120 Stars
+: 8020777B 00C7
+: 50001101 0000
+: 8020777C 00FF
+: 8020777A 007E Slot B Have All, Key doors unlocked and mote empty
+: 50000F01 0000 Slot B Codes Have All Max 100 Coin Records For All Levels
+: 80207795 0064
+: 80207803 0001 Slot C Codes Have All Max 100 Coin Records For All Levels
+: 802077EB 00C7
+: 50001101 0000
+: 802077EC 00FF
+: 802077EA 007E Slot C Have All, Key doors unlocked and mote empty
+: 50000F01 0000 Slot C Codes Have All Max 100 Coin Records For All Levels
+: 80207805 0064
+: 80207873 0001 Slot D Codes Have All Max 100 Coin Records For All Levels
+: 8020785B 00C7
+: 50001101 0000
+: 8020785C 00FF
+: 8020785A 007E Slot D Have All, Key doors unlocked and mote empty
+: 50000F01 0000 Slot D Codes Have All Max 100 Coin Records For All Levels
+: 80207875 0064
