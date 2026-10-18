@@ -69,6 +69,16 @@
 : 8109940A FFFF Infinite Money (Championship Mode)
 : 8114FAD6 FFFF Infinite Money (Smackdown Mall Shop)
 : 81132ACC 2400 Never Lose Money When Buying Items In Smackdown Mall
+: 801F4F3C 0032 Create a Wrestler Offensive Strength Max Head
+: 801F4F3D 0032 Create a Wrestler Offensive Strength Max Body
+: 801F4F3E 0032 Create a Wrestler Offensive Strength Max Arms
+: 801F4F3F 0032 Create a Wrestler Offensive Strength Max Legs
+: 801F4F40 0032 Create a Wrestler Offensive Strength Max Flying
+: 801F4F41 0032 Create a Wrestler Defensive Strength Max Head
+: 801F4F42 0032 Create a Wrestler Defensive Strength Max Body
+: 801F4F43 0032 Create a Wrestler Defensive Strength Max Arms
+: 801F4F44 0032 Create a Wrestler Defensive Strength Max Legs
+: 801F4F45 0032 Create a Wrestler Defensive Strength Max Flying
 : 810BEE40 FFFF Have All Characters/Costumes/Moves
 : 810BEE42 FFFF
 : 810BEE44 FFFF
