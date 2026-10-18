@@ -139,21 +139,21 @@
 : 8124005C 03E0
 : 8124005E 0008
 : 81240060 2400
-: 8020770C 00FF Have 7 Starts Bomb-Omb Battlefield
-: 8020770D 00FF Have 7 Starts Whomp's Fortress 
-: 8020770E 00FF Have 7 Starts Jolly Roger Bay 
-: 8020770F 00FF Have 7 Starts Cool, Cool Mountain
-: 80207710 00FF Have 7 Starts Big Boo's Haunt 
-: 80207711 00FF Have 7 Starts Hazy Maze Cave
-: 80207712 00FF Have 7 Starts Lethal Lava Land 
-: 80207713 00FF Have 7 Starts Shifting Sand Land 
-: 80207714 00FF Have 7 Starts Dire, Dire Docks 
-: 80207715 00FF Have 7 Starts Snowman's Land 
-: 80207716 00FF Have 7 Starts Wet-Dry World 
-: 80207717 00FF Have 7 Starts Tall, Tall Mountain  
-: 80207718 00FF Have 7 Starts Tiny-Huge Island 
-: 80207719 00FF Have 7 Starts Tick Tock Clock 
-: 8020771A 00FF Have 7 Starts Rainbow Ride 
+: 8020770C 00FF Have 7 Stars Bomb-Omb Battlefield
+: 8020770D 00FF Have 7 Stars Whomp's Fortress 
+: 8020770E 00FF Have 7 Stars Jolly Roger Bay 
+: 8020770F 00FF Have 7 Stars Cool, Cool Mountain
+: 80207710 00FF Have 7 Stars Big Boo's Haunt 
+: 80207711 00FF Have 7 Stars Hazy Maze Cave
+: 80207712 00FF Have 7 Stars Lethal Lava Land 
+: 80207713 00FF Have 7 Stars Shifting Sand Land 
+: 80207714 00FF Have 7 Stars Dire, Dire Docks 
+: 80207715 00FF Have 7 Stars Snowman's Land 
+: 80207716 00FF Have 7 Stars Wet-Dry World 
+: 80207717 00FF Have 7 Stars Tall, Tall Mountain  
+: 80207718 00FF Have 7 Stars Tiny-Huge Island 
+: 80207719 00FF Have 7 Stars Tick Tock Clock 
+: 8020771A 00FF Have 7 Stars Rainbow Ride 
 : 80207723 0001 Slot A Have All 120 Stars
 : 8020770B 00C7
 : 50001101 0000
